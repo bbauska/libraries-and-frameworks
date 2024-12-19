@@ -1,13 +1,13 @@
 # libraries-and-frameworks
 Libraries and Frameworks in Web Front-End Development (coursera)
 
-What Is Ajax?
+## What Is Ajax?
 
 Ajax (sometimes written AJAX) stands for Asynchronous
 JavaScript And XML. The “XML” part isn’t that important—you
 don’t have to use XML to use Ajax (more on that in a moment).
 
-The “asynchronous” part is what matters.
+### The “asynchronous” part is what matters.
 
 Traditionally, when a user interacted with a web page in a way
 that required data to be delivered from the server, everything
@@ -50,7 +50,7 @@ of this and have made many of their libraries modular, and they continue to
 make efforts to optimize their code. In some cases, it’s also possible to cus-
 tomize the script and use just the parts you need.
 
-jQuery and Other Libraries
+## jQuery and Other Libraries
 
 As of this writing, the overwhelmingly dominant JavaScript library is jQuery
 (jquery.com). Chances are, if you use a library, it will be that one (or at least
@@ -71,18 +71,22 @@ Of course, jQuery isn’t the only library in town. Others include MooTools
 smaller JS libraries that handle specialized functions, because they are being
 created and made obsolete all the time, I recommend doing a web search for
 
-JavaScript Libraries
+## JavaScript Libraries
 
 “JavaScript libraries for _____________” and see what is available. Some
 library categories include the following:
-	• Forms
-	• Animation
-	• Image carousels
-	• Games
-	• Information graphics
-	• Image and 3-D effects for the canvas element
-	• String and math functions
-	• Database handling
-	• Touch gestures
+<ul>
+  <li>• Forms</li>
+  <li>• Animation</li>
+  <li>• Image carousels</li>
+  <li>• Games</li>
+  <li>• Information graphics</li>
+  <li>• Image and 3-D effects for the canvas element</li>
+  <li>• String and math functions</li>
+  <li>• Database handling</li>
+  <li>• Touch gestures</li>
+</ul>
+
+
 
 
