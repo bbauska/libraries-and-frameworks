@@ -87,6 +87,23 @@ library categories include the following:
   <li>• Touch gestures</li>
 </ul>
 
-
+Image Effects:
+Cropper.js:
+A versatile library for image cropping and resizing directly in the browser.
+Fabric.js:
+A powerful canvas library that allows you to manipulate images, draw shapes, and add text with ease.
+CamanJS:
+A library specializing in image filters and effects, providing a range of Instagram-like filters and adjustments.
+PixiJS:
+A fast 2D rendering library that can also be used for image manipulation and effects.
+3D Effects:
+Three.js:
+The most popular 3D library for the web, offering a comprehensive set of tools for creating 3D scenes, animations, and effects.
+Babylon.js:
+Another powerful 3D engine, offering a slightly different approach to Three.js, with a focus on performance and ease of use.
+Zdog:
+A lightweight library for creating flat, pseudo-3D designs with a designer-friendly API.
+A-Frame:
+A framework built on top of Three.js, making it easier to create WebVR experiences using HTML-like tags.
 
 
