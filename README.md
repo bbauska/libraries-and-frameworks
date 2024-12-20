@@ -1,8 +1,10 @@
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # libraries-and-frameworks
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Libraries and Frameworks in Web Front-End Development (coursera)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## What Is Ajax?
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Ajax (sometimes written AJAX) stands for Asynchronous
 JavaScript And XML. The “XML” part isn’t that important—you
 don’t have to use XML to use Ajax (more on that in a moment).
@@ -50,8 +52,9 @@ of this and have made many of their libraries modular, and they continue to
 make efforts to optimize their code. In some cases, it’s also possible to cus-
 tomize the script and use just the parts you need.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## jQuery and Other Libraries
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 As of this writing, the overwhelmingly dominant JavaScript library is jQuery
 (jquery.com). Chances are, if you use a library, it will be that one (or at least
 that one first). Written in 2005 by John Resig, jQuery has found its way into
@@ -71,11 +74,12 @@ Of course, jQuery isn’t the only library in town. Others include MooTools
 smaller JS libraries that handle specialized functions, because they are being
 created and made obsolete all the time, I recommend doing a web search for
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## JavaScript Libraries
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 “JavaScript libraries for _____________” and see what is available. Some
 library categories include the following:
-<ul>
+<ol start="1">
   <li>• Forms</li>
   <li>• Animation</li>
   <li>• Image carousels</li>
@@ -85,9 +89,8 @@ library categories include the following:
   <li>• String and math functions</li>
   <li>• Database handling</li>
   <li>• Touch gestures</li>
-</ul>
-
-### Image Effects:
+</ol>
+### Number 6 Image and 3-D Effects:
 #### Cropper.js:
 A versatile library for image cropping and resizing directly in the browser.
 #### Fabric.js:
@@ -97,7 +100,8 @@ A library specializing in image filters and effects, providing a range of Instag
 #### PixiJS:
 A fast 2D rendering library that can also be used for image manipulation and effects.
 
-### 3D Effects:
+### Number 6, cont'd: 3D Effects:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### Three.js:
 The most popular 3D library for the web, offering a comprehensive set of tools for creating 3D scenes, animations, and effects.
 #### Babylon.js:
@@ -107,18 +111,15 @@ A lightweight library for creating flat, pseudo-3D designs with a designer-frien
 #### A-Frame:
 A framework built on top of Three.js, making it easier to create WebVR experiences using HTML-like tags.
 
-
-## more libraries/frameworks
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### more libraries/frameworks
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 In this chapter, we will embark on a comprehensive exploration of JavaScript libraries and frameworks.
 
-JavaScript libraries and frameworks are invaluable tools that
-simplify and enhance the development process, enabling
-developers to build robust and efficient web applications. We
-will delve into an in-depth overview of popular JavaScript
-libraries and frameworks, including jQuery, React, and
-
-#### Vue.js:
+JavaScript libraries and frameworks are invaluable tools that simplify and enhance the 
+development process, enabling developers to build robust and efficient web applications.
+We will delve into an in-depth overview of popular JavaScript libraries and frameworks, 
+including jQuery, React, and Vue.js.
 By the end of this chapter, you will possess a solid understanding of these tools and how 
 they can revolutionize your JavaScript development workflow.
 
@@ -126,8 +127,8 @@ JavaScript libraries and frameworks are widely adopted in web development due to
 ability to streamline development tasks, improve code maintainability, and enhance user 
 experience. Let's take a closer look at some of the most influential JavaScript libraries 
 and frameworks available today:
-
-#### 1. jQuery: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### 1. jQuery: 
 jQuery is a fast, lightweight, and feature-rich JavaScript library that 
 simplifies HTML document traversal, event handling, and animation. It provides an 
 intuitive and concise API that enables developers to manipulate the DOM, handle 
@@ -135,8 +136,8 @@ events, perform AJAX requests, create animations, and more. jQuery's popularity
 stems from its ability to abstract away the complexities of cross-browser 
 compatibility and provide an easy-to-use interface for common JavaScript 
 operations.
-
-#### 2. React: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### 2. React: 
 React is a powerful JavaScript library
 developed by Facebook for building user interfaces.
 It adopts a component-based architecture, allowing
@@ -144,8 +145,8 @@ developers to build reusable UI components and
 efficiently update and render them as the application's state changes. React leverages a
 virtual DOM, which minimizes actual DOM manipulations and optimizes performance. React's
 popularity is driven by its simplicity, performance, and thriving ecosystem.
-
-#### 3. Vue.js:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### 3. Vue.js:
 Vue.js is a progressive JavaScript framework that excels in building user interfaces. It 
 boasts a gentle learning curve, making it accessible to newcomers, while providing 
 advanced features for seasoned developers. Vue.js embraces a component-based development 
@@ -154,78 +155,77 @@ reusable components. It offers powerful features such as declarative rendering, 
 data binding, computed properties, and a sophisticated reactivity system. Vue.js's 
 versatility and ease of integration with existing projects have contributed to its 
 popularity. 
-
-### INTRODUCTION TO JQUERY, REACT, AND VUE.JS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+## INTRODUCTION TO JQUERY, REACT, AND VUE.JS
 Let's dive deeper into the key features and benefits of three
 influential JavaScript libraries and frameworks: jQuery,
 React, and Vue.js. 
-
-#### jQuery
-#### Simplified DOM Manipulation: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### jQuery
+### Simplified DOM Manipulation: 
 jQuery provides a unified and streamlined API for DOM
 manipulation, making it effortless to select and modify HTML elements, handle events, 
 and traverse the DOM tree. 
-
-#### Cross-Browser Compatibility: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### Cross-Browser Compatibility: 
 jQuery abstracts away the differences in browser implementations,
 ensuring consistent behavior and easing the pain of dealing with browser quirks and
 inconsistencies. 
-
-#### AJAX
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### AJAX
 Support:
 jQuery simplifies AJAX communication by providing a set of convenient methods for making 
 asynchronous requests to servers, handling responses, and updating content on the webpage 
 dynamically. Rich Plugin Ecosystem: jQuery boasts a vast ecosystem of plugins that extend 
 its functionality. These plugins cover a wide range of use cases, from UI widgets and 
 effects to data visualization and form validation.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### React Component-Based Architecture:
-
 React revolutionized the web development landscape with its component-based architecture.
 Components encapsulate the logic and presentation of UI elements, allowing for modular 
 development, code reusability, and easier testing.
-
-#### Virtual DOM: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### Virtual DOM: 
 React employs a virtual DOM, a lightweight in-memory representation of the
 actual DOM. By using a virtual DOM, React optimizes rendering performance by selectively
 updating only the necessary parts of the UI, resulting in efficient and responsive
 applications.
-
-#### Unidirectional Data Flow: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### Unidirectional Data Flow: 
 React promotes a unidirectional data flow, where data flows from
 parent components to child components. This one-way data binding simplifies debugging,
 improves code predictability, and reduces side effects. 
-
-#### React Native: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### React Native: 
 React also offers React Native, a frameworkfor building cross-platform mobile
 applications using JavaScript. With React Native, developers can write code once and deploy 
 it on both iOS and Android platforms, saving time and effort. 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### Vue.js:
-
-#### Approachable Learning Curve: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### Approachable Learning Curve: 
 Vue.js stands out for its simplicity and ease of learning. 
 Its gentle learning curve enables developers to quickly grasp its core concepts and start
 building applications. The Vue CLI (Command Line Interface) provides a scaffold for 
 setting up Vue.js projects with ease.
-
-#### Flexible and Versatile: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### Flexible and Versatile: 
 Vue.js is designed to be flexible and adaptable to various 
 project sizes and requirements. Whether you're building a small application or a 
 large-scale single-page application, Vue.js provides the necessary tools and 
 features to handle the task at hand. 
-
-#### Vue Router and Vuex: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### Vue Router and Vuex: 
 Vue.js offers official plugins, such as Vue Router and Vuex, that seamlessly 
 integrate with the framework. Vue Router facilitates navigation between different
 views in a Vue.js application, while Vuex provides a state management pattern for
 managing application-wide data. 
-
-#### UNDERSTANDING THE BENEFITS OF USING LIBRARIES AND FRAMEWORKS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### UNDERSTANDING THE BENEFITS OF USING LIBRARIES AND FRAMEWORKS
 JavaScript libraries and frameworks offer numerous benefits
 that can significantly impact your development process and
 the quality of your applications:
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 1. Increased Productivity: Libraries and frameworks provide pre-built solutions for common tasks,
   reducing development time and effort. They abstract away the complexities, allowing developers
   to focus on building application-specific features rather than reinventing the wheel.
