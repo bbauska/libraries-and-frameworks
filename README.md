@@ -80,48 +80,56 @@ created and made obsolete all the time, I recommend doing a web search for
 “JavaScript libraries for _____________” and see what is available. Some
 library categories include the following:
 <ol start="1">
-  <li>• Forms</li>
-  <li>• Animation</li>
-  <li>• Image carousels</li>
-  <li>• Games</li>
-  <li>• Information graphics</li>
-  <li>• Image and 3-D effects for the canvas element</li>
-  <li>• String and math functions</li>
-  <li>• Database handling</li>
-  <li>• Touch gestures</li>
+  <li>Forms •</li>
+  <li>Animation •</li>
+  <li>Image carousels •</li>
+  <li>Games •</li>
+  <li>Information graphics •</li>
+  <li>Image and 3-D effects for the canvas element •</li>
+  <li>String and math functions •</li>
+  <li>Database handling •</li>
+  <li>Touch gestures •</li>
 </ol>
+
 ### Number 6 Image and 3-D Effects:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### Cropper.js:
 A versatile library for image cropping and resizing directly in the browser.
 #### Fabric.js:
-A powerful canvas library that allows you to manipulate images, draw shapes, and add text with ease.
+A powerful canvas library that allows you to manipulate images, draw shapes, and add text 
+with ease.
 #### CamanJS:
-A library specializing in image filters and effects, providing a range of Instagram-like filters and adjustments.
+A library specializing in image filters and effects, providing a range of Instagram-like 
+filters and adjustments.
 #### PixiJS:
 A fast 2D rendering library that can also be used for image manipulation and effects.
 
 ### Number 6, cont'd: 3D Effects:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### Three.js:
-The most popular 3D library for the web, offering a comprehensive set of tools for creating 3D scenes, animations, and effects.
+The most popular 3D library for the web, offering a comprehensive set of tools for 
+creating 3D scenes, animations, and effects.
 #### Babylon.js:
-Another powerful 3D engine, offering a slightly different approach to Three.js, with a focus on performance and ease of use.
+Another powerful 3D engine, offering a slightly different approach to Three.js, with a 
+focus on performance and ease of use.
 #### Zdog:
 A lightweight library for creating flat, pseudo-3D designs with a designer-friendly API.
 #### A-Frame:
-A framework built on top of Three.js, making it easier to create WebVR experiences using HTML-like tags.
+A framework built on top of Three.js, making it easier to create WebVR experiences using 
+HTML-like tags.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### more libraries/frameworks
+### More libraries/frameworks
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-In this chapter, we will embark on a comprehensive exploration of JavaScript libraries and frameworks.
+In this chapter, we will embark on a comprehensive exploration of JavaScript libraries 
+and frameworks.
 
 JavaScript libraries and frameworks are invaluable tools that simplify and enhance the 
 development process, enabling developers to build robust and efficient web applications.
 We will delve into an in-depth overview of popular JavaScript libraries and frameworks, 
-including jQuery, React, and Vue.js.
-By the end of this chapter, you will possess a solid understanding of these tools and how 
-they can revolutionize your JavaScript development workflow.
+including jQuery, React, and Vue.js. By the end of this chapter, you will possess a solid 
+understanding of these tools and how they can revolutionize your JavaScript development 
+workflow.
 
 JavaScript libraries and frameworks are widely adopted in web development due to their 
 ability to streamline development tasks, improve code maintainability, and enhance user 
@@ -129,22 +137,20 @@ experience. Let's take a closer look at some of the most influential JavaScript 
 and frameworks available today:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 1. jQuery: 
-jQuery is a fast, lightweight, and feature-rich JavaScript library that 
-simplifies HTML document traversal, event handling, and animation. It provides an 
-intuitive and concise API that enables developers to manipulate the DOM, handle 
-events, perform AJAX requests, create animations, and more. jQuery's popularity 
-stems from its ability to abstract away the complexities of cross-browser 
-compatibility and provide an easy-to-use interface for common JavaScript 
-operations.
+jQuery is a fast, lightweight, and feature-rich JavaScript library that simplifies HTML 
+document traversal, event handling, and animation. It provides an intuitive and concise 
+API that enables developers to manipulate the DOM, handle events, perform AJAX requests, 
+create animations, and more. jQuery's popularity stems from its ability to abstract away 
+the complexities of cross-browser compatibility and provide an easy-to-use interface for 
+common JavaScript operations.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2. React: 
-React is a powerful JavaScript library
-developed by Facebook for building user interfaces.
-It adopts a component-based architecture, allowing
-developers to build reusable UI components and
-efficiently update and render them as the application's state changes. React leverages a
-virtual DOM, which minimizes actual DOM manipulations and optimizes performance. React's
-popularity is driven by its simplicity, performance, and thriving ecosystem.
+React is a powerful JavaScript library developed by Facebook for building user 
+interfaces. It adopts a component-based architecture, allowing developers to build 
+reusable UI components and efficiently update and render them as the application's state 
+changes. React leverages a virtual DOM, which minimizes actual DOM manipulations and 
+optimizes performance. React's popularity is driven by its simplicity, performance, 
+and thriving ecosystem.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 3. Vue.js:
 Vue.js is a progressive JavaScript framework that excels in building user interfaces. It 
@@ -157,9 +163,8 @@ versatility and ease of integration with existing projects have contributed to i
 popularity. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## INTRODUCTION TO JQUERY, REACT, AND VUE.JS
-Let's dive deeper into the key features and benefits of three
-influential JavaScript libraries and frameworks: jQuery,
-React, and Vue.js. 
+Let's dive deeper into the key features and benefits of three influential JavaScript 
+libraries and frameworks: jQuery, React, and Vue.js. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### jQuery
 ### Simplified DOM Manipulation: 
