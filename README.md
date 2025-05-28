@@ -99,33 +99,34 @@ library categories include the following:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="1-forms">• Forms #1 JavaScript libraries for <b>Forms</b>: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <h4>Forms.js</h4>  -->
+<!--  <h3>Forms.js</h3>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<table>
+<!--
+<p>Is an advanced, lightweight JavaScript library designed to ease form 
+creation and management. Utilizing JSON for data input, it generates dynamic, 
+user-centric forms, offering an unparalleled development experience.</p>
+-->
+<table style="width:100%">
   <tr>
     <th>Name</th>
-	<th>Description</th>
 	<th>Website</th>
 	<th>GitHub</th>
 	<th>Demo</th>
 	<th>Type</th>
   </tr>
   <tr>
-	  <td><h4>Forms.js</h4></td>
-      <td>Is an advanced, lightweight JavaScript library designed to ease form 
-	  creation and management. Utilizing JSON for data input, it generates dynamic, 
-	  user-centric forms, offering an unparalleled development experience.</td>
-	  <td></td>
-	  <td></td>
-      <td></td>
-      <td>JSON</td>
-	</tr>
+    <td><h4>Forms.js</th></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>JSON</td>
+  </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>SurveyJS</h4>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><h4>SurveyJS</h4></td>
-    <td>Automate forms workflow and retain full ownership of respondent data.</td>
+<!--    <td>Automate forms workflow and retain full ownership of respondent data.</td>  -->
     <td></td>
     <td></td>
     <td></td>
@@ -133,10 +134,10 @@ library categories include the following:
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>Parsley JS</h4>  -->
+<!-- <td>Form validation library</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><h4>parsleyjs.org</h4></td>
-    <td>Form validation library</td>
 	<td>https://parsleyjs.org/</td>
 	<td>https://github.com/guillaumepotier/Parsley.js/</td>
     <td>https://parsleyjs.org/doc/examples.html</td>
@@ -144,32 +145,39 @@ library categories include the following:
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>Form validation</h4>  -->
+<!--    <td>Form validation library</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><h4>formvalidation.io</h4></td>
-    <td>Form validation library</td>
-    <td>Website: https://formvalidation.io/guide/examples/</td>
-    <td>Github: https://github.com/formvalidation/formvalidation</td>
-    <td>Demo: Price and License: Commercial, from $50 to $200</td>
-    <td>Type: JavaScript</td>
+    <td>https://formvalidation.io/guide/examples/</td>
+    <td>https://github.com/formvalidation/formvalidation</td>
+    <td>Price and License: Commercial, from $50 to $200</td>
+    <td>JavaScript</td>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>Validate JS</h4>
+<!--  <h4>Validate JS</h4>  -->
+<!--    <td>Form validation library</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Website: https://validatejs.org/
-Github: https://github.com/ansman/validate.js
-Demo: https://validatejs.org/examples.html
-Price and License: Free, MIT
-<p>Type: Form validation library</p>
+  <tr>
+    <td>ValidateJS</td>
+    <td>https://validatejs.org/</td>
+	<td>https://github.com/ansman/validate.js</td>
+    <td>https://validatejs.org/examples.html</td>
+	<td></td>
+	<td>JavaScript</td>
+  </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>Formbuilder</h4>
+<!--  <h4>Formbuilder</h4>  -->
+<!--    <p>Type: Online tool with a graphical interface for building forms</p>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Website: http://dobtco.github.io/formbuilder/
-Github: https://github.com/dobtco/formbuilder
-Demo: http://dobtco.github.io/formbuilder/
-Price and License: Free, MIT License
-<p>Type: Online tool with a graphical interface for building forms</p>
+  <tr>
+    <td><h4>Formbuilder</h4></td>
+    <td>http://dobtco.github.io/formbuilder/</td>
+    <td>https://github.com/dobtco/formbuilder</td>
+    <td>Price and License: Free, MIT License</td>
+    <td>Form builder</p>
+  </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>React Form Libraries</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -177,17 +185,13 @@ Price and License: Free, MIT License
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>Formbuilder. dev</h4>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<table>
-  <tbody>
-    <th>
-	  <td><h4>Formbuilder. dev</h4></td>
-      <td>Website: https://formbuilder.dev/</td>
-	  <td>Github: https://github.com/optimajet/formbuilder</td>
-	  <td>Demo: https://formbuilder.dev/demo/</td>
-      <td>Price and License: Free</td>
-      <td>Type: Online form builder</td>
-	</th>
-  </tbody>
+  <tr>
+    <td><h4>Formbuilder. dev</h4></td>
+    <td>https://formbuilder.dev/</td>
+    <td>https://github.com/optimajet/formbuilder</td>
+    <td>Demo: https://formbuilder.dev/demo/</td>
+    <td>Online form builder</td>
+  </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>React hook form</h4>
