@@ -432,37 +432,326 @@ at hand.</p>
 with the framework. Vue Router facilitates navigation between different views in a Vue.js 
 application, while Vuex provides a state management pattern for managing application-wide data.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="3-image-carousels">• Image Carousels #3 JavaScript libraries for Image Carousels: •</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<table style="width:75%">
+  <caption>Image Carousel #3 JS Libraries for Image Carousels</caption>
+  <tr>
+    <th>Name</th>
+	<th>Website</th>
+	<th>GitHub</th>
+	<th>Demo</th>
+	<th>Type</th>
+  </tr>
+</table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="4-games">• Games #4 JavaScript libraries for Games: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<table style="width:75%">
+  <caption>Games #4 JS Libraries for Games</caption>
+  <tr>
+    <th>Name</th>
+	<th>Website</th>
+	<th>GitHub</th>
+	<th>Demo</th>
+	<th>Type</th>
+  </tr>
+</table>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="5-info-graphics">• Info Graphics #5 JavaScript libraries for Information Graphics: •</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<table style="width:75%">
+  <caption>Info Graphics #5 JS Libraries for Information Graphics</caption>
+  <tr>
+    <th>Name</th>
+	<th>Website</th>
+	<th>GitHub</th>
+	<th>Demo</th>
+	<th>Type</th>
+  </tr>
+</table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="6-image-3d">• Image &amp; 3-D Effects #6 JavaScript libraries for Image and 3-D Effects for the canvas element: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<table style="width:75%">
+  <caption>Image &amp; 3-D Effects #6 JavaScript Libraries for Image and 3-D Effects for the canvas element</caption>
+  <tr>
+    <th>Name</th>
+	<th>Website</th>
+	<th>GitHub</th>
+	<th>Demo</th>
+	<th>Type</th>
+  </tr>
+  <tr>
+<!-- Three.js 
+A popular JavaScript library used for creating and displaying 3D 
+computer graphics on the web. It provides a high-level API that abstracts away the 
+complexities of WebGL, a low-level graphics API, making it easier for developers to 
+work with 3D graphics in the browser. 
+-->
+    <td><b><a href="https://themeselection.com/javascript-3d-library/?srsltid=AfmBOoqE0onQM6K-D6hFJAftUEq3m_22Z8lI8SaXa_8HUS0GYTLjQjKq#h-three-js" target="_blank" rel="noopener noreferrer">
+	  Three.js</a></b></td>
+    <td><a href="https://henryegloff.com/awesome-examples-of-three-js/" target="_blank" rel="noopener noreferrer">
+	  Three.js</a>
+    <td><a href="https://discourse.threejs.org/t/drei-reveal-demo-full-source/22935" target="_blank" rel="noopener noreferrer">
+	  Three.js GH</a></td>
+    <td><a href="https://codesandbox.io/p/sandbox/drei-reflector-bfplr" target="_blank" rel="noopener noreferrer">
+	  Sandbox Three.js</a></td>
+    <td>JS</td>
+<!--  https://threejs.org/manual/  -->
+  </tr>
+  <tr>
+    <td>Anime.js</td>
+<!--
+A lightweight library with a simple API that can animate HTML, CSS, JS, SVG and DOM 
+attributes. It has a built-in staggering system, callbacks and controls, and various 
+easing and animation effects.
+-->
+    <td><a href="https://animejs.com/" target="_blank" rel="noopener noreferrer">Website</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td>JS</td>
+  </tr>
+  <tr>
+    <td>Lottie</td>
+<!--
+A library that renders Adobe After Effects animations exported as JSON with the 
+Bodymovin plugin. It allows you to use complex animations created by designers 
+without coding them manually.
+-->
+    <td><a href="https://airbnb.io/lottie/#/" target="_blank" rel="noopener noreferrer">Website</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td>JS</td>
+  </tr>
+  <tr>
+    <td>ScrollReveal</td>
+<!--
+A library for easily animating elements as they enter/leave the viewport. It was 
+designed to be robust and flexible, but hopefully you’ll be surprised below at how 
+easy it is to pick up.
+-->
+    <td><a href="https://scrollrevealjs.org/" target="_blank" rel="noopener noreferrer">Website</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td>JS</td>
+  </tr>
+  <tr>
+    <td>Popmotion</td>
+<!--
+Tiny animator's toolbox supports keyframe and spring animations for numbers, colors and complex strings.
+-->
+    <td><a href="https://popmotion.io/" target="_blank" rel="noopener noreferrer">Website</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td>JS</td>
+  </tr>
+  <tr>
+    <td>Mo.js</td>
+<!--
+Motion graphics library provides built-in components to start animating from scratch 
+like html, shape, swirl, burst and stagger, but also bring you tools to help craft 
+your animation in a most natural way.
+-->
+    <td><a href="https://mojs.github.io/" target="_blank" rel="noopener noreferrer">Website</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td>JS</td>
+  </tr>
+  <tr>
+    <td>Velocity.js</td>
+<!--
+A library that combines the best of jQuery and CSS transitions. It can animate colors, 
+transforms, loops, easings, SVGs and more. It can work with or without jQuery and has 
+a high performance.
+Accelerated JavaScript animation.
+-->
+    <td><a href="http://velocityjs.org/" target="_blank" rel="noopener noreferrer">Website</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td>JS</td>
+  </tr>
+  <tr>
+    <td>GSAP</td>
+<!--
+GreenSock Animation Platform - A library for building high-performance animations that work in every major browser. It can animate anything on the web, including CSS, SVG, canvas, React, Vue and more. It has advanced features like motion paths, physics, morphing and more.
+-->
+    <td><a href="https://gsap.com/" target="_blank" rel="noopener noreferrer">Website</td>
+    <td><a href="https://github.com/greensock/GSAP" target="_blank" rel="noopener noreferrer">GitHub</td>
+    <td><a href="https://codepen.io/GreenSock/collections/" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td>JS</td>
+  </tr>
+  <tr>
+    <td>ScrollMagic</td>
+<!--
+A library for creating scroll interactions with JavaScript and CSS. It can trigger animations based on scroll position and pin elements within the viewport. It has over 11K stars on GitHub.
+-->
+    <td><a href="https://scrollmagic.io/" target="_blank" rel="noopener noreferrer">Website</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td>JS</td>
+  </tr>
+  <tr>
+    <td>Typed.js</td>
+<!--
+A library that types. Enter in any string, and watch it type at the speed you've set, 
+backspace what it's typed, and begin a new sentence for however many strings you've set.
+-->
+    <td><a href="https://github.com/mattboldt/typed.js" target="_blank" rel="noopener noreferrer">Website</td>
+    <td><a href="https://github.com/mattboldt/typed.js" target="_blank" rel="noopener noreferrer">GitHub</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td>JS</td>
+  </tr>
+</table>
+<h5>Three.js (99.1k ⭐)</h5>
+<p>— A popular JavaScript library used for creating and displaying 3D 
+computer graphics on the web. It provides a high-level API that abstracts away the 
+complexities of WebGL, a low-level graphics API, making it easier for developers to 
+work with 3D graphics in the browser.</p>
+
+<h5>Anime.js (48.8k ⭐)</h5>
+<p>— A lightweight library with a simple API that can animate HTML, 
+CSS, JS, SVG and DOM attributes. It has a built-in staggering system, callbacks and 
+controls, and various easing and animation effects.</p>
+
+<h5>Lottie (29.7k ⭐)</h5>
+<p>— A library that renders Adobe After Effects animations exported 
+as JSON with the Bodymovin plugin. It allows you to use complex animations created 
+by designers without coding them manually.</p>
+
+<h5>ScrollReveal (22.1k ⭐)</h5>
+<p>— A library for easily animating elements as they enter/leave 
+the viewport. It was designed to be robust and flexible, but hopefully you’ll be 
+surprised below at how easy it is to pick up.</p>
+
+<h5>Popmotion (19.8k ⭐)</h5>
+<p>— Tiny animator's toolbox supports keyframe and spring animations 
+for numbers, colors and complex strings.</p>
+
+<h5>Mo.js (18.3k ⭐)</h5>
+<p>— Motion graphics library provides built-in components to start 
+animating from scratch like html, shape, swirl, burst and stagger, but also bring 
+you tools to help craft your animation in a most natural way.</p>
+
+<h5>Velocity.js (17.3k ⭐)</h5>
+<p>— A library that combines the best of jQuery and CSS transitions.
+It can animate colors, transforms, loops, easings, SVGs and more. 
+It can work with or without jQuery and has a high performance.</p>
+
+<h5>GSAP (18.7k ⭐)</h5>
+<p>— A library for building high-performance animations that work in 
+every major browser. It can animate anything on the web, including CSS, SVG, canvas, 
+React, Vue and more. It has advanced features like motion paths, physics, morphing 
+and more.</p>
+
+<h5>ScrollMagic (14.8k ⭐)</h5>
+<p>— A library for creating scroll interactions with JavaScript 
+and CSS. It can trigger animations based on scroll position and pin elements within 
+the viewport. It has over 11K stars on GitHub.</p>
+
+<h5>Typed.js (14.8k ⭐)</h5>
+<p>— A library that types. Enter in any string, and watch it type 
+at the speed you've set, backspace what it's typed, and begin a new sentence for 
+however many strings you've set.</p>
+
+<table>
+  <tr>
+    <th></th>
+  </tr>
+  <tr>
+    <td>name</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td>JS</td>
+  </tr>
+</table>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="7-strings-math">• Strings &amp; Math #7 JavaScript libraries for Strings and Math Functions: •</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<table style="width:75%">
+  <caption>Database Handling #8 JS Libraries for Database Handling</caption>
+  <tr>
+	<th><b>JS library Name</b></th>
+	<th>Website:</th>
+	<th>GitHub:</th>
+    <th>Demo:</th>
+    <th>Type of library/framework:</th>
+  </th>
+  <tr>
+    <td>Data1</td>
+  </tr>
+</table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="8-database-handling">• DataBase Handling #8 JavaScript libraries for Database Handling: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<table style="width:75%">
+  <caption>Database Handling #8 JS Libraries for Database Handling</caption>
+  <tr>
+    <th><b>Name</b></th>
+	<th>Website</th>
+	<th>GitHub</th>
+	<th>Demo</th>
+	<th>Type/language</th>
+  </tr>
+  <tr>
+    <td><b>Name of website</b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td>JS</td>
+  </tr>
+</table>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="9-touch-gestures">• Touch Gestures #9 JavaScript libraries for Touch Gestures: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<table>
-  <tbody>
-    <th>
-	  <td><h4>JS library Name</h4></td>
-      <td>description</td>
-	  <td>Website:</td>
-	  <td>GitHub:</td>
-      <td>Demo:</td>
-      <td>Type of library/framework: </td>
-	</th>
-  </tbody>
+<table style="width:75%">
+  <caption>Touch Gestures #9 JS Libraries for Touch Gestures</caption>
+  <tr>
+    <th><b>Name</b></th>
+	<th>Website</th>
+	<th>GitHub</th>
+	<th>Demo</th>
+	<th>Type/language</th>
+  </tr>
+  <tr>
+    <td><b>Name of website</b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td>JS</td>
+  </tr>
 </table>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2><a href="https://byby.dev/js-search-libraries">Top 6 JavaScript SEARCH Libraries</a></h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>JavaScript search libraries are tools that enable you to perform full-text search on 
+data using JavaScript, either on the browser or on the server. They can help you create 
+fast and user-friendly search experiences for your web applications, without relying on 
+external search services or databases.</p>
 
-Website: 
-GitHub: 
-Demo: 
-Type: 
+<h3>Fuse.js (17.6k ⭐)</h3>
+<p>— A powerful, lightweight fuzzy-search library, with zero dependencies. It allows you 
+to perform approximate string matching on the client-side or the backend, without setting 
+up a dedicated search service. You can use it to search through arrays of strings or 
+objects, with different options for weighting, nesting, and extended search syntax.</p>
+
+<h3>List.js (11.2k ⭐)</h3>
+<p> — A vanilla JavaScript library that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything. It can work with existing HTML or create its own HTML from scratch. You can customize the options for value names, item templates, pagination and more.</p>
+
+<h3>FlexSearch.js (12k ⭐)</h3>
+<p> — A next-generation full-text search library for Browser and Node.js with zero dependencies. It claims to be the web’s fastest and most memory-efficient search library, with features like contextual indexing, document indexing, web workers, and more.</p>
+
+<h3>Lunr.js (8.8k ⭐)</h3>
+<p>— A small, full-text search library for use in the browser or on the server with Node.js. It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries. It is designed to be easy to set up and use, without the need for external search services.</p>
+
+<h3>Orama (8.2k ⭐)</h3>
+<p>— A fast, batteries-included, full-text search engine entirely written in TypeScript, designed to work on any runtime and has no dependencies. Orama also supports plugins to extend its functionality and integrate with other frameworks.</p>
+
+<h3>MiniSearch (4.2k ⭐)</h3>
+<p>— A tiny but powerful in-memory fulltext search engine written in JavaScript. It is respectful of resources, and it can comfortably run both in Node and in the browser. MiniSearch addresses use cases where full-text search features are needed (e.g. prefix search, fuzzy search, ranking, boosting of fields…), but the data to be indexed can fit locally in the process memory.</p>
 
 
 <h7>Date Created: 5/27/2025 10:00p<br>
