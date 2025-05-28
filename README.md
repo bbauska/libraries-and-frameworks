@@ -99,7 +99,7 @@ library categories include the following:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="1-forms">• Forms #1 JavaScript libraries for <b>Forms</b>: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>Forms.js</h4>
+<!--  <h4>Forms.js</h4>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <table>
   <tbody>
@@ -213,7 +213,7 @@ Price and License: Free, MIT License
 <p>Type: React form builder and validation library</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="2-animation">• Number 2 JavaScript libraries for Animation: •</h2>
+<h2 id="2-animation">• Animation #2 JavaScript libraries for Animation: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Cropper.js:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -402,20 +402,33 @@ provides the necessary tools and features to handle the task at hand.</p>
 with the framework. Vue Router facilitates navigation between different views in a Vue.js 
 application, while Vuex provides a state management pattern for managing application-wide data.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="3-image-carousels">• Number 3 JavaScript libraries for Image Carousels: •</h2>
+<h2 id="3-image-carousels">• Image Carousels #3 JavaScript libraries for Image Carousels: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="4-games">• Number 4 JavaScript libraries for Games: •</h2>
+<h2 id="4-games">• Games #4 JavaScript libraries for Games: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="5-info-graphics">• Number 5 JavaScript libraries for Information Graphics: •</h2>
+<h2 id="5-info-graphics">• Info Graphics #5 JavaScript libraries for Information Graphics: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="6-image-3d">• Number 6 JavaScript libraries for Image and 3-D Effects for the canvas element: •</h2>
+<h2 id="6-image-3d">• Image &amp; 3-D Effects #6 JavaScript libraries for Image and 3-D Effects for the canvas element: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="7-strings-math">• Number 7 JavaScript libraries for Strings and Math Functions: •</h2>
+<h2 id="7-strings-math">• Strings &amp; Math #7 JavaScript libraries for Strings and Math Functions: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="8-database-handling">• Number 8 JavaScript libraries for Database Handling: •</h2>
+<h2 id="8-database-handling">• DataBase Handling #8 JavaScript libraries for Database Handling: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="9-touch-gestures">• Number 9 JavaScript libraries for Touch Gestures: •</h2>
+<h2 id="9-touch-gestures">• Touch Gestures #9 JavaScript libraries for Touch Gestures: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<table>
+  <tbody>
+    <th>
+	  <td><h4>JS library Name</h4></td>
+      <td>description</td>
+	  <td>Website:</td>
+	  <td>GitHub:</td>
+      <td>Demo:</td>
+      <td>Type of library/framework: </td>
+	</th>
+  </tbody>
+</table>
+
 Website: 
 GitHub: 
 Demo: 
@@ -424,3 +437,4 @@ Type:
 
 <h7>Date Created: 5/27/2025 10:00p<br>
 Date Last Editted: 5/27/2025 10:41p</h7>
+Date Last Editted: 5/28/2025 12:35p</h7>
