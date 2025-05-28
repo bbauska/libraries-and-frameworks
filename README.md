@@ -108,14 +108,14 @@ user-centric forms, offering an unparalleled development experience.</p>
 -->
 <table style="width:100%">
   <tr>
-    <th>Name</th>
-	<th>Website</th>
-	<th>GitHub</th>
-	<th>Demo</th>
-	<th>Type</th>
+    <th style="width:20%">Name</th>
+	<th style="width:20%">Website</th>
+	<th style="width:20%">GitHub</th>
+	<th style="width:20%">Demo</th>
+	<th style="width:10%">Type</th>
   </tr>
   <tr>
-    <td><h4>Forms.js</th></td>
+    <td><b>Forms.js</b></td>
     <td></td>
     <td></td>
     <td></td>
@@ -126,7 +126,7 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--    <td>Automate forms workflow and retain full ownership of respondent data.</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td><h4>SurveyJS</h4></td>
+    <td><b>SurveyJS</b></td>
     <td></td>
     <td></td>
     <td></td>
@@ -137,45 +137,44 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!-- <td>Form validation library</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td><h4>parsleyjs.org</h4></td>
+    <td><b><a href="https://parsleyjs.org">parsleyJS.org</a></b></td>
 	<td>https://parsleyjs.org/</td>
 	<td>https://github.com/guillaumepotier/Parsley.js/</td>
     <td>https://parsleyjs.org/doc/examples.html</td>
-    <td>JavaScript</td>
+    <td>JS</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>Form validation</h4>  -->
 <!--    <td>Form validation library</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td><h4>formvalidation.io</h4></td>
+    <td><b>formvalidation.io</b></td>
     <td>https://formvalidation.io/guide/examples/</td>
-    <td>https://github.com/formvalidation/formvalidation</td>
+    <td>https://github.com/anujsoft/formvalidation.io</td>
     <td>from $50 to $200</td>
-    <td>JavaScript</td>
+    <td>JS, YAML</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>Validate JS</h4>  -->
 <!--    <td>Form validation library</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td><h4>ValidateJS</h4></td>
+    <td><b>ValidateJS</b></td>
     <td>https://validatejs.org/</td>
 	<td>https://github.com/ansman/validate.js</td>
     <td>https://validatejs.org/examples.html</td>
-	<td></td>
-	<td>JavaScript</td>
+	<td>JS</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>Formbuilder</h4>  -->
 <!--    <p>Type: Online tool with a graphical interface for building forms</p>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td><h4>Formbuilder</h4></td>
+    <td><b>Formbuilder</b></td>
     <td>http://dobtco.github.io/formbuilder/</td>
     <td>https://github.com/dobtco/formbuilder</td>
     <td>Free, MIT License</td>
-    <td>Form builder</p>
+    <td>JSON</p>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>React Form Libraries</h4>  -->
@@ -186,34 +185,33 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--    <td>Online form builder</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td><h4>Formbuilder.dev</h4></td>
+    <td><b>Formbuilder.dev</b></td>
     <td>https://formbuilder.dev/</td>
     <td>https://github.com/optimajet/formbuilder</td>
     <td>https://formbuilder.dev/demo/</td>
-    <td>React Form</td>
+    <td>React</td>
   </tr>
-</table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>React hook form</h4>  -->
 <!--  <p>Type: Form builder and validation library</p>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td>React Hook Form</td>
+    <td><b>React Hook Form</b></td>
     <td>https://github.com/react-hook-form/react-hook-form</td>
     <td>https://react-hook-form.com/</td>
     <td>Free, MIT License</td>
-    <td>Form builder and validation library</td>
+    <td>React</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>Formik</h4>  -->
 <!--  <p>Type: React form builder and validation library</p>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td><a href="https://jaredpalmer.com/formik">formik</a></td>
+    <td><b><a href="https://jaredpalmer.com/formik">formik</a></b></td>
     <td>https://github.com/jaredpalmer/formik</td>
     <td>https://codesandbox.io/s/zKrK5YLDZ</td>
     <td>Free, MIT License</td>
-    <td>React form builder and validation library</td>
+    <td>React</td>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
