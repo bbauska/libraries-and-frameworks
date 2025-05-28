@@ -123,10 +123,10 @@ user-centric forms, offering an unparalleled development experience.</p>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>SurveyJS</h4>  -->
+<!--    <td>Automate forms workflow and retain full ownership of respondent data.</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><h4>SurveyJS</h4></td>
-<!--    <td>Automate forms workflow and retain full ownership of respondent data.</td>  -->
     <td></td>
     <td></td>
     <td></td>
@@ -151,16 +151,15 @@ user-centric forms, offering an unparalleled development experience.</p>
     <td><h4>formvalidation.io</h4></td>
     <td>https://formvalidation.io/guide/examples/</td>
     <td>https://github.com/formvalidation/formvalidation</td>
-    <td>Price and License: Commercial, from $50 to $200</td>
+    <td>from $50 to $200</td>
     <td>JavaScript</td>
   </tr>
-</table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>Validate JS</h4>  -->
 <!--    <td>Form validation library</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td>ValidateJS</td>
+    <td><h4>ValidateJS</h4></td>
     <td>https://validatejs.org/</td>
 	<td>https://github.com/ansman/validate.js</td>
     <td>https://validatejs.org/examples.html</td>
@@ -175,41 +174,48 @@ user-centric forms, offering an unparalleled development experience.</p>
     <td><h4>Formbuilder</h4></td>
     <td>http://dobtco.github.io/formbuilder/</td>
     <td>https://github.com/dobtco/formbuilder</td>
-    <td>Price and License: Free, MIT License</td>
+    <td>Free, MIT License</td>
     <td>Form builder</p>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>React Form Libraries</h4>
+<!--  <h4>React Form Libraries</h4>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>In this section, we have presented the best React form libraries.</p>
+<!--  <p>In this section, we have presented the best React form libraries.</p>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>Formbuilder. dev</h4>  -->
+<!--    <td>Online form builder</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td><h4>Formbuilder. dev</h4></td>
+    <td><h4>Formbuilder.dev</h4></td>
     <td>https://formbuilder.dev/</td>
     <td>https://github.com/optimajet/formbuilder</td>
-    <td>Demo: https://formbuilder.dev/demo/</td>
-    <td>Online form builder</td>
+    <td>https://formbuilder.dev/demo/</td>
+    <td>React Form</td>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>React hook form</h4>
+<!--  <h4>React hook form</h4>  -->
+<!--  <p>Type: Form builder and validation library</p>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Website: https://react-hook-form.com/
-Github: https://github.com/react-hook-form/react-hook-form
-Demo: https://react-hook-form.com/
-Price and License: Free, MIT License
-<p>Type: Form builder and validation library</p>
+  <tr>
+    <td>React Hook Form</td>
+    <td>https://github.com/react-hook-form/react-hook-form</td>
+    <td>https://react-hook-form.com/</td>
+    <td>Free, MIT License</td>
+    <td>Form builder and validation library</td>
+  </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>Formik</h4>
+<!--  <h4>Formik</h4>  -->
+<!--  <p>Type: React form builder and validation library</p>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Website: https://jaredpalmer.com/formik
-Github: https://github.com/jaredpalmer/formik
-Demo: https://codesandbox.io/s/zKrK5YLDZ
-Price and License: Free, MIT License
-<p>Type: React form builder and validation library</p>
-
+  <tr>
+    <td><a href="https://jaredpalmer.com/formik">formik</a></td>
+    <td>https://github.com/jaredpalmer/formik</td>
+    <td>https://codesandbox.io/s/zKrK5YLDZ</td>
+    <td>Free, MIT License</td>
+    <td>React form builder and validation library</td>
+  </tr>
+</table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="2-animation">• Animation #2 JavaScript libraries for Animation: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
