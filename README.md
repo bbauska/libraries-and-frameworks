@@ -8,26 +8,24 @@
 <p>JavaScript libraries and frameworks offer numerous benefits that can significantly 
 impact your development process and the quality of your applications:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-1. Increased Productivity: Libraries and frameworks provide pre-built solutions for common tasks,
+<ol type="1">
+  <li>Increased Productivity: Libraries and frameworks provide pre-built solutions for common tasks,
    reducing development time and effort. They abstract away the complexities, allowing developers
-   to focus on building application-specific features rather than reinventing the wheel.
-  
-2. Code Maintainability and Organization: Libraries and frameworks often encourage best
+   to focus on building application-specific features rather than reinventing the wheel.</li>
+  <li>Code Maintainability and Organization: Libraries and frameworks often encourage best
    practices and provide guidelines for code organization. By following their patterns and
-   conventions, developers can create well-structured, modular, and maintainable codebases.
-  
-3. Improved Performance: Many libraries and frameworks implement optimizations and performance 
+   conventions, developers can create well-structured, modular, and maintainable codebases.</li>
+  <li>Improved Performance: Many libraries and frameworks implement optimizations and performance 
    enhancements behind the scenes. For example, React's virtual DOM efficiently updates the UI, 
-   reducing unnecessary re-rendering and enhancing performance.
-  
-4. Cross-Browser Compatibility: Libraries and frameworks handle the nuances and inconsistencies
+   reducing unnecessary re-rendering and enhancing performance.</li>
+  <li>Cross-Browser Compatibility: Libraries and frameworks handle the nuances and inconsistencies
    across different browsers, ensuring that your code works consistently across various 
-   platforms and versions. This saves valuable time spent on browser-specific troubleshooting.
-
-5. Thriving Communities and Ecosystems: Popular libraries and frameworks have vibrant 
+   platforms and versions. This saves valuable time spent on browser-specific troubleshooting.</li>
+  <li>Thriving Communities and Ecosystems: Popular libraries and frameworks have vibrant 
    communities and extensive ecosystems. This means you have access to abundant resources, 
    documentation, tutorials, and a supportive community to help you along your development 
-   journey.
+   journey.</li>
+ </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ajax">What Is Ajax?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -99,7 +97,7 @@ library categories include the following:
   <li>• Touch gestures •</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="1-forms">• Number 1 JavaScript libraries for <b>Forms</b>: •</h2>
+<h2 id="1-forms">• Forms #1 JavaScript libraries for <b>Forms</b>: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Forms.js</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -157,11 +155,17 @@ Price and License: Free, MIT License
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Formbuilder. dev</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Website: https://formbuilder.dev/
-Github: –
-Demo: https://formbuilder.dev/demo/
-Price and License: Free
-Type: Online form builder
+<table>
+  <tbody>
+    <th>
+      <td>Website: https://formbuilder.dev/</td>
+	  <td>Github: –</td>
+	  <td>Demo: https://formbuilder.dev/demo/</td>
+      <td>Price and License: Free</td>
+      <td>Type: Online form builder</td>
+	</th>
+  </tbody>
+</table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>React hook form</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
