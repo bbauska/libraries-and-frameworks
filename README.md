@@ -2,6 +2,33 @@
 <h1 id="libs-and-frames">libraries and frameworks</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Libraries and Frameworks in Web Front-End Development (coursera)</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>UNDERSTANDING THE BENEFITS OF USING LIBRARIES AND FRAMEWORKS</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+JavaScript libraries and frameworks offer numerous benefits
+that can significantly impact your development process and
+the quality of your applications:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+1. Increased Productivity: Libraries and frameworks provide pre-built solutions for common tasks,
+  reducing development time and effort. They abstract away the complexities, allowing developers
+  to focus on building application-specific features rather than reinventing the wheel.
+  
+2. Code Maintainability and Organization: Libraries and frameworks often encourage best
+  practices and provide guidelines for code organization. By following their patterns and
+  conventions, developers can create well-structured, modular, and maintainable codebases.
+  
+3. Improved Performance: Many libraries and frameworks implement optimizations and performance 
+  enhancements behind the scenes. For example, React's virtual DOM efficiently updates the UI, 
+  reducing unnecessary re-rendering and enhancing performance.
+  
+4. Cross-Browser Compatibility: Libraries and frameworks handle the nuances and inconsistencies
+  across different browsers, ensuring that your code works consistently across various 
+  platforms and versions. This saves valuable time spent on browser-specific troubleshooting.
+
+5. Thriving Communities and Ecosystems: Popular libraries and frameworks have vibrant 
+  communities and extensive ecosystems. This means you have access to abundant resources, 
+  documentation, tutorials, and a supportive community to help you along your development 
+  journey.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ajax">What Is Ajax?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -99,10 +126,18 @@ library categories include the following:
 Is an advanced, lightweight JavaScript library designed to ease form creation and management. 
 Utilizing JSON for data input, it generates dynamic, user-centric forms, offering an 
 unparalleled development experience.
+Website: 
+GitHub: 
+Demo: 
+Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>SurveyJS</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Automate forms workflow and retain full ownership of respondent data.
+Website: 
+GitHub: 
+Demo: 
+Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Parsley JS</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -169,40 +204,73 @@ Type: React form builder and validation library
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Cropper.js:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>JS image cropper.</p>
+Website: https://fengyuanchen.github.io/cropperjs/v1/
+GitHub: https://github.com/fengyuanchen/cropperjs/tree/v1
+Demo: https://fengyuanchen.github.io/photo-editor/
+Type: JavaScript image cropper.
 A versatile library for image cropping and resizing directly in the browser.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Fabric.js:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 A powerful canvas library that allows you to manipulate images, draw shapes, and add text 
 with ease.
+Website: 
+GitHub: 
+Demo: 
+Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>CamanJS:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 A library specializing in image filters and effects, providing a range of Instagram-like 
 filters and adjustments.
+Website: 
+GitHub: 
+Demo: 
+Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>PixiJS:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 A fast 2D rendering library that can also be used for image manipulation and effects.
+Website: 
+GitHub: 
+Demo: 
+Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Three.js:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The most popular 3D library for the web, offering a comprehensive set of tools for 
 creating 3D scenes, animations, and effects.
+Website: 
+GitHub: 
+Demo: 
+Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Babylon.js:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Another powerful 3D engine, offering a slightly different approach to Three.js, with a 
 focus on performance and ease of use.
+Website: 
+GitHub: 
+Demo: 
+Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Zdog:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 A lightweight library for creating flat, pseudo-3D designs with a designer-friendly API.
+Website: 
+GitHub: 
+Demo: 
+Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>A-Frame:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 A framework built on top of Three.js, making it easier to create WebVR experiences using 
 HTML-like tags.
+Website: 
+GitHub: 
+Demo: 
+Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>More libraries/frameworks</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -325,34 +393,6 @@ Vue.js offers official plugins, such as Vue Router and Vuex, that seamlessly
 integrate with the framework. Vue Router facilitates navigation between different
 views in a Vue.js application, while Vuex provides a state management pattern for
 managing application-wide data. 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>UNDERSTANDING THE BENEFITS OF USING LIBRARIES AND FRAMEWORKS</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-JavaScript libraries and frameworks offer numerous benefits
-that can significantly impact your development process and
-the quality of your applications:
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-1. Increased Productivity: Libraries and frameworks provide pre-built solutions for common tasks,
-  reducing development time and effort. They abstract away the complexities, allowing developers
-  to focus on building application-specific features rather than reinventing the wheel.
-  
-2. Code Maintainability and Organization: Libraries and frameworks often encourage best
-  practices and provide guidelines for code organization. By following their patterns and
-  conventions, developers can create well-structured, modular, and maintainable codebases.
-  
-3. Improved Performance: Many libraries and frameworks implement optimizations and performance 
-  enhancements behind the scenes. For example, React's virtual DOM efficiently updates the UI, 
-  reducing unnecessary re-rendering and enhancing performance.
-  
-4. Cross-Browser Compatibility: Libraries and frameworks handle the nuances and inconsistencies
-  across different browsers, ensuring that your code works consistently across various 
-  platforms and versions. This saves valuable time spent on browser-specific troubleshooting.
-
-5. Thriving Communities and Ecosystems: Popular libraries and frameworks have vibrant 
-  communities and extensive ecosystems. This means you have access to abundant resources, 
-  documentation, tutorials, and a supportive community to help you along your development 
-  journey.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="3-image-carousels">Number 3 Image Carousels:</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -368,4 +408,7 @@ the quality of your applications:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="9-touch-gestures">Number 9 Touch Gestures:</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+Website: 
+GitHub: 
+Demo: 
+Type: 
