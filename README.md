@@ -102,63 +102,57 @@ library categories include the following:
 <!--  <h4>Forms.js</h4>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <table>
-  <tbody>
-    <th>
+  <tr>
+    <th>Name</th>
+	<th>Description</th>
+	<th>Website</th>
+	<th>GitHub</th>
+	<th>Demo</th>
+	<th>Type</th>
+  </tr>
+  <tr>
 	  <td><h4>Forms.js</h4></td>
       <td>Is an advanced, lightweight JavaScript library designed to ease form 
 	  creation and management. Utilizing JSON for data input, it generates dynamic, 
 	  user-centric forms, offering an unparalleled development experience.</td>
-	  <td>Website:</td>
-	  <td>GitHub:</td>
-      <td>Demo:</td>
-      <td>Type: JSON</td>
-	</th>
-  </tbody>
-</table>
+	  <td></td>
+	  <td></td>
+      <td></td>
+      <td>JSON</td>
+	</tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>SurveyJS</h4>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<table>
-  <tbody>
-    <th>
-	  <td><h4>SurveyJS</h4></td>
-      <td>Automate forms workflow and retain full ownership of respondent data.</td>
-	  <td>Website:</td>
-	  <td>GitHub:</td>
-      <td>Demo:</td>
-      <td>Type: JSON</td>
-	</th>
-  </tbody>
-</table>
+  <tr>
+    <td><h4>SurveyJS</h4></td>
+    <td>Automate forms workflow and retain full ownership of respondent data.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>JSON</td>
+  </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>Parsley JS</h4>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<table>
-  <tbody>
-    <th>
-	  <td><h4>parsleyjs.org</h4></td>
-      <td>Form validation library</td>
-	  <td>Website: https://parsleyjs.org/</td>
-	  <td>GitHub: https://github.com/guillaumepotier/Parsley.js/</td>
-      <td>Demo: https://parsleyjs.org/doc/examples.html</td>
-      <td>Type: JavaScript</td>
-	</th>
-  </tbody>
-</table>
+  <tr>
+    <td><h4>parsleyjs.org</h4></td>
+    <td>Form validation library</td>
+	<td>https://parsleyjs.org/</td>
+	<td>https://github.com/guillaumepotier/Parsley.js/</td>
+    <td>https://parsleyjs.org/doc/examples.html</td>
+    <td>JavaScript</td>
+  </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>Form validation</h4>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<table>
-  <tbody>
-    <th>
-	  <td><h4>formvalidation.io</h4></td>
-      <td>Form validation library</td>
-	  <td>Website: https://formvalidation.io/guide/examples/</td>
-	  <td>Github: https://github.com/formvalidation/formvalidation</td>
-      <td>Demo: Price and License: Commercial, from $50 to $200</td>
-      <td>Type: JavaScript</td>
-	</th>
-  </tbody>
+  <tr>
+    <td><h4>formvalidation.io</h4></td>
+    <td>Form validation library</td>
+    <td>Website: https://formvalidation.io/guide/examples/</td>
+    <td>Github: https://github.com/formvalidation/formvalidation</td>
+    <td>Demo: Price and License: Commercial, from $50 to $200</td>
+    <td>Type: JavaScript</td>
+  </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Validate JS</h4>
