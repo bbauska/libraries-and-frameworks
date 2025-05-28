@@ -101,37 +101,65 @@ library categories include the following:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Forms.js</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Is an advanced, lightweight JavaScript library designed to ease form creation and management. 
-Utilizing JSON for data input, it generates dynamic, user-centric forms, offering an unparalleled 
-development experience.</p>
-Website: 
-GitHub: 
-Demo: 
-Type: 
+<table>
+  <tbody>
+    <th>
+	  <td><h4>Forms.js</h4></td>
+      <td>Is an advanced, lightweight JavaScript library designed to ease form 
+	  creation and management. Utilizing JSON for data input, it generates dynamic, 
+	  user-centric forms, offering an unparalleled development experience.</td>
+	  <td>Website:</td>
+	  <td>GitHub:</td>
+      <td>Demo:</td>
+      <td>Type: JSON</td>
+	</th>
+  </tbody>
+</table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>SurveyJS</h4>
+<!--  <h4>SurveyJS</h4>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Automate forms workflow and retain full ownership of respondent data.</p>
-Website: 
-GitHub: 
-Demo: 
-Type: 
+<table>
+  <tbody>
+    <th>
+	  <td><h4>SurveyJS</h4></td>
+      <td>Automate forms workflow and retain full ownership of respondent data.</td>
+	  <td>Website:</td>
+	  <td>GitHub:</td>
+      <td>Demo:</td>
+      <td>Type: JSON</td>
+	</th>
+  </tbody>
+</table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>Parsley JS</h4>
+<!--  <h4>Parsley JS</h4>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Website: https://parsleyjs.org/
-Github: https://github.com/guillaumepotier/Parsley.js/
-Demo: https://parsleyjs.org/doc/examples.html
-Price and License: Free, MIT license
-<p>Type: Form validation library</p>
+<table>
+  <tbody>
+    <th>
+	  <td><h4>parsleyjs.org</h4></td>
+      <td>Form validation library</td>
+	  <td>Website: https://parsleyjs.org/</td>
+	  <td>GitHub: https://github.com/guillaumepotier/Parsley.js/</td>
+      <td>Demo: https://parsleyjs.org/doc/examples.html</td>
+      <td>Type: JavaScript</td>
+	</th>
+  </tbody>
+</table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>Form validation</h4>
+<!--  <h4>Form validation</h4>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Website: https://formvalidation.io/
-Github: https://github.com/formvalidation/formvalidation
-Demo: https://formvalidation.io/guide/examples/
-Price and License: Commercial, from $50 to $200
-<p>Type: Form validation library</p>
+<table>
+  <tbody>
+    <th>
+	  <td><h4>formvalidation.io</h4></td>
+      <td>Form validation library</td>
+	  <td>Website: https://formvalidation.io/guide/examples/</td>
+	  <td>Github: https://github.com/formvalidation/formvalidation</td>
+      <td>Demo: Price and License: Commercial, from $50 to $200</td>
+      <td>Type: JavaScript</td>
+	</th>
+  </tbody>
+</table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Validate JS</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -153,13 +181,14 @@ Price and License: Free, MIT License
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>In this section, we have presented the best React form libraries.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>Formbuilder. dev</h4>
+<!--  <h4>Formbuilder. dev</h4>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <table>
   <tbody>
     <th>
+	  <td><h4>Formbuilder. dev</h4></td>
       <td>Website: https://formbuilder.dev/</td>
-	  <td>Github: –</td>
+	  <td>Github: https://github.com/optimajet/formbuilder</td>
 	  <td>Demo: https://formbuilder.dev/demo/</td>
       <td>Price and License: Free</td>
       <td>Type: Online form builder</td>
