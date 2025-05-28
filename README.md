@@ -1,12 +1,10 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- REAME.md of https://github.com/bbauska/libraries-and-frameworks -->
 <h1 id="libs-and-frames">libraries and frameworks</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Libraries and Frameworks in Web Front-End Development (coursera)</p>
+<p>Libraries and Frameworks in Web Front-End Development</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>UNDERSTANDING THE BENEFITS OF USING LIBRARIES AND FRAMEWORKS</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>JavaScript libraries and frameworks offer numerous benefits that can significantly 
-impact your development process and the quality of your applications:</p>
+<h3>Benefits of using Libraries and Frameworks</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol type="1">
   <li>Increased Productivity: Libraries and frameworks provide pre-built solutions for common tasks,
@@ -29,45 +27,53 @@ impact your development process and the quality of your applications:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ajax">What Is Ajax?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Ajax (sometimes written AJAX) stands for Asynchronous JavaScript And XML. The “XML” part 
-isn’t that important—you don’t have to use XML to use Ajax (more on that in a moment).</p>
+<p><mark>Ajax</mark> (sometimes written AJAX) stands for <mark>Asynchronous JavaScript 
+And XML</mark>. The “XML” part isn’t that important—you don’t have to use XML to use 
+<mark>Ajax</mark> (more on that in a moment).</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The “asynchronous” part is what matters.</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Traditionally, when a user interacted with a web page in a way that required data to be 
-delivered from the server, everything had to stop and wait for the data, and the whole page 
-needed to reload when it was available. This made for a not especially smooth user experience.</p>
+<p>Traditionally, when a user interacted with a web page in a way that required data to 
+be delivered from the server, everything had to stop and wait for the data, and the 
+whole page needed to reload when it was available. This made for a not especially smooth 
+user experience.</p>
 
-<p>But with Ajax, because the page can get data from the server in the background, you can make 
-updates to the page based on user interaction smoothly and in real time without the page needing 
-to be reloaded. This makes web applications feel more like “real” applications.</p>
+<p>With <mark>Ajax</mark>, because the page can get data from the server in the 
+background, you can make updates to the page based on user interaction smoothly and in 
+real time without the page needing to be reloaded. This makes web applications feel 
+more like “real” applications.</p>
 
-<p>You see this on a number of modern websites, although sometimes it’s subtle. On Twitter, for 
-example, scrolling to the bottom of a page loads in a set of new tweets. Those aren’t hardcoded 
-in the page’s markup; they’re loaded dynamically as needed. Google’s image search uses a similar 
-approach. When you reach the bottom of the current page, you’re presented with a button that 
-allows you to load more‚ but you never navigate away from the current page.</p>
+<p>You see this on a number of modern websites, although sometimes it’s subtle. On 
+Twitter, for example, scrolling to the bottom of a page loads in a set of new tweets. 
+Those aren’t hardcoded in the page’s markup; they’re loaded dynamically as needed. 
+Google’s image search uses a similar approach. When you reach the bottom of the current 
+page, you’re presented with a button that allows you to load more‚ but you never 
+navigate away from the current page.</p>
 
-<p>The term “Ajax” was first coined by Jesse James Garrett in an article “Ajax: A New Approach to 
-Web Applications.” Ajax is not a single technology, but rather a combination of HTML, CSS, the DOM, 
-and JavaScript, including the XMLHttpRequest object, which allows data to be transferred asynchronously. 
-Ajax may use XML for data, but it has become more common to use JSON (JavaScript Object Notation), a 
-JavaScript-based and human-readable format, for data exchange.</p>
+<p>The term <mark>“Ajax”</mark> was first coined by Jesse James Garrett in an article 
+“Ajax: A New Approach to Web Applications.” Ajax is not a single technology, but 
+rather a combination of HTML, CSS, the DOM, and JavaScript, including the XMLHttpRequest 
+object, which allows data to be transferred asynchronously. Ajax may use XML for data, 
+but it has become more common to use JSON (JavaScript Object Notation), a JavaScript-
+based and human-readable format, for data exchange.</p>
 
-<p>Writing web applications with Ajax isn’t the type of thing you would do right out of the gate, 
-but many of the JavaScript libraries discussed in this chapter have built-in Ajax helpers and methods 
-that let you get started with significantly less effort. The disadvantage of libraries is that because 
-they generally contain all of their functionality in one big .js file, you may end up forcing your users 
-to download a lot of code that never gets used. But the library authors are aware of this and have made 
-many of their libraries modular, and they continue to make efforts to optimize their code. In some cases, 
-it’s also possible to customize the script and use just the parts you need.</p>
+<p>Writing web applications with Ajax isn’t the type of thing you would do right out of 
+the gate, but many of the JavaScript libraries discussed in this chapter have built-in 
+Ajax helpers and methods that let you get started with significantly less effort. The 
+disadvantage of libraries is that because they generally contain all of their 
+functionality in one big .js file, you may end up forcing your users to download a lot 
+of code that never gets used. But the library authors are aware of this and have made 
+many of their libraries modular, and they continue to make efforts to optimize their 
+code. In some cases, it’s also possible to customize the script and use just the parts 
+you need.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="jquery">jQuery and Other Libraries</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>As of this writing, the overwhelmingly dominant JavaScript library is jQuery (jquery.com). 
-Chances are, if you use a library, it will be that one (or at least that one first). Written in 
-2005 by John Resig, jQuery has found its way into over two-thirds of all websites. Furthermore, 
-if a site uses a library at all, there is a 97% chance that it’s jQuery.</p>
+<p>As of this writing, the overwhelmingly dominant JavaScript library is <mark>jQuery 
+(jquery.com)</mark>. Chances are, if you use a library, it will be that one (or at least 
+that one first). Written in 2005 by John Resig, jQuery has found its way into over 
+two-thirds of all websites. Furthermore, if a site uses a library at all, there is a 97% 
+chance that it’s jQuery.</p>
 
 <p>It is free, it’s open source, and it employs a syntax that makes it easy to use if you are 
 already handy with CSS, JavaScript, and the DOM. You can supplement jQuery with the jQuery UI 
@@ -76,10 +82,11 @@ expanding accordion lists, and simple animation effects. jQuery Mobile is anothe
 library that provides UI elements and polyfills designed to account for the variety of mobile 
 browsers and their notorious quirks.</p>
 
-<p>Of course, jQuery isn’t the only library in town. Others include MooTools (mootools.net), Dojo 
-(dojotoolkit.org), and Prototype (prototypejs.org). As for smaller JS libraries that handle 
-specialized functions, because they are being created and made obsolete all the time, I recommend 
-doing a web search for it.</p>
+<p>Of course, jQuery isn’t the only library in town. Others include <mark>MooTools 
+(mootools.net)</mark>, <mark>Dojo (dojotoolkit.org)</mark>, and <mark>Prototype 
+(prototypejs.org)</mark>. As for smaller JS libraries that handle specialized functions, 
+because they are being created and made obsolete all the time, I recommend doing a web 
+search for it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="js-libs">JavaScript Libraries</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -108,11 +115,11 @@ user-centric forms, offering an unparalleled development experience.</p>
 -->
 <table style="width:100%">
   <tr>
-    <th style="width:20%">Name</th>
-	<th style="width:20%">Website</th>
-	<th style="width:20%">GitHub</th>
-	<th style="width:20%">Demo</th>
-	<th style="width:10%">Type</th>
+    <th>Name</th>
+	<th>Website</th>
+	<th>GitHub</th>
+	<th>Demo</th>
+	<th>Type</th>
   </tr>
   <tr>
     <td><b>Forms.js</b></td>
@@ -137,9 +144,9 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!-- <td>Form validation library</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td><b><a href="https://parsleyjs.org">parsleyJS.org</a></b></td>
+    <td><b><a href="https://parsleyjs.org" target="_blank" rel="noopener noreferrer">parsleyJS.org</a></b></td>
 	<td>https://parsleyjs.org/</td>
-	<td>https://github.com/guillaumepotier/Parsley.js/</td>
+	<td><a href="https://github.com/guillaumepotier/Parsley.js/" target="_blank" rel="noopener noreferrer">ParsleyJS</td>
     <td>https://parsleyjs.org/doc/examples.html</td>
     <td>JS</td>
   </tr>
@@ -149,18 +156,18 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b>formvalidation.io</b></td>
-    <td>https://formvalidation.io/guide/examples/</td>
+    <td><a href="https://formvalidation.io/guide/examples/" target="_blank" rel="noopener noreferrer">formvalidation.io</a></td>
     <td>https://github.com/anujsoft/formvalidation.io</td>
     <td>from $50 to $200</td>
     <td>JS, YAML</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <h4>Validate JS</h4>  -->
+<!--  <h4>ValidateJS</h4>  -->
 <!--    <td>Form validation library</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b>ValidateJS</b></td>
-    <td>https://validatejs.org/</td>
+    <td><a href="https://validatejs.org/" target="_blank" rel="noopener noreferrer">ValidateJS</a></td>
 	<td>https://github.com/ansman/validate.js</td>
     <td>https://validatejs.org/examples.html</td>
 	<td>JS</td>
@@ -171,7 +178,7 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b>Formbuilder</b></td>
-    <td>http://dobtco.github.io/formbuilder/</td>
+    <td><a href="http://dobtco.github.io/formbuilder/" target="_blank" rel="noopener noreferrer">Formbuilder</a></td>
     <td>https://github.com/dobtco/formbuilder</td>
     <td>Free, MIT License</td>
     <td>JSON</p>
@@ -186,7 +193,7 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b>Formbuilder.dev</b></td>
-    <td>https://formbuilder.dev/</td>
+    <td><a href="https://formbuilder.dev/" target="_blank" rel="noopener noreferrer">Formbuilder.dev</a></td>
     <td>https://github.com/optimajet/formbuilder</td>
     <td>https://formbuilder.dev/demo/</td>
     <td>React</td>
@@ -197,8 +204,8 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b>React Hook Form</b></td>
-    <td>https://github.com/react-hook-form/react-hook-form</td>
-    <td>https://react-hook-form.com/</td>
+    <td><a href="https://github.com/react-hook-form/react-hook-form" target="_blank" rel="noopener noreferrer">ReactHookForm</a></td>
+    <td><a href="https://react-hook-form.com/" target="_blank" rel="noopener noreferrer">react hook form</a></td>
     <td>Free, MIT License</td>
     <td>React</td>
   </tr>
@@ -207,8 +214,8 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--  <p>Type: React form builder and validation library</p>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td><b><a href="https://jaredpalmer.com/formik">formik</a></b></td>
-    <td>https://github.com/jaredpalmer/formik</td>
+    <td><b><a href="https://jaredpalmer.com/formik" target="_blank" rel="noopener noreferrer">formik</a></b></td>
+    <td><a href="https://jaredpalmer.com/formik" target="_blank" rel="noopener noreferrer">formik</a></td>
     <td>https://codesandbox.io/s/zKrK5YLDZ</td>
     <td>Free, MIT License</td>
     <td>React</td>
@@ -306,16 +313,16 @@ and frameworks available today:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>1. jQuery:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>jQuery is a fast, lightweight, and feature-rich JavaScript library that simplifies HTML 
-document traversal, event handling, and animation. It provides an intuitive and concise 
-API that enables developers to manipulate the DOM, handle events, perform AJAX requests, 
-create animations, and more. jQuery's popularity stems from its ability to abstract away 
-the complexities of cross-browser compatibility and provide an easy-to-use interface for 
-common JavaScript operations.</p>
+<p><mark>jQuery</mark> is a fast, lightweight, and feature-rich JavaScript library that 
+simplifies HTML document traversal, event handling, and animation. It provides an 
+intuitive and concise API that enables developers to manipulate the DOM, handle events, 
+perform AJAX requests, create animations, and more. jQuery's popularity stems from its 
+ability to abstract away the complexities of cross-browser compatibility and provide an 
+easy-to-use interface for common JavaScript operations.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>2. React:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>React is a powerful JavaScript library developed by Facebook for building user 
+<p><mark>React</mark> is a powerful JavaScript library developed by Facebook for building user 
 interfaces. It adopts a component-based architecture, allowing developers to build 
 reusable UI components and efficiently update and render them as the application's state 
 changes. React leverages a virtual DOM, which minimizes actual DOM manipulations and 
@@ -324,27 +331,27 @@ and thriving ecosystem.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>3. Vue.js:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Vue.js is a progressive JavaScript framework that excels in building user interfaces. It 
-boasts a gentle learning curve, making it accessible to newcomers, while providing 
-advanced features for seasoned developers. Vue.js embraces a component-based development 
-approach, where complex user interfaces are constructed by composing self-contained and 
-reusable components. It offers powerful features such as declarative rendering, two-way
-data binding, computed properties, and a sophisticated reactivity system. Vue.js's 
-versatility and ease of integration with existing projects have contributed to its 
-popularity.</p>
+<p><mark>Vue.js</mark> is a progressive JavaScript framework that excels in building user 
+interfaces. It boasts a gentle learning curve, making it accessible to newcomers, while 
+providing advanced features for seasoned developers. Vue.js embraces a component-based 
+development approach, where complex user interfaces are constructed by composing self-
+contained and reusable components. It offers powerful features such as declarative 
+rendering, two-way data binding, computed properties, and a sophisticated reactivity 
+system. Vue.js's versatility and ease of integration with existing projects have 
+contributed to its popularity.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2>INTRODUCTION TO JQUERY, REACT, AND VUE.JS</h2>
+<h2>Introduction to jQuery, React, and Vue.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Let's dive deeper into the key features and benefits of three influential JavaScript libraries 
-and frameworks: jQuery, React, and Vue.js.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Let's dive deeper into the key features and benefits of three influential JavaScript 
+libraries and frameworks: <mark>jQuery, React, and Vue.js</mark>.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>jQuery</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Simplified DOM Manipulation:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>jQuery provides a unified and streamlined API for DOM
-manipulation, making it effortless to select and modify HTML elements, handle events, 
-and traverse the DOM tree.</p>
+<p>jQuery provides a unified and streamlined API for <mark>DOM manipulation</mark>, 
+making it effortless to select and modify HTML elements, handle events, and traverse the 
+DOM tree.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Cross-Browser Compatibility:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -353,50 +360,52 @@ and easing the pain of dealing with browser quirks and inconsistencies.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>AJAX</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>jQuery simplifies AJAX communication by providing a set of convenient methods for making 
-asynchronous requests to servers, handling responses, and updating content on the webpage 
-dynamically. Rich Plugin Ecosystem: jQuery boasts a vast ecosystem of plugins that extend 
-its functionality. These plugins cover a wide range of use cases, from UI widgets and 
-effects to data visualization and form validation.</p>
+<p>jQuery simplifies <mark>AJAX</mark> communication by providing a set of convenient 
+methods for making asynchronous requests to servers, handling responses, and updating 
+content on the webpage dynamically. Rich Plugin Ecosystem: jQuery boasts a vast 
+ecosystem of plugins that extend its functionality. These plugins cover a wide range of 
+use cases, from UI widgets and effects to data visualization and form validation.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>React Component-Based Architecture:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>React revolutionized the web development landscape with its component-based architecture.
-Components encapsulate the logic and presentation of UI elements, allowing for modular 
-development, code reusability, and easier testing.</p>
+<p>React revolutionized the web development landscape with its <mark>component-based 
+architecture</mark>. Components encapsulate the logic and presentation of UI elements, 
+allowing for modular development, code reusability, and easier testing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Virtual DOM:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>React employs a virtual DOM, a lightweight in-memory representation of the
+<p>React employs a <mark>virtual DOM</mark>, a lightweight in-memory representation of the
 actual DOM. By using a virtual DOM, React optimizes rendering performance by selectively
 updating only the necessary parts of the UI, resulting in efficient and responsive
 applications.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Unidirectional Data Flow:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>React promotes a unidirectional data flow, where data flows from parent components to child 
-components. This one-way data binding simplifies debugging, improves code predictability, and 
-reduces side effects.</p>
+<p><mark>React</mark> promotes a <mark>unidirectional data flow</mark>, where data flows 
+from parent components to child components. This one-way data binding simplifies 
+debugging, improves code predictability, and reduces side effects.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>React Native:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>React also offers React Native, a frameworkfor building cross-platform mobile applications 
-using JavaScript. With React Native, developers can write code once and deploy it on both iOS 
-and Android platforms, saving time and effort.</p>
+<p>React also offers <mark>React Native</mark>, a framework for building cross-platform 
+mobile applications using JavaScript. With React Native, developers can write code once 
+and deploy it on both iOS and Android platforms, saving time and effort.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Vue.js:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Approachable Learning Curve:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Vue.js stands out for its simplicity and ease of learning. Its gentle learning curve 
-enables developers to quickly grasp its core concepts and start building applications. The 
-Vue CLI (Command Line Interface) provides a scaffold for setting up Vue.js projects with ease.</p>
+<p><mark>Vue.js</mark> stands out for its simplicity and ease of learning. Its gentle 
+learning curve enables developers to quickly grasp its core concepts and start building 
+applications. The <mark>Vue CLI (Command Line Interface)</mark> provides a scaffold for 
+setting up Vue.js projects with ease.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Flexible and Versatile:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Vue.js is designed to be flexible and adaptable to various project sizes and requirements. 
-Whether you're building a small application or a large-scale single-page application, Vue.js 
-provides the necessary tools and features to handle the task at hand.</p>
+<p><mark>Vue.js</mark> is designed to be flexible and adaptable to various project sizes 
+and requirements. Whether you're building a small application or a large-scale single-
+page application, Vue.js provides the necessary tools and features to handle the task 
+at hand.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Vue Router and Vuex:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
