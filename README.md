@@ -90,6 +90,63 @@ library categories include the following:
   <li>Database handling •</li>
   <li>Touch gestures •</li>
 </ol>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+### Number 1 Forms:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+#### Forms.js
+Is an advanced, lightweight JavaScript library designed to ease form creation and management. 
+Utilizing JSON for data input, it generates dynamic, user-centric forms, offering an 
+unparalleled development experience.
+#### SurveyJS
+Automate forms workflow and retain full ownership of respondent data.
+#### Parsley Js
+Website: https://parsleyjs.org/
+Github: https://github.com/guillaumepotier/Parsley.js/
+Demo: https://parsleyjs.org/doc/examples.html
+Price and License: Free, MIT license
+Type: Form validation library
+#### Form validation
+Website: https://formvalidation.io/
+Github: https://github.com/formvalidation/formvalidation
+Demo: https://formvalidation.io/guide/examples/
+Price and License: Commercial, from $50 to $200
+Type: Form validation library
+#### Validate JS
+Website: https://validatejs.org/
+Github: https://github.com/ansman/validate.js
+Demo: https://validatejs.org/examples.html
+Price and License: Free, MIT
+Type: Form validation library
+#### Formbuilder
+Website: http://dobtco.github.io/formbuilder/
+Github: https://github.com/dobtco/formbuilder
+Demo: http://dobtco.github.io/formbuilder/
+Price and License: Free, MIT License
+Type: Online tool with a graphical interface for building forms
+#### React Form Libraries
+In this section, we have presented the best React form libraries.
+#### Formbuilder. dev
+Website: https://formbuilder.dev/
+Github: –
+Demo: https://formbuilder.dev/demo/
+Price and License: Free
+Type: Online form builder
+#### React hook form
+Website: https://react-hook-form.com/
+Github: https://github.com/react-hook-form/react-hook-form
+Demo: https://react-hook-form.com/
+Price and License: Free, MIT License
+Type: Form builder and validation library
+#### Formik
+Website: https://jaredpalmer.com/formik
+Github: https://github.com/jaredpalmer/formik
+Demo: https://codesandbox.io/s/zKrK5YLDZ
+Price and License: Free, MIT License
+Type: React form builder and validation library
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### Number 2 Animation:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ### Number 6 Image and 3-D Effects:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -103,9 +160,6 @@ A library specializing in image filters and effects, providing a range of Instag
 filters and adjustments.
 #### PixiJS:
 A fast 2D rendering library that can also be used for image manipulation and effects.
-
-### Number 6, cont'd: 3D Effects:
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### Three.js:
 The most popular 3D library for the web, offering a comprehensive set of tools for 
 creating 3D scenes, animations, and effects.
