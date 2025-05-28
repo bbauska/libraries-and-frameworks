@@ -246,7 +246,7 @@ user-centric forms, offering an unparalleled development experience.</p>
 <h4>Cropper.js:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>JS image cropper.</p>
-Website: https://fengyuanchen.github.io/cropperjs/v1/
+Website: <b>https://fengyuanchen.github.io/cropperjs/v1/</b>
 GitHub: https://github.com/fengyuanchen/cropperjs/tree/v1
 Demo: https://fengyuanchen.github.io/photo-editor/
 Type: JavaScript image cropper.
@@ -256,7 +256,7 @@ Type: JavaScript image cropper.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A powerful canvas library that allows you to manipulate images, draw shapes, and add text 
 with ease.</p>
-Website: 
+<b>Website:</b>
 GitHub: 
 Demo: 
 Type: 
@@ -265,7 +265,7 @@ Type:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A library specializing in image filters and effects, providing a range of Instagram-like 
 filters and adjustments.</p>
-Website: 
+<b>Website:</b>
 GitHub: 
 Demo: 
 Type: 
@@ -273,7 +273,7 @@ Type:
 <h4>PixiJS:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A fast 2D rendering library that can also be used for image manipulation and effects.</p>
-Website: 
+<b>Website:</b>
 GitHub: 
 Demo: 
 Type: 
@@ -282,7 +282,7 @@ Type:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The most popular 3D library for the web, offering a comprehensive set of tools for 
 creating 3D scenes, animations, and effects.</p>
-Website: 
+<b>Website:</b>
 GitHub: 
 Demo: 
 Type: 
@@ -291,7 +291,7 @@ Type:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Another powerful 3D engine, offering a slightly different approach to Three.js, with a 
 focus on performance and ease of use.</p>
-Website: 
+<b>Website:</b>
 GitHub: 
 Demo: 
 Type: 
@@ -299,7 +299,7 @@ Type:
 <h4>Zdog:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A lightweight library for creating flat, pseudo-3D designs with a designer-friendly API.</p>
-Website: 
+<b>Website:</b>
 GitHub: 
 Demo: 
 Type: 
@@ -308,7 +308,7 @@ Type:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A framework built on top of Three.js, making it easier to create WebVR experiences using 
 HTML-like tags.</p>
-Website: 
+<b>Website:</b>
 GitHub: 
 Demo: 
 Type: 
@@ -438,7 +438,7 @@ application, while Vuex provides a state management pattern for managing applica
 <table style="width:75%">
   <caption>Image Carousel #3 JS Libraries for Image Carousels</caption>
   <tr>
-    <th>Name</th>
+    <th><b>Name</b></th>
 	<th>Website</th>
 	<th>GitHub</th>
 	<th>Demo</th>
@@ -451,7 +451,7 @@ application, while Vuex provides a state management pattern for managing applica
 <table style="width:75%">
   <caption>Games #4 JS Libraries for Games</caption>
   <tr>
-    <th>Name</th>
+    <th><b>Name</b></th>
 	<th>Website</th>
 	<th>GitHub</th>
 	<th>Demo</th>
@@ -465,7 +465,7 @@ application, while Vuex provides a state management pattern for managing applica
 <table style="width:75%">
   <caption>Info Graphics #5 JS Libraries for Information Graphics</caption>
   <tr>
-    <th>Name</th>
+    <th><b>Name</b></th>
 	<th>Website</th>
 	<th>GitHub</th>
 	<th>Demo</th>
@@ -478,7 +478,7 @@ application, while Vuex provides a state management pattern for managing applica
 <table style="width:75%">
   <caption>Image &amp; 3-D Effects #6 JavaScript Libraries for Image and 3-D Effects for the canvas element</caption>
   <tr>
-    <th>Name</th>
+    <th><b>Name</b></th>
 	<th>Website</th>
 	<th>GitHub</th>
 	<th>Demo</th>
@@ -509,12 +509,12 @@ A lightweight library with a simple API that can animate HTML, CSS, JS, SVG and 
 attributes. It has a built-in staggering system, callbacks and controls, and various 
 easing and animation effects.
 -->
-    <td><a href="https://animejs.com/" target="_blank" rel="noopener noreferrer">
-	  Anime.js</td>
+    <td><b><a href="https://animejs.com/" target="_blank" rel="noopener noreferrer">
+	  Anime.js</a></b></td>
     <td><a href="https://github.com/topics/animejs?l=vue&o=desc&s=" target="_blank" rel="noopener noreferrer">
-	  Anime.js GH</td>
+	  Anime.js GH</a></td>
     <td><a href="https://freefrontend.com/anime-js-examples/" target="_blank" rel="noopener noreferrer">
-	  Anime.js Demo</td>
+	  Anime.js Demo</a></td>
     <td>JS</td>
   </tr>
   <tr>
@@ -524,12 +524,12 @@ A library that renders Adobe After Effects animations exported as JSON with the
 Bodymovin plugin. It allows you to use complex animations created by designers 
 without coding them manually.
 -->
-    <td><a href="https://airbnb.io/lottie/#/" target="_blank" rel="noopener noreferrer">
-	  Lottie</td>
+    <td><b><a href="https://airbnb.io/lottie/#/" target="_blank" rel="noopener noreferrer">
+	  Lottie</a></b></td>
     <td><a href="https://github.com/airbnb/lottie" target="_blank" rel="noopener noreferrer">
-	  Lottie GH</td>
+	  Lottie GH</a></td>
     <td><a href="https://lottiefiles.com/free-animations/demo" target="_blank" rel="noopener noreferrer">
-	  Lottie Demo</td>
+	  Lottie Demo</a></td>
     <a href="https://github.com/airbnb/lottie" target="_blank" rel="noopener noreferrer">
 	  JS</td>
   </tr>
@@ -540,8 +540,8 @@ A library for easily animating elements as they enter/leave the viewport. It was
 designed to be robust and flexible, but hopefully you’ll be surprised below at how 
 easy it is to pick up.
 -->
-    <td><a href="https://scrollrevealjs.org/" target="_blank" rel="noopener noreferrer">
-	  ScrollReveal</a></td>
+    <td><b><a href="https://scrollrevealjs.org/" target="_blank" rel="noopener noreferrer">
+	  ScrollReveal</a></b></td>
     <td><a href="https://github.com/topics/scrollreveal?l=javascript&o=desc&s=forks" target="_blank" rel="noopener noreferrer">
 	  ScrollReveal GH</a></td>
     <td><a href="https://codepen.io/whatthephuc/pen/LjPBZa" target="_blank" rel="noopener noreferrer">
@@ -555,8 +555,8 @@ easy it is to pick up.
 <!--
 Tiny animator's toolbox supports keyframe and spring animations for numbers, colors and complex strings.
 -->
-    <td><a href="https://popmotion.io/" target="_blank" rel="noopener noreferrer">
-	  Popmotion</a></td>
+    <td><b><a href="https://popmotion.io/" target="_blank" rel="noopener noreferrer">
+	  Popmotion</a></b></td>
     <td><a href="https://github.com/Popmotion/popmotion" target="_blank" rel="noopener noreferrer">
 	  Popmotion GH</a></td>
     <td><a href="https://popmotion.io/pose/examples/accordion/" target="_blank" rel="noopener noreferrer">
@@ -570,8 +570,8 @@ Motion graphics library provides built-in components to start animating from scr
 like html, shape, swirl, burst and stagger, but also bring you tools to help craft 
 your animation in a most natural way.
 -->
-    <td><a href="https://mojs.github.io/" target="_blank" rel="noopener noreferrer">
-	  Mo.js</a></td>
+    <td><b><a href="https://mojs.github.io/" target="_blank" rel="noopener noreferrer">
+	  Mo.js</a></b></td>
     <td><a href="https://github.com/mojs" target="_blank" rel="noopener noreferrer">
 	  Mo.js GH</a></td>
     <td><a href="https://codemyui.com/tag/mo-js/" target="_blank" rel="noopener noreferrer">
@@ -586,8 +586,8 @@ transforms, loops, easings, SVGs and more. It can work with or without jQuery an
 a high performance.
 Accelerated JavaScript animation.
 -->
-    <td><a href="http://velocityjs.org/" target="_blank" rel="noopener noreferrer">
-	  Velocity.js</a></td>
+    <td><b><a href="http://velocityjs.org/" target="_blank" rel="noopener noreferrer">
+	  Velocity.js</a></b></td>
     <td><a href="https://github.com/cohenerickson/Velocity" target="_blank" rel="noopener noreferrer">
 	  Velocity GH</a></td>
     <td><a href="https://codemyui.com/tag/velocity-js/" target="_blank" rel="noopener noreferrer">
@@ -599,7 +599,8 @@ Accelerated JavaScript animation.
 <!--
 GreenSock Animation Platform - A library for building high-performance animations that work in every major browser. It can animate anything on the web, including CSS, SVG, canvas, React, Vue and more. It has advanced features like motion paths, physics, morphing and more.
 -->
-    <td><a href="https://gsap.com/" target="_blank" rel="noopener noreferrer">GSAP.com</a></td>
+    <td><b><a href="https://gsap.com/" target="_blank" rel="noopener noreferrer">
+	  GSAP.com</a></b></td>
     <td><a href="https://github.com/greensock/GSAP" target="_blank" rel="noopener noreferrer">
 	  GSAP GH</a></td>
     <td><a href="https://codepen.io/GreenSock/collections/" target="_blank" rel="noopener noreferrer">
@@ -612,8 +613,8 @@ GreenSock Animation Platform - A library for building high-performance animation
 <!--
 A library for creating scroll interactions with JavaScript and CSS. It can trigger animations based on scroll position and pin elements within the viewport. It has over 11K stars on GitHub.
 -->
-    <td><a href="https://scrollmagic.io/" target="_blank" rel="noopener noreferrer">
-	  ScrollMagic.io</a></td>
+    <td><b><a href="https://scrollmagic.io/" target="_blank" rel="noopener noreferrer">
+	  ScrollMagic.io</a></b></td>
     <td><a href="https://github.com/ANSHPG/SCROLL-MAGIC" target="_blank" rel="noopener noreferrer">
 	  ScrollMagic GH</a></td>
     <td><a href="https://scrollmagic.io/examples/" target="_blank" rel="noopener noreferrer">
@@ -626,8 +627,8 @@ A library for creating scroll interactions with JavaScript and CSS. It can trigg
 A library that types. Enter in any string, and watch it type at the speed you've set, 
 backspace what it's typed, and begin a new sentence for however many strings you've set.
 -->
-    <td><a href="https://github.com/mattboldt/typed.js" target="_blank" rel="noopener noreferrer">
-	  Typed.js</a></td>
+    <td><b><a href="https://github.com/mattboldt/typed.js" target="_blank" rel="noopener noreferrer">
+	  Typed.js</a></b></td>
     <td><a href="https://github.com/mattboldt/typed.js" target="_blank" rel="noopener noreferrer">
 	  Typed.js GH</a></td>
     <td><a href="https://codepen.io/merb/pen/yOwJjj" target="_blank" rel="noopener noreferrer">
@@ -691,7 +692,7 @@ however many strings you've set.</p>
     <th></th>
   </tr>
   <tr>
-    <td>name</td>
+    <td><b>name</b></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Website</td>
     <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
