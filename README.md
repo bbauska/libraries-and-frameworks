@@ -5,37 +5,35 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>UNDERSTANDING THE BENEFITS OF USING LIBRARIES AND FRAMEWORKS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-JavaScript libraries and frameworks offer numerous benefits
-that can significantly impact your development process and
-the quality of your applications:
+JavaScript libraries and frameworks offer numerous benefits that can significantly 
+impact your development process and the quality of your applications:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 1. Increased Productivity: Libraries and frameworks provide pre-built solutions for common tasks,
-  reducing development time and effort. They abstract away the complexities, allowing developers
-  to focus on building application-specific features rather than reinventing the wheel.
+   reducing development time and effort. They abstract away the complexities, allowing developers
+   to focus on building application-specific features rather than reinventing the wheel.
   
 2. Code Maintainability and Organization: Libraries and frameworks often encourage best
-  practices and provide guidelines for code organization. By following their patterns and
-  conventions, developers can create well-structured, modular, and maintainable codebases.
+   practices and provide guidelines for code organization. By following their patterns and
+   conventions, developers can create well-structured, modular, and maintainable codebases.
   
 3. Improved Performance: Many libraries and frameworks implement optimizations and performance 
-  enhancements behind the scenes. For example, React's virtual DOM efficiently updates the UI, 
-  reducing unnecessary re-rendering and enhancing performance.
+   enhancements behind the scenes. For example, React's virtual DOM efficiently updates the UI, 
+   reducing unnecessary re-rendering and enhancing performance.
   
 4. Cross-Browser Compatibility: Libraries and frameworks handle the nuances and inconsistencies
-  across different browsers, ensuring that your code works consistently across various 
-  platforms and versions. This saves valuable time spent on browser-specific troubleshooting.
+   across different browsers, ensuring that your code works consistently across various 
+   platforms and versions. This saves valuable time spent on browser-specific troubleshooting.
 
 5. Thriving Communities and Ecosystems: Popular libraries and frameworks have vibrant 
-  communities and extensive ecosystems. This means you have access to abundant resources, 
-  documentation, tutorials, and a supportive community to help you along your development 
-  journey.
+   communities and extensive ecosystems. This means you have access to abundant resources, 
+   documentation, tutorials, and a supportive community to help you along your development 
+   journey.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ajax">What Is Ajax?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Ajax (sometimes written AJAX) stands for Asynchronous
-JavaScript And XML. The “XML” part isn’t that important—you
-don’t have to use XML to use Ajax (more on that in a moment).
-
+Ajax (sometimes written AJAX) stands for Asynchronous JavaScript And XML. The 
+“XML” part isn’t that important—you don’t have to use XML to use Ajax (more on 
+that in a moment).
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The “asynchronous” part is what matters.</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -81,7 +79,7 @@ make efforts to optimize their code. In some cases, it’s also possible to cus-
 tomize the script and use just the parts you need.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2>jQuery and Other Libraries</h2>
+<h2 id="jquery">jQuery and Other Libraries</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 As of this writing, the overwhelmingly dominant JavaScript library is jQuery
 (jquery.com). Chances are, if you use a library, it will be that one (or at least
@@ -108,18 +106,18 @@ created and made obsolete all the time, I recommend doing a web search for
 “JavaScript libraries for _____________” and see what is available. Some
 library categories include the following:
 <ol start="1">
-  <li>Forms •</li>
-  <li>Animation •</li>
-  <li>Image carousels •</li>
-  <li>Games •</li>
-  <li>Information graphics •</li>
-  <li>Image and 3-D effects for the canvas element •</li>
-  <li>String and math functions •</li>
-  <li>Database handling •</li>
-  <li>Touch gestures •</li>
+  <li>• Forms •</li>
+  <li>• Animation •</li>
+  <li>• Image carousels •</li>
+  <li>• Games •</li>
+  <li>• Information graphics •</li>
+  <li>• Image and 3-D effects for the canvas element •</li>
+  <li>• String and math functions •</li>
+  <li>• Database handling •</li>
+  <li>• Touch gestures •</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="1-forms">Number 1 Forms:</h2>
+<h2 id="1-forms">• Number 1 Forms: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Forms.js</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -200,7 +198,7 @@ Price and License: Free, MIT License
 Type: React form builder and validation library
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="2-animation">Number 2 Animation:</h2>
+<h2 id="2-animation">• Number 2 Animation: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Cropper.js:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -307,7 +305,7 @@ changes. React leverages a virtual DOM, which minimizes actual DOM manipulations
 optimizes performance. React's popularity is driven by its simplicity, performance, 
 and thriving ecosystem.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>3. Vue.js:
+<h3>3. Vue.js:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Vue.js is a progressive JavaScript framework that excels in building user interfaces. It 
 boasts a gentle learning curve, making it accessible to newcomers, while providing 
@@ -394,21 +392,25 @@ integrate with the framework. Vue Router facilitates navigation between differen
 views in a Vue.js application, while Vuex provides a state management pattern for
 managing application-wide data. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="3-image-carousels">Number 3 Image Carousels:</h2>
+<h2 id="3-image-carousels">• Number 3 Image Carousels: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="4-games">Number 4 Games:</h2>
+<h2 id="4-games">• Number 4 Games: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="5-info-graphics">Number 5 Information Graphics:</h2>
+<h2 id="5-info-graphics">• Number 5 Information Graphics: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="6-image-3d">Number 6 Image and 3-D Effects for the canvas element:</h2>
+<h2 id="6-image-3d">• Number 6 Image and 3-D Effects for the canvas element: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="7-strings-math">Number 7 Strings and Math Functions:</h2>
+<h2 id="7-strings-math">• Number 7 Strings and Math Functions: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="8-database-handling">Number 8 Database Handling:</h2>
+<h2 id="8-database-handling">• Number 8 Database Handling: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="9-touch-gestures">Number 9 Touch Gestures:</h2>
+<h2 id="9-touch-gestures">• Number 9 Touch Gestures: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Website: 
 GitHub: 
 Demo: 
 Type: 
+
+
+<h7>Date Created: 5/27/2025 10:00p<br>
+Date Last Editted: 5/27/2025 10:41p</h7>
