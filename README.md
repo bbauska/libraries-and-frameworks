@@ -31,73 +31,57 @@ impact your development process and the quality of your applications:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ajax">What Is Ajax?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Ajax (sometimes written AJAX) stands for Asynchronous JavaScript And XML. The 
-“XML” part isn’t that important—you don’t have to use XML to use Ajax (more on 
-that in a moment).</p>
+<p>Ajax (sometimes written AJAX) stands for Asynchronous JavaScript And XML. The “XML” part 
+isn’t that important—you don’t have to use XML to use Ajax (more on that in a moment).</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The “asynchronous” part is what matters.</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Traditionally, when a user interacted with a web page in a way
-that required data to be delivered from the server, everything
-had to stop and wait for the data, and the whole page needed
-to reload when it was available. This made for a not especially
-smooth user experience.</p>
+<p>Traditionally, when a user interacted with a web page in a way that required data to be 
+delivered from the server, everything had to stop and wait for the data, and the whole page 
+needed to reload when it was available. This made for a not especially smooth user experience.</p>
 
-<p>But with Ajax, because the page can get data from the server
-in the background, you can make updates to the page based
-on user interaction smoothly and in real time without the page
-needing to be reloaded. This makes web applications feel more
-like “real” applications.</p>
+<p>But with Ajax, because the page can get data from the server in the background, you can make 
+updates to the page based on user interaction smoothly and in real time without the page needing 
+to be reloaded. This makes web applications feel more like “real” applications.</p>
 
-<p>You see this on a number of modern websites, although
-sometimes it’s subtle. On Twitter, for example, scrolling to the
-bottom of a page loads in a set of new tweets. Those aren’t
-hardcoded in the page’s markup; they’re loaded dynamically as
-needed. Google’s image search uses a similar approach. When
-you reach the bottom of the current page, you’re presented with
-a button that allows you to load more‚ but you never navigate
-away from the current page.</p>
+<p>You see this on a number of modern websites, although sometimes it’s subtle. On Twitter, for 
+example, scrolling to the bottom of a page loads in a set of new tweets. Those aren’t hardcoded 
+in the page’s markup; they’re loaded dynamically as needed. Google’s image search uses a similar 
+approach. When you reach the bottom of the current page, you’re presented with a button that 
+allows you to load more‚ but you never navigate away from the current page.</p>
 
-<p>The term “Ajax” was first coined by Jesse James Garrett in an
-article “Ajax: A New Approach to Web Applications.” Ajax is not a
-single technology, but rather a combination of HTML, CSS, the
-DOM, and JavaScript, including the XMLHttpRequest object,
-which allows data to be transferred asynchronously. Ajax may
-use XML for data, but it has become more common to use JSON
-(JavaScript Object Notation), a JavaScript-based and human-
-readable format, for data exchange.</p>
+<p>The term “Ajax” was first coined by Jesse James Garrett in an article “Ajax: A New Approach to 
+Web Applications.” Ajax is not a single technology, but rather a combination of HTML, CSS, the DOM, 
+and JavaScript, including the XMLHttpRequest object, which allows data to be transferred asynchronously. 
+Ajax may use XML for data, but it has become more common to use JSON (JavaScript Object Notation), a 
+JavaScript-based and human-readable format, for data exchange.</p>
 
-<p>Writing web applications with Ajax isn’t the type of thing you
-would do right out of the gate, but many of the JavaScript
-libraries discussed in this chapter have built-in Ajax helpers and
-methods that let you get started with significantly less effort.
-The disadvantage of libraries is that because they generally contain all of
-their functionality in one big .js file, you may end up forcing your users to
-download a lot of code that never gets used. But the library authors are aware
-of this and have made many of their libraries modular, and they continue to
-make efforts to optimize their code. In some cases, it’s also possible to cus-
-tomize the script and use just the parts you need.</p>
+<p>Writing web applications with Ajax isn’t the type of thing you would do right out of the gate, 
+but many of the JavaScript libraries discussed in this chapter have built-in Ajax helpers and methods 
+that let you get started with significantly less effort. The disadvantage of libraries is that because 
+they generally contain all of their functionality in one big .js file, you may end up forcing your users 
+to download a lot of code that never gets used. But the library authors are aware of this and have made 
+many of their libraries modular, and they continue to make efforts to optimize their code. In some cases, 
+it’s also possible to customize the script and use just the parts you need.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="jquery">jQuery and Other Libraries</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>As of this writing, the overwhelmingly dominant JavaScript library is jQuery
-(jquery.com). Chances are, if you use a library, it will be that one (or at least
-that one first). Written in 2005 by John Resig, jQuery has found its way into
-over two-thirds of all websites. Furthermore, if a site uses a library at all, there
-is a 97% chance that it’s jQuery.</p>
+<p>As of this writing, the overwhelmingly dominant JavaScript library is jQuery (jquery.com). 
+Chances are, if you use a library, it will be that one (or at least that one first). Written in 
+2005 by John Resig, jQuery has found its way into over two-thirds of all websites. Furthermore, 
+if a site uses a library at all, there is a 97% chance that it’s jQuery.</p>
 
-<p>It is free, it’s open source, and it employs a syntax that makes it easy to use if
-you are already handy with CSS, JavaScript, and the DOM. You can supple-
-ment jQuery with the jQuery UI library, which adds cool interface elements
-such as calendar widgets, drag-and-drop functionality, expanding accordion
-lists, and simple animation effects. jQuery Mobile is another jQuery-based
-library that provides UI elements and polyfills designed to account for the
-variety of mobile browsers and their notorious quirks.</p>
+<p>It is free, it’s open source, and it employs a syntax that makes it easy to use if you are 
+already handy with CSS, JavaScript, and the DOM. You can supplement jQuery with the jQuery UI 
+library, which adds cool interface elements such as calendar widgets, drag-and-drop functionality, 
+expanding accordion lists, and simple animation effects. jQuery Mobile is another jQuery-based
+library that provides UI elements and polyfills designed to account for the variety of mobile 
+browsers and their notorious quirks.</p>
 
-<p>Of course, jQuery isn’t the only library in town. Others include MooTools
-(mootools.net), Dojo (dojotoolkit.org), and Prototype (prototypejs.org). As for
-smaller JS libraries that handle specialized functions, because they are being
-created and made obsolete all the time, I recommend doing a web search for it.</p>
+<p>Of course, jQuery isn’t the only library in town. Others include MooTools (mootools.net), Dojo 
+(dojotoolkit.org), and Prototype (prototypejs.org). As for smaller JS libraries that handle 
+specialized functions, because they are being created and made obsolete all the time, I recommend 
+doing a web search for it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="js-libs">JavaScript Libraries</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -120,8 +104,8 @@ library categories include the following:
 <h4>Forms.js</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Is an advanced, lightweight JavaScript library designed to ease form creation and management. 
-Utilizing JSON for data input, it generates dynamic, user-centric forms, offering an 
-unparalleled development experience.</p>
+Utilizing JSON for data input, it generates dynamic, user-centric forms, offering an unparalleled 
+development experience.</p>
 Website: 
 GitHub: 
 Demo: 
@@ -205,7 +189,7 @@ Website: https://fengyuanchen.github.io/cropperjs/v1/
 GitHub: https://github.com/fengyuanchen/cropperjs/tree/v1
 Demo: https://fengyuanchen.github.io/photo-editor/
 Type: JavaScript image cropper.
-A versatile library for image cropping and resizing directly in the browser.
+<p>A versatile library for image cropping and resizing directly in the browser.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Fabric.js:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -316,8 +300,8 @@ popularity.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>INTRODUCTION TO JQUERY, REACT, AND VUE.JS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Let's dive deeper into the key features and benefits of three influential JavaScript 
-libraries and frameworks: jQuery, React, and Vue.js.</p>
+<p>Let's dive deeper into the key features and benefits of three influential JavaScript libraries 
+and frameworks: jQuery, React, and Vue.js.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>jQuery</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -329,9 +313,8 @@ and traverse the DOM tree.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Cross-Browser Compatibility:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>jQuery abstracts away the differences in browser implementations,
-ensuring consistent behavior and easing the pain of dealing with browser quirks and
-inconsistencies.</p>
+<p>jQuery abstracts away the differences in browser implementations, ensuring consistent behavior 
+and easing the pain of dealing with browser quirks and inconsistencies.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>AJAX</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -356,38 +339,35 @@ applications.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Unidirectional Data Flow:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>React promotes a unidirectional data flow, where data flows from
-parent components to child components. This one-way data binding simplifies debugging,
-improves code predictability, and reduces side effects.</p>
+<p>React promotes a unidirectional data flow, where data flows from parent components to child 
+components. This one-way data binding simplifies debugging, improves code predictability, and 
+reduces side effects.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>React Native:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>React also offers React Native, a frameworkfor building cross-platform mobile
-applications using JavaScript. With React Native, developers can write code once and deploy 
-it on both iOS and Android platforms, saving time and effort.</p>
+<p>React also offers React Native, a frameworkfor building cross-platform mobile applications 
+using JavaScript. With React Native, developers can write code once and deploy it on both iOS 
+and Android platforms, saving time and effort.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Vue.js:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Approachable Learning Curve:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Vue.js stands out for its simplicity and ease of learning. 
-Its gentle learning curve enables developers to quickly grasp its core concepts and start
-building applications. The Vue CLI (Command Line Interface) provides a scaffold for 
-setting up Vue.js projects with ease.</p>
+<p>Vue.js stands out for its simplicity and ease of learning. Its gentle learning curve 
+enables developers to quickly grasp its core concepts and start building applications. The 
+Vue CLI (Command Line Interface) provides a scaffold for setting up Vue.js projects with ease.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Flexible and Versatile:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Vue.js is designed to be flexible and adaptable to various 
-project sizes and requirements. Whether you're building a small application or a 
-large-scale single-page application, Vue.js provides the necessary tools and 
-features to handle the task at hand.</p>
+<p>Vue.js is designed to be flexible and adaptable to various project sizes and requirements. 
+Whether you're building a small application or a large-scale single-page application, Vue.js 
+provides the necessary tools and features to handle the task at hand.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Vue Router and Vuex:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Vue.js offers official plugins, such as Vue Router and Vuex, that seamlessly 
-integrate with the framework. Vue Router facilitates navigation between different
-views in a Vue.js application, while Vuex provides a state management pattern for
-managing application-wide data.</p>
+<p>Vue.js offers official plugins, such as Vue Router and Vuex, that seamlessly integrate 
+with the framework. Vue Router facilitates navigation between different views in a Vue.js 
+application, while Vuex provides a state management pattern for managing application-wide data.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="3-image-carousels">• Number 3 JavaScript libraries for Image Carousels: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
