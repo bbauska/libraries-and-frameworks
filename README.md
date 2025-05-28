@@ -29,7 +29,7 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><mark>Ajax</mark> (sometimes written AJAX) stands for <mark>Asynchronous JavaScript 
 And XML</mark>. The “XML” part isn’t that important—you don’t have to use XML to use 
-<mark>Ajax</mark> (more on that in a moment).</p>
+Ajax (more on that in a moment).</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The “asynchronous” part is what matters.</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -113,7 +113,7 @@ library categories include the following:
 creation and management. Utilizing JSON for data input, it generates dynamic, 
 user-centric forms, offering an unparalleled development experience.</p>
 -->
-<table style="width:100%">
+<table style="width:75%">
   <tr>
     <th>Name</th>
 	<th>Website</th>
@@ -122,10 +122,14 @@ user-centric forms, offering an unparalleled development experience.</p>
 	<th>Type</th>
   </tr>
   <tr>
-    <td><b>Forms.js</b></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><b><a href="https://demo.bpmn.io/form/" target="_blank" rel="noopener noreferrer">
+	  Forms.js</a></b></td>
+    <td><a href="https://bpmn.io/toolkit/form-js/" target="_blank" rel="noopener noreferrer">
+	  form-js</a></td>
+    <td><a href="https://demo.bpmn.io/form/" target="_blank" rel="noopener noreferrer">
+	  demo form</a></td>
+    <td><a href="https://forum.bpmn.io/t/form-js-examples/8773" target="_blank" rel="noopener noreferrer">
+	  Form-js Examples</a></td>
     <td>JSON</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -133,10 +137,14 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--    <td>Automate forms workflow and retain full ownership of respondent data.</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td><b>SurveyJS</b></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><b><a href="https://surveyjs.io/" target="_blank" rel="noopener noreferrer">
+	  SurveyJS</a></b></td>
+    <td><a href="https://surveyjs.io/" target="_blank" rel="noopener noreferrer">
+	  SurveyJS.io</td>
+    <td><a href="https://github.com/surveyjs" target="_blank" rel="noopener noreferrer">
+	  SurveyJS GH</td>
+    <td><a href="https://surveyjs.io/documentation" target="_blank" rel="noopener noreferrer">
+	  SurveyJS Doc'n</td>
     <td>JSON</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -144,10 +152,14 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!-- <td>Form validation library</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td><b><a href="https://parsleyjs.org" target="_blank" rel="noopener noreferrer">parsleyJS.org</a></b></td>
-	<td>https://parsleyjs.org/</td>
-	<td><a href="https://github.com/guillaumepotier/Parsley.js/" target="_blank" rel="noopener noreferrer">ParsleyJS</td>
-    <td>https://parsleyjs.org/doc/examples.html</td>
+    <td><b><a href="https://parsleyjs.org" target="_blank" rel="noopener noreferrer">
+	  parsleyJS.org</a></b></td>
+	<td><a href="https://parsleyjs.org/" target="_blank" rel="noopener noreferrer">
+	  parsleyjs.org</a></td>
+	<td><a href="https://github.com/guillaumepotier/Parsley.js/" target="_blank" rel="noopener noreferrer">
+	  ParsleyJS GH</a></td>
+    <td><a href="https://parsleyjs.org/doc/examples.html" target="_blank" rel="noopener noreferrer">
+	  Example ParsleyJS</a></td>
     <td>JS</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -155,10 +167,14 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--    <td>Form validation library</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td><b>formvalidation.io</b></td>
-    <td><a href="https://formvalidation.io/guide/examples/" target="_blank" rel="noopener noreferrer">formvalidation.io</a></td>
-    <td>https://github.com/anujsoft/formvalidation.io</td>
-    <td>from $50 to $200</td>
+    <td><b><a href="https://formvalidation.io/" target="_blank" rel="noopener noreferrer">
+	  formvalidation.io</a></b></td>
+    <td><a href="https://formvalidation.io/guide/examples/" target="_blank" rel="noopener noreferrer">
+	  formvalidation.io</a></td>
+    <td><a href="https://github.com/anujsoft/formvalidation.io" target="_blank" rel="noopener noreferrer">
+	  formvalidation.io GH</a></td>
+    <td><a href="https://preview.keenthemes.com/jet-html-free/documentation/forms/formvalidation/basic.html" target="_blank" rel="noopener noreferrer">
+	  formvalidation Demo</td>
     <td>JS, YAML</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -168,8 +184,8 @@ user-centric forms, offering an unparalleled development experience.</p>
   <tr>
     <td><b>ValidateJS</b></td>
     <td><a href="https://validatejs.org/" target="_blank" rel="noopener noreferrer">ValidateJS</a></td>
-	<td>https://github.com/ansman/validate.js</td>
-    <td>https://validatejs.org/examples.html</td>
+	<td><a href="https://github.com/ansman/validate.js" target="_blank" rel="noopener noreferrer">ValidateJS GH</td>
+    <td><a href="https://validatejs.org/examples.html" target="_blank" rel="noopener noreferrer">ValidateJS Demo</td>
 	<td>JS</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -179,8 +195,8 @@ user-centric forms, offering an unparalleled development experience.</p>
   <tr>
     <td><b>Formbuilder</b></td>
     <td><a href="http://dobtco.github.io/formbuilder/" target="_blank" rel="noopener noreferrer">Formbuilder</a></td>
-    <td>https://github.com/dobtco/formbuilder</td>
-    <td>Free, MIT License</td>
+    <td><a href="https://github.com/dobtco/formbuilder" target="_blank" rel="noopener noreferrer">Formbuilder GH</a></td>
+    <td><a href="https://demo.formengine.io/" target="_blank" rel="noopener noreferrer">Formbuilder Demo</a></td>
     <td>JSON</p>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -194,8 +210,8 @@ user-centric forms, offering an unparalleled development experience.</p>
   <tr>
     <td><b>Formbuilder.dev</b></td>
     <td><a href="https://formbuilder.dev/" target="_blank" rel="noopener noreferrer">Formbuilder.dev</a></td>
-    <td>https://github.com/optimajet/formbuilder</td>
-    <td>https://formbuilder.dev/demo/</td>
+    <td><a href="https://github.com/optimajet/formbuilder" target="_blank" rel="noopener noreferrer">Formbuilder.dev GH</a></td>
+    <td><a href="https://formbuilder.dev/demo/" target="_blank" rel="noopener noreferrer">Formbuilder.dev Demo</a></td>
     <td>React</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -204,9 +220,12 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b>React Hook Form</b></td>
-    <td><a href="https://github.com/react-hook-form/react-hook-form" target="_blank" rel="noopener noreferrer">ReactHookForm</a></td>
-    <td><a href="https://react-hook-form.com/" target="_blank" rel="noopener noreferrer">react hook form</a></td>
-    <td>Free, MIT License</td>
+    <td><a href="https://react-hook-form.com/" target="_blank" rel="noopener noreferrer">
+	  React Hook Form</a></td>
+    <td><a href="https://github.com/react-hook-form/react-hook-form" target="_blank" rel="noopener noreferrer">
+	  ReactHookForm GH</a></td>
+    <td><a href="https://codesandbox.io/examples/package/react-hook-form" target="_blank" rel="noopener noreferrer">
+	  React Hook Form Demo</a></td>
     <td>React</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -216,8 +235,8 @@ user-centric forms, offering an unparalleled development experience.</p>
   <tr>
     <td><b><a href="https://jaredpalmer.com/formik" target="_blank" rel="noopener noreferrer">formik</a></b></td>
     <td><a href="https://jaredpalmer.com/formik" target="_blank" rel="noopener noreferrer">formik</a></td>
-    <td>https://codesandbox.io/s/zKrK5YLDZ</td>
-    <td>Free, MIT License</td>
+    <td><a href="https://github.com/stackworx/formik-mui" target="_blank" rel="noopener noreferrer">Formik GH</a></td>
+    <td><a href="https://codesandbox.io/s/zKrK5YLDZ" target="_blank" rel="noopener noreferrer">Formik Demo</td>
     <td>React</td>
   </tr>
 </table>
