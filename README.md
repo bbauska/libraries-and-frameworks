@@ -509,9 +509,12 @@ A lightweight library with a simple API that can animate HTML, CSS, JS, SVG and 
 attributes. It has a built-in staggering system, callbacks and controls, and various 
 easing and animation effects.
 -->
-    <td><a href="https://animejs.com/" target="_blank" rel="noopener noreferrer">Website</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td><a href="https://animejs.com/" target="_blank" rel="noopener noreferrer">
+	  Anime.js</td>
+    <td><a href="https://github.com/topics/animejs?l=vue&o=desc&s=" target="_blank" rel="noopener noreferrer">
+	  Anime.js GH</td>
+    <td><a href="https://freefrontend.com/anime-js-examples/" target="_blank" rel="noopener noreferrer">
+	  Anime.js Demo</td>
     <td>JS</td>
   </tr>
   <tr>
@@ -521,10 +524,14 @@ A library that renders Adobe After Effects animations exported as JSON with the
 Bodymovin plugin. It allows you to use complex animations created by designers 
 without coding them manually.
 -->
-    <td><a href="https://airbnb.io/lottie/#/" target="_blank" rel="noopener noreferrer">Website</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
-    <td>JS</td>
+    <td><a href="https://airbnb.io/lottie/#/" target="_blank" rel="noopener noreferrer">
+	  Lottie</td>
+    <td><a href="https://github.com/airbnb/lottie" target="_blank" rel="noopener noreferrer">
+	  Lottie GH</td>
+    <td><a href="https://lottiefiles.com/free-animations/demo" target="_blank" rel="noopener noreferrer">
+	  Lottie Demo</td>
+    <a href="https://github.com/airbnb/lottie" target="_blank" rel="noopener noreferrer">
+	  JS</td>
   </tr>
   <tr>
     <td>ScrollReveal</td>
@@ -533,19 +540,27 @@ A library for easily animating elements as they enter/leave the viewport. It was
 designed to be robust and flexible, but hopefully you’ll be surprised below at how 
 easy it is to pick up.
 -->
-    <td><a href="https://scrollrevealjs.org/" target="_blank" rel="noopener noreferrer">Website</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
-    <td>JS</td>
+    <td><a href="https://scrollrevealjs.org/" target="_blank" rel="noopener noreferrer">
+	  ScrollReveal</a></td>
+    <td><a href="https://github.com/topics/scrollreveal?l=javascript&o=desc&s=forks" target="_blank" rel="noopener noreferrer">
+	  ScrollReveal GH</a></td>
+    <td><a href="https://codepen.io/whatthephuc/pen/LjPBZa" target="_blank" rel="noopener noreferrer">
+	  ScrollReveal Demo</a></td>
+    <td><a href="https://anijs.github.io/examples/scrollreveal/" target="_blank" rel="noopener noreferrer">
+	  AniJS Demo</a></td>
+<!--  https://github.com/jlmakes/scrollreveal  -->
   </tr>
   <tr>
     <td>Popmotion</td>
 <!--
 Tiny animator's toolbox supports keyframe and spring animations for numbers, colors and complex strings.
 -->
-    <td><a href="https://popmotion.io/" target="_blank" rel="noopener noreferrer">Website</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td><a href="https://popmotion.io/" target="_blank" rel="noopener noreferrer">
+	  Popmotion</a></td>
+    <td><a href="https://github.com/Popmotion/popmotion" target="_blank" rel="noopener noreferrer">
+	  Popmotion GH</a></td>
+    <td><a href="https://popmotion.io/pose/examples/accordion/" target="_blank" rel="noopener noreferrer">
+	  Pose Examples</a></td>
     <td>JS</td>
   </tr>
   <tr>
@@ -555,9 +570,12 @@ Motion graphics library provides built-in components to start animating from scr
 like html, shape, swirl, burst and stagger, but also bring you tools to help craft 
 your animation in a most natural way.
 -->
-    <td><a href="https://mojs.github.io/" target="_blank" rel="noopener noreferrer">Website</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td><a href="https://mojs.github.io/" target="_blank" rel="noopener noreferrer">
+	  Mo.js</a></td>
+    <td><a href="https://github.com/mojs" target="_blank" rel="noopener noreferrer">
+	  Mo.js GH</a></td>
+    <td><a href="https://codemyui.com/tag/mo-js/" target="_blank" rel="noopener noreferrer">
+	  Mo.js Demo</a></td>
     <td>JS</td>
   </tr>
   <tr>
@@ -568,9 +586,12 @@ transforms, loops, easings, SVGs and more. It can work with or without jQuery an
 a high performance.
 Accelerated JavaScript animation.
 -->
-    <td><a href="http://velocityjs.org/" target="_blank" rel="noopener noreferrer">Website</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td><a href="http://velocityjs.org/" target="_blank" rel="noopener noreferrer">
+	  Velocity.js</a></td>
+    <td><a href="https://github.com/cohenerickson/Velocity" target="_blank" rel="noopener noreferrer">
+	  Velocity GH</a></td>
+    <td><a href="https://codemyui.com/tag/velocity-js/" target="_blank" rel="noopener noreferrer">
+	  Velocity Demo</a></td>
     <td>JS</td>
   </tr>
   <tr>
@@ -578,19 +599,25 @@ Accelerated JavaScript animation.
 <!--
 GreenSock Animation Platform - A library for building high-performance animations that work in every major browser. It can animate anything on the web, including CSS, SVG, canvas, React, Vue and more. It has advanced features like motion paths, physics, morphing and more.
 -->
-    <td><a href="https://gsap.com/" target="_blank" rel="noopener noreferrer">Website</td>
-    <td><a href="https://github.com/greensock/GSAP" target="_blank" rel="noopener noreferrer">GitHub</td>
-    <td><a href="https://codepen.io/GreenSock/collections/" target="_blank" rel="noopener noreferrer">Demo/Example</td>
-    <td>JS</td>
+    <td><a href="https://gsap.com/" target="_blank" rel="noopener noreferrer">GSAP.com</a></td>
+    <td><a href="https://github.com/greensock/GSAP" target="_blank" rel="noopener noreferrer">
+	  GSAP GH</a></td>
+    <td><a href="https://codepen.io/GreenSock/collections/" target="_blank" rel="noopener noreferrer">
+	  GSAP Examples</a></td>
+    <td><a href="https://gsap.com/demos/" target="_blank" rel="noopener noreferrer">
+	  GSAP Demos</a></td>
   </tr>
   <tr>
     <td>ScrollMagic</td>
 <!--
 A library for creating scroll interactions with JavaScript and CSS. It can trigger animations based on scroll position and pin elements within the viewport. It has over 11K stars on GitHub.
 -->
-    <td><a href="https://scrollmagic.io/" target="_blank" rel="noopener noreferrer">Website</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td><a href="https://scrollmagic.io/" target="_blank" rel="noopener noreferrer">
+	  ScrollMagic.io</a></td>
+    <td><a href="https://github.com/ANSHPG/SCROLL-MAGIC" target="_blank" rel="noopener noreferrer">
+	  ScrollMagic GH</a></td>
+    <td><a href="https://scrollmagic.io/examples/" target="_blank" rel="noopener noreferrer">
+	  ScrollMagic Examples</a></td>
     <td>JS</td>
   </tr>
   <tr>
@@ -599,9 +626,12 @@ A library for creating scroll interactions with JavaScript and CSS. It can trigg
 A library that types. Enter in any string, and watch it type at the speed you've set, 
 backspace what it's typed, and begin a new sentence for however many strings you've set.
 -->
-    <td><a href="https://github.com/mattboldt/typed.js" target="_blank" rel="noopener noreferrer">Website</td>
-    <td><a href="https://github.com/mattboldt/typed.js" target="_blank" rel="noopener noreferrer">GitHub</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td><a href="https://github.com/mattboldt/typed.js" target="_blank" rel="noopener noreferrer">
+	  Typed.js</a></td>
+    <td><a href="https://github.com/mattboldt/typed.js" target="_blank" rel="noopener noreferrer">
+	  Typed.js GH</a></td>
+    <td><a href="https://codepen.io/merb/pen/yOwJjj" target="_blank" rel="noopener noreferrer">
+	  Typed.js Codepen</a></td>
     <td>JS</td>
   </tr>
 </table>
@@ -668,6 +698,39 @@ however many strings you've set.</p>
     <td>JS</td>
   </tr>
 </table>
+<h2 id="svg">Top 10 SVG Pattern Generators</h2>
+<p>An SVG pattern generator is a tool that creates unique and customizable patterns using 
+Scalable Vector Graphics (SVG). The generator allows you to adjust parameters such as 
+color, size, shape, and pattern density to create a pattern that fits specific needs.</p>
+
+<h3>Hero Patterns:</h3>
+<p>A collection of repeatable SVG background patterns for you to use on your web projects.</p>
+<h3>Softr:</h3>
+<p>A free tool made by Softr for creating random organic-looking shapes that can be used 
+to add a nice touch to your landing page design, video thumbnail, social media banner, 
+or any other visual.</p>
+<h3>BGJar:</h3>
+<p>Free svg background generator for your websites, blogs and app.</p>
+<h3>fffuel:</h3>
+<p>A collection of color tools and free SVG generators for gradients, patterns, textures, 
+shapes & backgrounds.</p>
+<h3>SVG Doodles!:</h3>
+<p>A free collection of 50 different editable SVG’s to spice up your online and offline designs.</p>
+<h3>PatternPad:</h3>
+<p>It generates graphical patterns based on a variety of parameters. This results in an 
+endless number of variations. You can choose from popular styles or create your own 
+individual pattern.</p>
+<h3>SVGeez:</h3>
+<p>Totally awesome, well-stretched CSS svg background patterns, free for download.</p>
+<h3>VISIWIG:</h3>
+<p>This tool allows users to customize seamless patterns, change the size, rotation, 
+color, and stroke width of the patterns.</p>
+<h3>Pattern Monster:</h3>
+<p>A simple online pattern generator to create repeatable SVG patterns. Perfect for 
+website backgrounds, apparel, branding, packaging design and more.</p>
+<h3>Super Designer:</h3>
+<p>This tool lets you create Doodle-like patterns using a tile system.</p>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="7-strings-math">• Strings &amp; Math #7 JavaScript libraries for Strings and Math Functions: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
