@@ -27,8 +27,8 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ajax">What Is Ajax?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><mark>Ajax</mark> (sometimes written AJAX) stands for <mark>Asynchronous JavaScript 
-And XML</mark>. The “XML” part isn’t that important—you don’t have to use XML to use 
+<p><b><mark>Ajax</mark></b> (sometimes written AJAX) stands for <b><mark>Asynchronous JavaScript 
+And XML</mark></b>. The “XML” part isn’t that important—you don’t have to use XML to use 
 Ajax (more on that in a moment).</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The “asynchronous” part is what matters.</h3>
@@ -38,7 +38,7 @@ be delivered from the server, everything had to stop and wait for the data, and 
 whole page needed to reload when it was available. This made for a not especially smooth 
 user experience.</p>
 
-<p>With <mark>Ajax</mark>, because the page can get data from the server in the 
+<p>With <b><mark>Ajax</mark></b>, because the page can get data from the server in the 
 background, you can make updates to the page based on user interaction smoothly and in 
 real time without the page needing to be reloaded. This makes web applications feel 
 more like “real” applications.</p>
@@ -50,7 +50,7 @@ Google’s image search uses a similar approach. When you reach the bottom of th
 page, you’re presented with a button that allows you to load more‚ but you never 
 navigate away from the current page.</p>
 
-<p>The term <mark>“Ajax”</mark> was first coined by Jesse James Garrett in an article 
+<p>The term <b><mark>“Ajax”</mark></b> was first coined by Jesse James Garrett in an article 
 “Ajax: A New Approach to Web Applications.” Ajax is not a single technology, but 
 rather a combination of HTML, CSS, the DOM, and JavaScript, including the XMLHttpRequest 
 object, which allows data to be transferred asynchronously. Ajax may use XML for data, 
@@ -69,8 +69,8 @@ you need.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="jquery">jQuery and Other Libraries</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>As of this writing, the overwhelmingly dominant JavaScript library is <mark>jQuery 
-(jquery.com)</mark>. Chances are, if you use a library, it will be that one (or at least 
+<p>As of this writing, the overwhelmingly dominant JavaScript library is <b><mark>jQuery 
+(jquery.com)</mark></b>. Chances are, if you use a library, it will be that one (or at least 
 that one first). Written in 2005 by John Resig, jQuery has found its way into over 
 two-thirds of all websites. Furthermore, if a site uses a library at all, there is a 97% 
 chance that it’s jQuery.</p>
@@ -82,9 +82,9 @@ expanding accordion lists, and simple animation effects. jQuery Mobile is anothe
 library that provides UI elements and polyfills designed to account for the variety of mobile 
 browsers and their notorious quirks.</p>
 
-<p>Of course, jQuery isn’t the only library in town. Others include <mark>MooTools 
-(mootools.net)</mark>, <mark>Dojo (dojotoolkit.org)</mark>, and <mark>Prototype 
-(prototypejs.org)</mark>. As for smaller JS libraries that handle specialized functions, 
+<p>Of course, jQuery isn’t the only library in town. Others include <b><mark>MooTools 
+(mootools.net)</mark></b>, <b><mark>Dojo (dojotoolkit.org)</mark></b>, and <b><mark>Prototype 
+(prototypejs.org)</mark></b>. As for smaller JS libraries that handle specialized functions, 
 because they are being created and made obsolete all the time, I recommend doing a web 
 search for it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -332,7 +332,7 @@ and frameworks available today:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>1. jQuery:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><mark>jQuery</mark> is a fast, lightweight, and feature-rich JavaScript library that 
+<p><b><mark>jQuery</mark></b> is a fast, lightweight, and feature-rich JavaScript library that 
 simplifies HTML document traversal, event handling, and animation. It provides an 
 intuitive and concise API that enables developers to manipulate the DOM, handle events, 
 perform AJAX requests, create animations, and more. jQuery's popularity stems from its 
@@ -341,7 +341,7 @@ easy-to-use interface for common JavaScript operations.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>2. React:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><mark>React</mark> is a powerful JavaScript library developed by Facebook for building user 
+<p><b><mark>React</mark></b> is a powerful JavaScript library developed by Facebook for building user 
 interfaces. It adopts a component-based architecture, allowing developers to build 
 reusable UI components and efficiently update and render them as the application's state 
 changes. React leverages a virtual DOM, which minimizes actual DOM manipulations and 
@@ -350,7 +350,7 @@ and thriving ecosystem.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>3. Vue.js:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><mark>Vue.js</mark> is a progressive JavaScript framework that excels in building user 
+<p><b><mark>Vue.js</mark></b> is a progressive JavaScript framework that excels in building user 
 interfaces. It boasts a gentle learning curve, making it accessible to newcomers, while 
 providing advanced features for seasoned developers. Vue.js embraces a component-based 
 development approach, where complex user interfaces are constructed by composing self-
@@ -362,13 +362,13 @@ contributed to its popularity.</p>
 <h2>Introduction to jQuery, React, and Vue.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Let's dive deeper into the key features and benefits of three influential JavaScript 
-libraries and frameworks: <mark>jQuery, React, and Vue.js</mark>.</p>
+libraries and frameworks: <b><mark>jQuery, React, and Vue.js</mark></b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>jQuery</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Simplified DOM Manipulation:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>jQuery provides a unified and streamlined API for <mark>DOM manipulation</mark>, 
+<p>jQuery provides a unified and streamlined API for <b><mark>DOM manipulation</mark></b>, 
 making it effortless to select and modify HTML elements, handle events, and traverse the 
 DOM tree.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -379,7 +379,7 @@ and easing the pain of dealing with browser quirks and inconsistencies.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>AJAX</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>jQuery simplifies <mark>AJAX</mark> communication by providing a set of convenient 
+<p>jQuery simplifies <b><mark>AJAX</mark></b> communication by providing a set of convenient 
 methods for making asynchronous requests to servers, handling responses, and updating 
 content on the webpage dynamically. Rich Plugin Ecosystem: jQuery boasts a vast 
 ecosystem of plugins that extend its functionality. These plugins cover a wide range of 
@@ -387,26 +387,26 @@ use cases, from UI widgets and effects to data visualization and form validation
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>React Component-Based Architecture:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>React revolutionized the web development landscape with its <mark>component-based 
-architecture</mark>. Components encapsulate the logic and presentation of UI elements, 
+<p>React revolutionized the web development landscape with its <b><mark>component-based 
+architecture</mark></b>. Components encapsulate the logic and presentation of UI elements, 
 allowing for modular development, code reusability, and easier testing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Virtual DOM:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>React employs a <mark>virtual DOM</mark>, a lightweight in-memory representation of the
+<p>React employs a <b><mark>virtual DOM</mark></b>, a lightweight in-memory representation of the
 actual DOM. By using a virtual DOM, React optimizes rendering performance by selectively
 updating only the necessary parts of the UI, resulting in efficient and responsive
 applications.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Unidirectional Data Flow:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><mark>React</mark> promotes a <mark>unidirectional data flow</mark>, where data flows 
+<p><b><mark>React</mark></b> promotes a <b><mark>unidirectional data flow</mark></b>, where data flows 
 from parent components to child components. This one-way data binding simplifies 
 debugging, improves code predictability, and reduces side effects.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>React Native:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>React also offers <mark>React Native</mark>, a framework for building cross-platform 
+<p>React also offers <b><mark>React Native</mark></b>, a framework for building cross-platform 
 mobile applications using JavaScript. With React Native, developers can write code once 
 and deploy it on both iOS and Android platforms, saving time and effort.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -414,14 +414,14 @@ and deploy it on both iOS and Android platforms, saving time and effort.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Approachable Learning Curve:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><mark>Vue.js</mark> stands out for its simplicity and ease of learning. Its gentle 
+<p><b><mark>Vue.js</mark></b> stands out for its simplicity and ease of learning. Its gentle 
 learning curve enables developers to quickly grasp its core concepts and start building 
-applications. The <mark>Vue CLI (Command Line Interface)</mark> provides a scaffold for 
+applications. The <b><mark>Vue CLI (Command Line Interface)</mark></b> provides a scaffold for 
 setting up Vue.js projects with ease.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Flexible and Versatile:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><mark>Vue.js</mark> is designed to be flexible and adaptable to various project sizes 
+<p><b><mark>Vue.js</mark></b> is designed to be flexible and adaptable to various project sizes 
 and requirements. Whether you're building a small application or a large-scale single-
 page application, Vue.js provides the necessary tools and features to handle the task 
 at hand.</p>
@@ -473,7 +473,7 @@ application, while Vuex provides a state management pattern for managing applica
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="6-image-3d">• Image &amp; 3-D Effects #6 JavaScript libraries for Image and 3-D Effects for the canvas element: •</h2>
+<h2 id="6-image-3d">• Image &amp; 3-D Effects #6 JS libraries for Image and 3-D Effects for the canvas element: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <table style="width:75%">
   <caption>Image &amp; 3-D Effects #6 JavaScript Libraries for Image and 3-D Effects for the canvas element</caption>
@@ -518,7 +518,7 @@ easing and animation effects.
     <td>JS</td>
   </tr>
   <tr>
-    <td>Lottie</td>
+    <td><b>Lottie</b></td>
 <!--
 A library that renders Adobe After Effects animations exported as JSON with the 
 Bodymovin plugin. It allows you to use complex animations created by designers 
@@ -531,10 +531,10 @@ without coding them manually.
     <td><a href="https://lottiefiles.com/free-animations/demo" target="_blank" rel="noopener noreferrer">
 	  Lottie Demo</a></td>
     <a href="https://github.com/airbnb/lottie" target="_blank" rel="noopener noreferrer">
-	  JS</td>
+	  JS</a></td>
   </tr>
   <tr>
-    <td>ScrollReveal</td>
+    <td><b>ScrollReveal</b></td>
 <!--
 A library for easily animating elements as they enter/leave the viewport. It was 
 designed to be robust and flexible, but hopefully you’ll be surprised below at how 
@@ -551,7 +551,7 @@ easy it is to pick up.
 <!--  https://github.com/jlmakes/scrollreveal  -->
   </tr>
   <tr>
-    <td>Popmotion</td>
+    <td><b>Popmotion</b></td>
 <!--
 Tiny animator's toolbox supports keyframe and spring animations for numbers, colors and complex strings.
 -->
@@ -564,7 +564,7 @@ Tiny animator's toolbox supports keyframe and spring animations for numbers, col
     <td>JS</td>
   </tr>
   <tr>
-    <td>Mo.js</td>
+    <td><b>Mo.js</b></td>
 <!--
 Motion graphics library provides built-in components to start animating from scratch 
 like html, shape, swirl, burst and stagger, but also bring you tools to help craft 
@@ -579,7 +579,7 @@ your animation in a most natural way.
     <td>JS</td>
   </tr>
   <tr>
-    <td>Velocity.js</td>
+    <td><b>Velocity.js</b></td>
 <!--
 A library that combines the best of jQuery and CSS transitions. It can animate colors, 
 transforms, loops, easings, SVGs and more. It can work with or without jQuery and has 
@@ -595,7 +595,7 @@ Accelerated JavaScript animation.
     <td>JS</td>
   </tr>
   <tr>
-    <td>GSAP</td>
+    <td><b>GSAP</b></td>
 <!--
 GreenSock Animation Platform - A library for building high-performance animations that work in every major browser. It can animate anything on the web, including CSS, SVG, canvas, React, Vue and more. It has advanced features like motion paths, physics, morphing and more.
 -->
@@ -609,7 +609,7 @@ GreenSock Animation Platform - A library for building high-performance animation
 	  GSAP Demos</a></td>
   </tr>
   <tr>
-    <td>ScrollMagic</td>
+    <td><b>ScrollMagic</b></td>
 <!--
 A library for creating scroll interactions with JavaScript and CSS. It can trigger animations based on scroll position and pin elements within the viewport. It has over 11K stars on GitHub.
 -->
@@ -622,7 +622,7 @@ A library for creating scroll interactions with JavaScript and CSS. It can trigg
     <td>JS</td>
   </tr>
   <tr>
-    <td>Typed.js</td>
+    <td><b>Typed.js</b></td>
 <!--
 A library that types. Enter in any string, and watch it type at the speed you've set, 
 backspace what it's typed, and begin a new sentence for however many strings you've set.
@@ -636,53 +636,53 @@ backspace what it's typed, and begin a new sentence for however many strings you
     <td>JS</td>
   </tr>
 </table>
-<h5>Three.js (99.1k ⭐)</h5>
+<h5><b>Three.js</b> (99.1k ⭐)</h5>
 <p>— A popular JavaScript library used for creating and displaying 3D 
 computer graphics on the web. It provides a high-level API that abstracts away the 
 complexities of WebGL, a low-level graphics API, making it easier for developers to 
 work with 3D graphics in the browser.</p>
 
-<h5>Anime.js (48.8k ⭐)</h5>
+<h5><b>Anime.js</b> (48.8k ⭐)</h5>
 <p>— A lightweight library with a simple API that can animate HTML, 
 CSS, JS, SVG and DOM attributes. It has a built-in staggering system, callbacks and 
 controls, and various easing and animation effects.</p>
 
-<h5>Lottie (29.7k ⭐)</h5>
+<h5><b>Lottie</b> (29.7k ⭐)</h5>
 <p>— A library that renders Adobe After Effects animations exported 
 as JSON with the Bodymovin plugin. It allows you to use complex animations created 
 by designers without coding them manually.</p>
 
-<h5>ScrollReveal (22.1k ⭐)</h5>
+<h5><b>ScrollReveal</b> (22.1k ⭐)</h5>
 <p>— A library for easily animating elements as they enter/leave 
 the viewport. It was designed to be robust and flexible, but hopefully you’ll be 
 surprised below at how easy it is to pick up.</p>
 
-<h5>Popmotion (19.8k ⭐)</h5>
+<h5><b>Popmotion</b> (19.8k ⭐)</h5>
 <p>— Tiny animator's toolbox supports keyframe and spring animations 
 for numbers, colors and complex strings.</p>
 
-<h5>Mo.js (18.3k ⭐)</h5>
+<h5><b>Mo.js</b> (18.3k ⭐)</h5>
 <p>— Motion graphics library provides built-in components to start 
 animating from scratch like html, shape, swirl, burst and stagger, but also bring 
 you tools to help craft your animation in a most natural way.</p>
 
-<h5>Velocity.js (17.3k ⭐)</h5>
+<h5><b>Velocity.js</b> (17.3k ⭐)</h5>
 <p>— A library that combines the best of jQuery and CSS transitions.
 It can animate colors, transforms, loops, easings, SVGs and more. 
 It can work with or without jQuery and has a high performance.</p>
 
-<h5>GSAP (18.7k ⭐)</h5>
+<h5><b>GSAP</b> (18.7k ⭐)</h5>
 <p>— A library for building high-performance animations that work in 
 every major browser. It can animate anything on the web, including CSS, SVG, canvas, 
 React, Vue and more. It has advanced features like motion paths, physics, morphing 
 and more.</p>
 
-<h5>ScrollMagic (14.8k ⭐)</h5>
+<h5><b>ScrollMagic</b> (14.8k ⭐)</h5>
 <p>— A library for creating scroll interactions with JavaScript 
 and CSS. It can trigger animations based on scroll position and pin elements within 
 the viewport. It has over 11K stars on GitHub.</p>
 
-<h5>Typed.js (14.8k ⭐)</h5>
+<h5><b>Typed.js</b> (14.8k ⭐)</h5>
 <p>— A library that types. Enter in any string, and watch it type 
 at the speed you've set, backspace what it's typed, and begin a new sentence for 
 however many strings you've set.</p>
@@ -704,32 +704,32 @@ however many strings you've set.</p>
 Scalable Vector Graphics (SVG). The generator allows you to adjust parameters such as 
 color, size, shape, and pattern density to create a pattern that fits specific needs.</p>
 
-<h3>Hero Patterns:</h3>
+<h3><b>Hero Patterns</b>:</h3>
 <p>A collection of repeatable SVG background patterns for you to use on your web projects.</p>
-<h3>Softr:</h3>
+<h3><b>Softr</b>:</h3>
 <p>A free tool made by Softr for creating random organic-looking shapes that can be used 
 to add a nice touch to your landing page design, video thumbnail, social media banner, 
 or any other visual.</p>
-<h3>BGJar:</h3>
+<h3><b>BGJar</b>:</h3>
 <p>Free svg background generator for your websites, blogs and app.</p>
-<h3>fffuel:</h3>
+<h3><b>fffuel</b>:</h3>
 <p>A collection of color tools and free SVG generators for gradients, patterns, textures, 
 shapes & backgrounds.</p>
-<h3>SVG Doodles!:</h3>
+<h3><b>SVG Doodles!</b>:</h3>
 <p>A free collection of 50 different editable SVG’s to spice up your online and offline designs.</p>
-<h3>PatternPad:</h3>
+<h3><b>PatternPad</b>:</h3>
 <p>It generates graphical patterns based on a variety of parameters. This results in an 
 endless number of variations. You can choose from popular styles or create your own 
 individual pattern.</p>
-<h3>SVGeez:</h3>
+<h3><b>SVGeez</b>:</h3>
 <p>Totally awesome, well-stretched CSS svg background patterns, free for download.</p>
-<h3>VISIWIG:</h3>
+<h3><b>VISIWIG</b>:</h3>
 <p>This tool allows users to customize seamless patterns, change the size, rotation, 
 color, and stroke width of the patterns.</p>
-<h3>Pattern Monster:</h3>
+<h3><b>Pattern Monster</b>:</h3>
 <p>A simple online pattern generator to create repeatable SVG patterns. Perfect for 
 website backgrounds, apparel, branding, packaging design and more.</p>
-<h3>Super Designer:</h3>
+<h3><b>Super Designer</b>:</h3>
 <p>This tool lets you create Doodle-like patterns using a tile system.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -796,26 +796,40 @@ data using JavaScript, either on the browser or on the server. They can help you
 fast and user-friendly search experiences for your web applications, without relying on 
 external search services or databases.</p>
 
-<h3>Fuse.js (17.6k ⭐)</h3>
+<h3><b>Fuse.js</b> (17.6k ⭐)</h3>
 <p>— A powerful, lightweight fuzzy-search library, with zero dependencies. It allows you 
 to perform approximate string matching on the client-side or the backend, without setting 
 up a dedicated search service. You can use it to search through arrays of strings or 
 objects, with different options for weighting, nesting, and extended search syntax.</p>
 
-<h3>List.js (11.2k ⭐)</h3>
-<p> — A vanilla JavaScript library that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything. It can work with existing HTML or create its own HTML from scratch. You can customize the options for value names, item templates, pagination and more.</p>
+<h3><b>List.js</b> (11.2k ⭐)</h3>
+<p> — A vanilla JavaScript library that adds search, sort, filters and flexibility to 
+plain HTML lists, tables, or anything. It can work with existing HTML or create its own 
+HTML from scratch. You can customize the options for value names, item templates, 
+pagination and more.</p>
 
-<h3>FlexSearch.js (12k ⭐)</h3>
-<p> — A next-generation full-text search library for Browser and Node.js with zero dependencies. It claims to be the web’s fastest and most memory-efficient search library, with features like contextual indexing, document indexing, web workers, and more.</p>
+<h3><b>FlexSearch.js</b> (12k ⭐)</h3>
+<p> — A next-generation full-text search library for Browser and Node.js with zero 
+dependencies. It claims to be the web’s fastest and most memory-efficient search library, 
+with features like contextual indexing, document indexing, web workers, and more.</p>
 
-<h3>Lunr.js (8.8k ⭐)</h3>
-<p>— A small, full-text search library for use in the browser or on the server with Node.js. It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries. It is designed to be easy to set up and use, without the need for external search services.</p>
+<h3><b>Lunr.js</b> (8.8k ⭐)</h3>
+<p>— A small, full-text search library for use in the browser or on the server with 
+Node.js. It indexes JSON documents and provides a simple search interface for retrieving 
+documents that best match text queries. It is designed to be easy to set up and use, 
+without the need for external search services.</p>
 
-<h3>Orama (8.2k ⭐)</h3>
-<p>— A fast, batteries-included, full-text search engine entirely written in TypeScript, designed to work on any runtime and has no dependencies. Orama also supports plugins to extend its functionality and integrate with other frameworks.</p>
+<h3><b>Orama</b> (8.2k ⭐)</h3>
+<p>— A fast, batteries-included, full-text search engine entirely written in TypeScript, 
+designed to work on any runtime and has no dependencies. Orama also supports plugins to 
+extend its functionality and integrate with other frameworks.</p>
 
-<h3>MiniSearch (4.2k ⭐)</h3>
-<p>— A tiny but powerful in-memory fulltext search engine written in JavaScript. It is respectful of resources, and it can comfortably run both in Node and in the browser. MiniSearch addresses use cases where full-text search features are needed (e.g. prefix search, fuzzy search, ranking, boosting of fields…), but the data to be indexed can fit locally in the process memory.</p>
+<h3><b>MiniSearch</b> (4.2k ⭐)</h3>
+<p>— A tiny but powerful in-memory fulltext search engine written in JavaScript. It is 
+respectful of resources, and it can comfortably run both in Node and in the browser. 
+MiniSearch addresses use cases where full-text search features are needed (e.g. prefix 
+search, fuzzy search, ranking, boosting of fields…), but the data to be indexed can fit 
+locally in the process memory.</p>
 
 
 <h7>Date Created: 5/27/2025 10:00p<br>
