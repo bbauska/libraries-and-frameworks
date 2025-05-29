@@ -140,11 +140,11 @@ user-centric forms, offering an unparalleled development experience.</p>
     <td><b><a href="https://surveyjs.io/" target="_blank" rel="noopener noreferrer">
 	  SurveyJS</a></b></td>
     <td><a href="https://surveyjs.io/" target="_blank" rel="noopener noreferrer">
-	  SurveyJS.io</td>
+	  SurveyJS.io</a></td>
     <td><a href="https://github.com/surveyjs" target="_blank" rel="noopener noreferrer">
-	  SurveyJS GH</td>
+	  SurveyJS GH</a></td>
     <td><a href="https://surveyjs.io/documentation" target="_blank" rel="noopener noreferrer">
-	  SurveyJS Doc'n</td>
+	  SurveyJS Doc'n</a></td>
     <td>JSON</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -174,7 +174,7 @@ user-centric forms, offering an unparalleled development experience.</p>
     <td><a href="https://github.com/anujsoft/formvalidation.io" target="_blank" rel="noopener noreferrer">
 	  formvalidation.io GH</a></td>
     <td><a href="https://preview.keenthemes.com/jet-html-free/documentation/forms/formvalidation/basic.html" target="_blank" rel="noopener noreferrer">
-	  formvalidation Demo</td>
+	  formvalidation Demo</a></td>
     <td>JS, YAML</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -183,9 +183,12 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b>ValidateJS</b></td>
-    <td><a href="https://validatejs.org/" target="_blank" rel="noopener noreferrer">ValidateJS</a></td>
-	<td><a href="https://github.com/ansman/validate.js" target="_blank" rel="noopener noreferrer">ValidateJS GH</td>
-    <td><a href="https://validatejs.org/examples.html" target="_blank" rel="noopener noreferrer">ValidateJS Demo</td>
+    <td><a href="https://validatejs.org/" target="_blank" rel="noopener noreferrer">
+	  ValidateJS</a></td>
+	<td><a href="https://github.com/ansman/validate.js" target="_blank" rel="noopener noreferrer">
+	  ValidateJS GH</a></td>
+    <td><a href="https://validatejs.org/examples.html" target="_blank" rel="noopener noreferrer">
+	  ValidateJS Demo</a></td>
 	<td>JS</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -194,9 +197,12 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b>Formbuilder</b></td>
-    <td><a href="http://dobtco.github.io/formbuilder/" target="_blank" rel="noopener noreferrer">Formbuilder</a></td>
-    <td><a href="https://github.com/dobtco/formbuilder" target="_blank" rel="noopener noreferrer">Formbuilder GH</a></td>
-    <td><a href="https://demo.formengine.io/" target="_blank" rel="noopener noreferrer">Formbuilder Demo</a></td>
+    <td><a href="http://dobtco.github.io/formbuilder/" target="_blank" rel="noopener noreferrer">
+	  Formbuilder</a></td>
+    <td><a href="https://github.com/dobtco/formbuilder" target="_blank" rel="noopener noreferrer">
+	  Formbuilder GH</a></td>
+    <td><a href="https://demo.formengine.io/" target="_blank" rel="noopener noreferrer">
+	  Formbuilder Demo</a></td>
     <td>JSON</p>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -209,9 +215,12 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b>Formbuilder.dev</b></td>
-    <td><a href="https://formbuilder.dev/" target="_blank" rel="noopener noreferrer">Formbuilder.dev</a></td>
-    <td><a href="https://github.com/optimajet/formbuilder" target="_blank" rel="noopener noreferrer">Formbuilder.dev GH</a></td>
-    <td><a href="https://formbuilder.dev/demo/" target="_blank" rel="noopener noreferrer">Formbuilder.dev Demo</a></td>
+    <td><a href="https://formbuilder.dev/" target="_blank" rel="noopener noreferrer">
+	  Formbuilder.dev</a></td>
+    <td><a href="https://github.com/optimajet/formbuilder" target="_blank" rel="noopener noreferrer">
+	  Formbuilder.dev GH</a></td>
+    <td><a href="https://formbuilder.dev/demo/" target="_blank" rel="noopener noreferrer">
+	  Formbuilder.dev Demo</a></td>
     <td>React</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -236,7 +245,7 @@ user-centric forms, offering an unparalleled development experience.</p>
     <td><b><a href="https://jaredpalmer.com/formik" target="_blank" rel="noopener noreferrer">formik</a></b></td>
     <td><a href="https://jaredpalmer.com/formik" target="_blank" rel="noopener noreferrer">formik</a></td>
     <td><a href="https://github.com/stackworx/formik-mui" target="_blank" rel="noopener noreferrer">Formik GH</a></td>
-    <td><a href="https://codesandbox.io/s/zKrK5YLDZ" target="_blank" rel="noopener noreferrer">Formik Demo</td>
+    <td><a href="https://codesandbox.io/s/zKrK5YLDZ" target="_blank" rel="noopener noreferrer">Formik Demo</a></td>
     <td>React</td>
   </tr>
 </table>
@@ -694,9 +703,9 @@ however many strings you've set.</p>
   </tr>
   <tr>
     <td><b>name</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
     <td>JS</td>
   </tr>
 </table>
@@ -763,9 +772,9 @@ website backgrounds, apparel, branding, packaging design and more.</p>
   </tr>
   <tr>
     <td><b>Name of website</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
     <td>JS</td>
   </tr>
 </table>
@@ -783,9 +792,9 @@ website backgrounds, apparel, branding, packaging design and more.</p>
   </tr>
   <tr>
     <td><b>Name of website</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
     <td>JS</td>
   </tr>
 </table>
