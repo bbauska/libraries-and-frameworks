@@ -502,8 +502,8 @@ work with 3D graphics in the browser.
 -->
     <td><b><a href="https://themeselection.com/javascript-3d-library/?srsltid=AfmBOoqE0onQM6K-D6hFJAftUEq3m_22Z8lI8SaXa_8HUS0GYTLjQjKq#h-three-js" target="_blank" rel="noopener noreferrer">
 	  Three.js</a></b></td>
-    <td><a href="https://henryegloff.com/awesome-examples-of-three-js/" target="_blank" rel="noopener noreferrer">
-	  Three.js</a>
+    <td><b><a href="https://henryegloff.com/awesome-examples-of-three-js/" target="_blank" rel="noopener noreferrer">
+	  Three.js</a></b></td>
     <td><a href="https://discourse.threejs.org/t/drei-reveal-demo-full-source/22935" target="_blank" rel="noopener noreferrer">
 	  Three.js GH</a></td>
     <td><a href="https://codesandbox.io/p/sandbox/drei-reflector-bfplr" target="_blank" rel="noopener noreferrer">
@@ -538,7 +538,7 @@ without coding them manually.
 	  Lottie GH</a></td>
     <td><a href="https://lottiefiles.com/free-animations/demo" target="_blank" rel="noopener noreferrer">
 	  Lottie Demo</a></td>
-    <a href="https://github.com/airbnb/lottie" target="_blank" rel="noopener noreferrer">
+    <td><a href="https://github.com/airbnb/lottie" target="_blank" rel="noopener noreferrer">
 	  JS</a></td>
   </tr>
   <tr>
@@ -553,9 +553,9 @@ easy it is to pick up.
     <td><a href="https://github.com/topics/scrollreveal?l=javascript&o=desc&s=forks" target="_blank" rel="noopener noreferrer">
 	  ScrollReveal GH</a></td>
     <td><a href="https://codepen.io/whatthephuc/pen/LjPBZa" target="_blank" rel="noopener noreferrer">
-	  ScrollReveal Demo</a></td>
+	  ScrollReveal CodePen</a></td>
     <td><a href="https://anijs.github.io/examples/scrollreveal/" target="_blank" rel="noopener noreferrer">
-	  AniJS Demo</a></td>
+	  AniJS Examples</a></td>
 <!--  https://github.com/jlmakes/scrollreveal  -->
   </tr>
   <tr>
