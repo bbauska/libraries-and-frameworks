@@ -509,7 +509,6 @@ work with 3D graphics in the browser.
     <td><a href="https://codesandbox.io/p/sandbox/drei-reflector-bfplr" target="_blank" rel="noopener noreferrer">
 	  Sandbox Three.js</a></td>
     <td>JS</td>
-<!--  https://threejs.org/manual/  -->
   </tr>
   <tr>
     <td><b>Anime.js</b></td>
