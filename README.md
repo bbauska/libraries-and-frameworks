@@ -503,7 +503,7 @@ work with 3D graphics in the browser.
 <!--  https://threejs.org/manual/  -->
   </tr>
   <tr>
-    <td>Anime.js</td>
+    <td><b>Anime.js</b></td>
 <!--
 A lightweight library with a simple API that can animate HTML, CSS, JS, SVG and DOM 
 attributes. It has a built-in staggering system, callbacks and controls, and various 
@@ -636,6 +636,7 @@ backspace what it's typed, and begin a new sentence for however many strings you
     <td>JS</td>
   </tr>
 </table>
+
 <h5><b>Three.js</b> (99.1k ⭐)</h5>
 <p>— A popular JavaScript library used for creating and displaying 3D 
 computer graphics on the web. It provides a high-level API that abstracts away the 
@@ -743,7 +744,7 @@ website backgrounds, apparel, branding, packaging design and more.</p>
 	<th>GitHub:</th>
     <th>Demo:</th>
     <th>Type of library/framework:</th>
-  </th>
+  </tr>
   <tr>
     <td>Data1</td>
   </tr>
