@@ -1,5 +1,5 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!-- REAME.md of https://github.com/bbauska/libraries-and-frameworks -->
+<!-- README.md of https://github.com/bbauska/libraries-and-frameworks -->
 <h1 id="libs-and-frames">libraries and frameworks</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Libraries and Frameworks in Web Front-End Development</p>
@@ -116,20 +116,20 @@ user-centric forms, offering an unparalleled development experience.</p>
 <table style="width:75%">
   <tr>
     <th>Name</th>
-	<th>Website</th>
-	<th>GitHub</th>
-	<th>Demo</th>
-	<th>Type</th>
+    <th>Website</th>
+    <th>GitHub</th>
+    <th>Demo</th>
+    <th>Type</th>
   </tr>
   <tr>
     <td><b><a href="https://demo.bpmn.io/form/" target="_blank" rel="noopener noreferrer">
-	  Forms.js</a></b></td>
+      Forms.js</a></b></td>
     <td><a href="https://bpmn.io/toolkit/form-js/" target="_blank" rel="noopener noreferrer">
-	  form-js</a></td>
+      form-js</a></td>
     <td><a href="https://demo.bpmn.io/form/" target="_blank" rel="noopener noreferrer">
-	  demo form</a></td>
+      demo form</a></td>
     <td><a href="https://forum.bpmn.io/t/form-js-examples/8773" target="_blank" rel="noopener noreferrer">
-	  Form-js Examples</a></td>
+      Form-js Examples</a></td>
     <td>JSON</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -138,13 +138,13 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b><a href="https://surveyjs.io/" target="_blank" rel="noopener noreferrer">
-	  SurveyJS</a></b></td>
+      SurveyJS</a></b></td>
     <td><a href="https://surveyjs.io/" target="_blank" rel="noopener noreferrer">
-	  SurveyJS.io</a></td>
+      SurveyJS.io</a></td>
     <td><a href="https://github.com/surveyjs" target="_blank" rel="noopener noreferrer">
-	  SurveyJS GH</a></td>
+      SurveyJS GH</a></td>
     <td><a href="https://surveyjs.io/documentation" target="_blank" rel="noopener noreferrer">
-	  SurveyJS Doc'n</a></td>
+      SurveyJS Doc'n</a></td>
     <td>JSON</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -153,13 +153,13 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b><a href="https://parsleyjs.org" target="_blank" rel="noopener noreferrer">
-	  parsleyJS.org</a></b></td>
-	<td><a href="https://parsleyjs.org/" target="_blank" rel="noopener noreferrer">
-	  parsleyjs.org</a></td>
-	<td><a href="https://github.com/guillaumepotier/Parsley.js/" target="_blank" rel="noopener noreferrer">
-	  ParsleyJS GH</a></td>
+      parsleyJS.org</a></b></td>
+    <td><a href="https://parsleyjs.org/" target="_blank" rel="noopener noreferrer">
+      parsleyjs.org</a></td>
+    <td><a href="https://github.com/guillaumepotier/Parsley.js/" target="_blank" rel="noopener noreferrer">
+      ParsleyJS GH</a></td>
     <td><a href="https://parsleyjs.org/doc/examples.html" target="_blank" rel="noopener noreferrer">
-	  Example ParsleyJS</a></td>
+      Example ParsleyJS</a></td>
     <td>JS</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -168,13 +168,13 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b><a href="https://formvalidation.io/" target="_blank" rel="noopener noreferrer">
-	  formvalidation.io</a></b></td>
+      formvalidation.io</a></b></td>
     <td><a href="https://formvalidation.io/guide/examples/" target="_blank" rel="noopener noreferrer">
-	  formvalidation.io</a></td>
+      formvalidation.io</a></td>
     <td><a href="https://github.com/anujsoft/formvalidation.io" target="_blank" rel="noopener noreferrer">
-	  formvalidation.io GH</a></td>
+      formvalidation.io GH</a></td>
     <td><a href="https://preview.keenthemes.com/jet-html-free/documentation/forms/formvalidation/basic.html" target="_blank" rel="noopener noreferrer">
-	  formvalidation Demo</a></td>
+      formvalidation Demo</a></td>
     <td>JS, YAML</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -184,12 +184,12 @@ user-centric forms, offering an unparalleled development experience.</p>
   <tr>
     <td><b>ValidateJS</b></td>
     <td><a href="https://validatejs.org/" target="_blank" rel="noopener noreferrer">
-	  ValidateJS</a></td>
-	<td><a href="https://github.com/ansman/validate.js" target="_blank" rel="noopener noreferrer">
-	  ValidateJS GH</a></td>
+      ValidateJS</a></td>
+    <td><a href="https://github.com/ansman/validate.js" target="_blank" rel="noopener noreferrer">
+      ValidateJS GH</a></td>
     <td><a href="https://validatejs.org/examples.html" target="_blank" rel="noopener noreferrer">
-	  ValidateJS Demo</a></td>
-	<td>JS</td>
+      ValidateJS Demo</a></td>
+    <td>JS</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--  <h4>Formbuilder</h4>  -->
@@ -198,11 +198,11 @@ user-centric forms, offering an unparalleled development experience.</p>
   <tr>
     <td><b>Formbuilder</b></td>
     <td><a href="http://dobtco.github.io/formbuilder/" target="_blank" rel="noopener noreferrer">
-	  Formbuilder</a></td>
+      Formbuilder</a></td>
     <td><a href="https://github.com/dobtco/formbuilder" target="_blank" rel="noopener noreferrer">
-	  Formbuilder GH</a></td>
+      Formbuilder GH</a></td>
     <td><a href="https://demo.formengine.io/" target="_blank" rel="noopener noreferrer">
-	  Formbuilder Demo</a></td>
+      Formbuilder Demo</a></td>
     <td>JSON</p>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -216,11 +216,11 @@ user-centric forms, offering an unparalleled development experience.</p>
   <tr>
     <td><b>Formbuilder.dev</b></td>
     <td><a href="https://formbuilder.dev/" target="_blank" rel="noopener noreferrer">
-	  Formbuilder.dev</a></td>
+      Formbuilder.dev</a></td>
     <td><a href="https://github.com/optimajet/formbuilder" target="_blank" rel="noopener noreferrer">
-	  Formbuilder.dev GH</a></td>
+      Formbuilder.dev GH</a></td>
     <td><a href="https://formbuilder.dev/demo/" target="_blank" rel="noopener noreferrer">
-	  Formbuilder.dev Demo</a></td>
+      Formbuilder.dev Demo</a></td>
     <td>React</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -230,11 +230,11 @@ user-centric forms, offering an unparalleled development experience.</p>
   <tr>
     <td><b>React Hook Form</b></td>
     <td><a href="https://react-hook-form.com/" target="_blank" rel="noopener noreferrer">
-	  React Hook Form</a></td>
+      React Hook Form</a></td>
     <td><a href="https://github.com/react-hook-form/react-hook-form" target="_blank" rel="noopener noreferrer">
-	  ReactHookForm GH</a></td>
+      ReactHookForm GH</a></td>
     <td><a href="https://codesandbox.io/examples/package/react-hook-form" target="_blank" rel="noopener noreferrer">
-	  React Hook Form Demo</a></td>
+      React Hook Form Demo</a></td>
     <td>React</td>
   </tr>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -441,17 +441,82 @@ at hand.</p>
 with the framework. Vue Router facilitates navigation between different views in a Vue.js 
 application, while Vuex provides a state management pattern for managing application-wide data.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="3-image-carousels">• Image Carousels #3 JavaScript libraries for Image Carousels: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <table style="width:75%">
   <caption>Image Carousel #3 JS Libraries for Image Carousels</caption>
   <tr>
     <th><b>Name</b></th>
-	<th>Website</th>
-	<th>GitHub</th>
-	<th>Demo</th>
-	<th>Type</th>
+    <th>Website</th>
+    <th>GitHub</th>
+    <th>Demo</th>
+    <th>Type</th>
+  </tr>
+  <tr>
+    <td><b>Swiper</b></td>
+    <td><a href="https://swiperjs.com/" target="_blank" rel="noopener noreferrer">
+      SwiperJS</a></td>
+    <td><a href="https://github.com/nolimits4web/swiper" target="_blank" rel="noopener noreferrer">
+      SwiperJS GH</a></td>
+    <td><a href="https://swiperjs.com/demos" target="_blank" rel="noopener noreferrer">
+      SwiperJS Demos</a></td>
+    <td>Swiper is the most modern free mobile touch slider with hardware accelerated 
+      transitions and amazing native behavior. It is intended to be used in mobile 
+      websites, mobile web apps, and mobile native/hybrid apps. Swiper is not 
+      compatible with all platforms, it is a modern touch slider which is focused only 
+      on modern apps/platforms to bring the best experience and simplicity.</td>
+  </tr>
+  <tr>
+    <td><b>Owl Carousel 2</b></td>
+    <td><a href="https://owlcarousel2.github.io/OwlCarousel2/" target="_blank" rel="noopener noreferrer">
+      Owl Carousel 2</a></td>
+    <td><a href="https://owlcarousel2.github.io/OwlCarousel2/" target="_blank" rel="noopener noreferrer">
+      Owl Carousel 2 GH</a></td>
+    <td><a href="https://owlcarousel2.github.io/OwlCarousel2/demos/demos.html" target="_blank" rel="noopener noreferrer">
+      Owl Carousel 2 Demo</a></td>
+    <td>Touch enabled jQuery plugin that lets you create a beautiful responsive carousel 
+      slider. Owl Carousel has been chosen as the number one jQuery plugin by hundreds 
+      of developers. Now its time for a new version that comes with lots of new features 
+      and an even more user-friendly API.</td>
+  </tr>
+  <tr>
+    <td><b>Slick Slider</b></td>
+    <td><a href="https://kenwheeler.github.io/slick/" target="_blank" rel="noopener noreferrer">
+      Slick Slider</a></td>
+    <td><a href="https://github.com/kenwheeler/slick" target="_blank" rel="noopener noreferrer">
+      Slick Slider GH</a></td>
+    <td><a href="https://kenwheeler.github.io/slick/" target="_blank" rel="noopener noreferrer">
+      Slick Slider Demo</a></td>
+    <td>Fully responsive. Scales with its container. Separate settings per breakpoint 
+      Uses CSS3 when available. Fully functional when not. Swipe enabled. Or disabled, 
+      if you prefer. Desktop mouse dragging Infinite looping. Fully accessible with 
+      arrow key navigation Add, remove, filter & unfilter slides Autoplay, dots, arrows, 
+      callbacks, etc...</td>
+  </tr>
+  <tr>
+    <td><b>ItemSlider</b></td>
+    <td><a href="https://github.com/codrops/ItemSlider" target="_blank" rel="noopener noreferrer">
+      ItemSlider</a></td>
+    <td><a href="https://github.com/codrops/ItemSlider" target="_blank" rel="noopener noreferrer">
+      ItemSlider GH</a></td>
+    <td><a href="https://smartslider3.com/sample-sliders/" target="_blank" rel="noopener noreferrer">
+      Item Slider Demo</a></td>
+    <td>A tutorial on how to create a simple category slider with a minimal design using 
+      CSS animations and jQuery. The idea is to slide the items sequentially depending 
+      on the slide direction.</td>
+  </tr>
+  <tr>
+    <td><b>blueimp Gallery</b></td>
+    <td><a href="https://blueimp.github.io/Gallery/" target="_blank" rel="noopener noreferrer">
+	  blueimp Gallery</a></td>
+    <td><a href="https://blueimp.github.io/Gallery/"  target="_blank" rel="noopener noreferrer">
+	  blueimp Gallery GH</a></td>
+    <td></td>
+    <td>blueimp Gallery is a touch-enabled, responsive and customizable image & video 
+	  gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. 
+	  It features swipe, mouse and keyboard navigation, transition effects, slideshow 
+	  functionality, fullscreen support, and on-demand content loading and can be 
+	  extended to display additional content types.</td>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -461,10 +526,10 @@ application, while Vuex provides a state management pattern for managing applica
   <caption>Games #4 JS Libraries for Games</caption>
   <tr>
     <th><b>Name</b></th>
-	<th>Website</th>
-	<th>GitHub</th>
-	<th>Demo</th>
-	<th>Type</th>
+    <th>Website</th>
+    <th>GitHub</th>
+    <th>Demo</th>
+    <th>Type</th>
   </tr>
 </table>
 
@@ -475,10 +540,10 @@ application, while Vuex provides a state management pattern for managing applica
   <caption>Info Graphics #5 JS Libraries for Information Graphics</caption>
   <tr>
     <th><b>Name</b></th>
-	<th>Website</th>
-	<th>GitHub</th>
-	<th>Demo</th>
-	<th>Type</th>
+    <th>Website</th>
+    <th>GitHub</th>
+    <th>Demo</th>
+    <th>Type</th>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -488,10 +553,10 @@ application, while Vuex provides a state management pattern for managing applica
   <caption>Image &amp; 3-D Effects #6 JavaScript Libraries for Image and 3-D Effects for the canvas element</caption>
   <tr>
     <th><b>Name</b></th>
-	<th>Website</th>
-	<th>GitHub</th>
-	<th>Demo</th>
-	<th>Type</th>
+    <th>Website</th>
+    <th>GitHub</th>
+    <th>Demo</th>
+    <th>Type</th>
   </tr>
   <tr>
 <!-- Three.js 
@@ -501,13 +566,13 @@ complexities of WebGL, a low-level graphics API, making it easier for developers
 work with 3D graphics in the browser. 
 -->
     <td><b><a href="https://themeselection.com/javascript-3d-library/?srsltid=AfmBOoqE0onQM6K-D6hFJAftUEq3m_22Z8lI8SaXa_8HUS0GYTLjQjKq#h-three-js" target="_blank" rel="noopener noreferrer">
-	  Three.js</a></b></td>
+      Three.js</a></b></td>
     <td><b><a href="https://henryegloff.com/awesome-examples-of-three-js/" target="_blank" rel="noopener noreferrer">
-	  Three.js</a></b></td>
+      Three.js</a></b></td>
     <td><a href="https://discourse.threejs.org/t/drei-reveal-demo-full-source/22935" target="_blank" rel="noopener noreferrer">
-	  Three.js GH</a></td>
+      Three.js GH</a></td>
     <td><a href="https://codesandbox.io/p/sandbox/drei-reflector-bfplr" target="_blank" rel="noopener noreferrer">
-	  Sandbox Three.js</a></td>
+      Sandbox Three.js</a></td>
     <td>JS</td>
   </tr>
   <tr>
@@ -518,11 +583,11 @@ attributes. It has a built-in staggering system, callbacks and controls, and var
 easing and animation effects.
 -->
     <td><b><a href="https://animejs.com/" target="_blank" rel="noopener noreferrer">
-	  Anime.js</a></b></td>
+      Anime.js</a></b></td>
     <td><a href="https://github.com/topics/animejs?l=vue&o=desc&s=" target="_blank" rel="noopener noreferrer">
-	  Anime.js GH</a></td>
+      Anime.js GH</a></td>
     <td><a href="https://freefrontend.com/anime-js-examples/" target="_blank" rel="noopener noreferrer">
-	  Anime.js Demo</a></td>
+      Anime.js Demo</a></td>
     <td>JS</td>
   </tr>
   <tr>
@@ -533,13 +598,13 @@ Bodymovin plugin. It allows you to use complex animations created by designers
 without coding them manually.
 -->
     <td><b><a href="https://airbnb.io/lottie/#/" target="_blank" rel="noopener noreferrer">
-	  Lottie</a></b></td>
+      Lottie</a></b></td>
     <td><a href="https://github.com/airbnb/lottie" target="_blank" rel="noopener noreferrer">
-	  Lottie GH</a></td>
+      Lottie GH</a></td>
     <td><a href="https://lottiefiles.com/free-animations/demo" target="_blank" rel="noopener noreferrer">
-	  Lottie Demo</a></td>
+      Lottie Demo</a></td>
     <td><a href="https://github.com/airbnb/lottie" target="_blank" rel="noopener noreferrer">
-	  JS</a></td>
+      JS</a></td>
   </tr>
   <tr>
     <td><b>ScrollReveal</b></td>
@@ -549,13 +614,13 @@ designed to be robust and flexible, but hopefully you’ll be surprised below at
 easy it is to pick up.
 -->
     <td><b><a href="https://scrollrevealjs.org/" target="_blank" rel="noopener noreferrer">
-	  ScrollReveal</a></b></td>
+      ScrollReveal</a></b></td>
     <td><a href="https://github.com/topics/scrollreveal?l=javascript&o=desc&s=forks" target="_blank" rel="noopener noreferrer">
-	  ScrollReveal GH</a></td>
+      ScrollReveal GH</a></td>
     <td><a href="https://codepen.io/whatthephuc/pen/LjPBZa" target="_blank" rel="noopener noreferrer">
-	  ScrollReveal CodePen</a></td>
+      ScrollReveal CodePen</a></td>
     <td><a href="https://anijs.github.io/examples/scrollreveal/" target="_blank" rel="noopener noreferrer">
-	  AniJS Examples</a></td>
+      AniJS Examples</a></td>
 <!--  https://github.com/jlmakes/scrollreveal  -->
   </tr>
   <tr>
@@ -564,11 +629,11 @@ easy it is to pick up.
 Tiny animator's toolbox supports keyframe and spring animations for numbers, colors and complex strings.
 -->
     <td><b><a href="https://popmotion.io/" target="_blank" rel="noopener noreferrer">
-	  Popmotion</a></b></td>
+      Popmotion</a></b></td>
     <td><a href="https://github.com/Popmotion/popmotion" target="_blank" rel="noopener noreferrer">
-	  Popmotion GH</a></td>
+      Popmotion GH</a></td>
     <td><a href="https://popmotion.io/pose/examples/accordion/" target="_blank" rel="noopener noreferrer">
-	  Pose Examples</a></td>
+      Pose Examples</a></td>
     <td>JS</td>
   </tr>
   <tr>
@@ -579,11 +644,11 @@ like html, shape, swirl, burst and stagger, but also bring you tools to help cra
 your animation in a most natural way.
 -->
     <td><b><a href="https://mojs.github.io/" target="_blank" rel="noopener noreferrer">
-	  Mo.js</a></b></td>
+      Mo.js</a></b></td>
     <td><a href="https://github.com/mojs" target="_blank" rel="noopener noreferrer">
-	  Mo.js GH</a></td>
+      Mo.js GH</a></td>
     <td><a href="https://codemyui.com/tag/mo-js/" target="_blank" rel="noopener noreferrer">
-	  Mo.js Demo</a></td>
+      Mo.js Demo</a></td>
     <td>JS</td>
   </tr>
   <tr>
@@ -595,11 +660,11 @@ a high performance.
 Accelerated JavaScript animation.
 -->
     <td><b><a href="http://velocityjs.org/" target="_blank" rel="noopener noreferrer">
-	  Velocity.js</a></b></td>
+      Velocity.js</a></b></td>
     <td><a href="https://github.com/cohenerickson/Velocity" target="_blank" rel="noopener noreferrer">
-	  Velocity GH</a></td>
+      Velocity GH</a></td>
     <td><a href="https://codemyui.com/tag/velocity-js/" target="_blank" rel="noopener noreferrer">
-	  Velocity Demo</a></td>
+      Velocity Demo</a></td>
     <td>JS</td>
   </tr>
   <tr>
@@ -608,13 +673,13 @@ Accelerated JavaScript animation.
 GreenSock Animation Platform - A library for building high-performance animations that work in every major browser. It can animate anything on the web, including CSS, SVG, canvas, React, Vue and more. It has advanced features like motion paths, physics, morphing and more.
 -->
     <td><b><a href="https://gsap.com/" target="_blank" rel="noopener noreferrer">
-	  GSAP.com</a></b></td>
+      GSAP.com</a></b></td>
     <td><a href="https://github.com/greensock/GSAP" target="_blank" rel="noopener noreferrer">
-	  GSAP GH</a></td>
+      GSAP GH</a></td>
     <td><a href="https://codepen.io/GreenSock/collections/" target="_blank" rel="noopener noreferrer">
-	  GSAP Examples</a></td>
+      GSAP Examples</a></td>
     <td><a href="https://gsap.com/demos/" target="_blank" rel="noopener noreferrer">
-	  GSAP Demos</a></td>
+      GSAP Demos</a></td>
   </tr>
   <tr>
     <td><b>ScrollMagic</b></td>
@@ -622,11 +687,11 @@ GreenSock Animation Platform - A library for building high-performance animation
 A library for creating scroll interactions with JavaScript and CSS. It can trigger animations based on scroll position and pin elements within the viewport. It has over 11K stars on GitHub.
 -->
     <td><b><a href="https://scrollmagic.io/" target="_blank" rel="noopener noreferrer">
-	  ScrollMagic.io</a></b></td>
+      ScrollMagic.io</a></b></td>
     <td><a href="https://github.com/ANSHPG/SCROLL-MAGIC" target="_blank" rel="noopener noreferrer">
-	  ScrollMagic GH</a></td>
+      ScrollMagic GH</a></td>
     <td><a href="https://scrollmagic.io/examples/" target="_blank" rel="noopener noreferrer">
-	  ScrollMagic Examples</a></td>
+      ScrollMagic Examples</a></td>
     <td>JS</td>
   </tr>
   <tr>
@@ -636,11 +701,11 @@ A library that types. Enter in any string, and watch it type at the speed you've
 backspace what it's typed, and begin a new sentence for however many strings you've set.
 -->
     <td><b><a href="https://github.com/mattboldt/typed.js" target="_blank" rel="noopener noreferrer">
-	  Typed.js</a></b></td>
+      Typed.js</a></b></td>
     <td><a href="https://github.com/mattboldt/typed.js" target="_blank" rel="noopener noreferrer">
-	  Typed.js GH</a></td>
+      Typed.js GH</a></td>
     <td><a href="https://codepen.io/merb/pen/yOwJjj" target="_blank" rel="noopener noreferrer">
-	  Typed.js Codepen</a></td>
+      Typed.js Codepen</a></td>
     <td>JS</td>
   </tr>
 </table>
@@ -747,9 +812,9 @@ website backgrounds, apparel, branding, packaging design and more.</p>
 <table style="width:75%">
   <caption>Database Handling #8 JS Libraries for Database Handling</caption>
   <tr>
-	<th><b>JS library Name</b></th>
-	<th>Website:</th>
-	<th>GitHub:</th>
+    <th><b>JS library Name</b></th>
+    <th>Website:</th>
+    <th>GitHub:</th>
     <th>Demo:</th>
     <th>Type of library/framework:</th>
   </tr>
@@ -764,10 +829,10 @@ website backgrounds, apparel, branding, packaging design and more.</p>
   <caption>Database Handling #8 JS Libraries for Database Handling</caption>
   <tr>
     <th><b>Name</b></th>
-	<th>Website</th>
-	<th>GitHub</th>
-	<th>Demo</th>
-	<th>Type/language</th>
+    <th>Website</th>
+    <th>GitHub</th>
+    <th>Demo</th>
+    <th>Type/language</th>
   </tr>
   <tr>
     <td><b>Name of website</b></td>
@@ -784,10 +849,10 @@ website backgrounds, apparel, branding, packaging design and more.</p>
   <caption>Touch Gestures #9 JS Libraries for Touch Gestures</caption>
   <tr>
     <th><b>Name</b></th>
-	<th>Website</th>
-	<th>GitHub</th>
-	<th>Demo</th>
-	<th>Type/language</th>
+    <th>Website</th>
+    <th>GitHub</th>
+    <th>Demo</th>
+    <th>Type/language</th>
   </tr>
   <tr>
     <td><b>Name of website</b></td>
@@ -842,5 +907,6 @@ locally in the process memory.</p>
 
 
 <h7>Date Created: 5/27/2025 10:00p<br>
-Date Last Editted: 5/27/2025 10:41p</h7>
-Date Last Editted: 5/28/2025 12:35p</h7>
+Date Last Editted: 5/27/2025 10:41p<br>
+Date Last Editted: 5/28/2025 12:35p<br>
+Date Last Editted: 6/05/2025 4:19p</h7>
