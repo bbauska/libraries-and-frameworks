@@ -76,7 +76,8 @@ many of their libraries modular, and they continue to make efforts to optimize t
 code. In some cases, it’s also possible to customize the script and use just the parts 
 you need.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="jquery"><a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">jQuery and Other Libraries</a></h2>
+<h2 id="jquery"><a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
+jQuery and Other Libraries</a></h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>As of this writing, the overwhelmingly dominant JavaScript library is <b><mark>jQuery 
 (jquery.com)</mark></b>. Chances are, if you use a library, it will be that one (or at least 
@@ -99,8 +100,9 @@ search for it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="js-libs">JavaScript Libraries</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-“JavaScript libraries for _____________” and see what is available. Some
-library categories include the following:
+<h3>“JavaScript libraries for _____________” and see what is available. Some library 
+categories include the following:</h3>
+<h4>
 <ol start="1">
   <li id="#1-forms">• Forms •</li>
   <li id="#2-animation">• Animation •</li>
@@ -112,6 +114,7 @@ library categories include the following:
   <li id="#8-db-handling">• Database handling •</li>
   <li id="#9-touch-gestures">• Touch gestures •</li>
 </ol>
+</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="1-forms">• Forms #1 JavaScript libraries for <b>Forms</b>: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
