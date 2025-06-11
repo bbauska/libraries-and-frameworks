@@ -564,31 +564,45 @@ application, while Vuex provides a state management pattern for managing applica
   <tr>
     <td><b>Phaser</b></td>
     <td>https://phaser.io/</td>
-    <td>
-      <ul>  <!-- key features -->
+    <td>  <!-- key features -->
+      <ul>
         <li>Version Control:<br>
           Host your code version in a Git-based repository. We can collaborate through pull 
           requests, code reviews, or just discussions. Project management: With automatic 
           problem tracking and project boards.</li>
+	  </ul>
+    </td>
+	<td>  <!-- advantages -->
+	  <ul>
         <li>Community:<br>
           Large following with documentation. Integrates with numerous development and 
           CI/CD tools. Free Plan: Free plan with an unlimited amount of public 
           repositories.</li>
+	  </ul>
+	</td>
+	<td>  <!-- disadvantages -->
+	  <ul>
         <li>Pricing:<br>
-          This is a paid plan; it includes advanced features and private repositories. 
-          Complexity: Can be complex for beginners to navigate.</li>
+          This is a paid plan; it includes advanced features and private repositories.</li>
+	    <li>Complexity: Can be complex for beginners to navigate.</li>
+	  </ul>
+    </td>
+	<td>  <!-- famouse projects -->
+	  <ul>
         <li>"Candy Crush Saga": Although not entirely built with Phaser, elements of the 
-          game were created using it for web-based versions. "Slither.io": The online 
-          multiplayer game is known for its simple but engaging gameplay and was 
-          developed using Phaser.</li>
-        <li>Phaser is an open-source, free framework; it happens to be both fast and 
+          game were created using it for web-based versions.<br>
+		  "Slither.io": The online multiplayer game is known for its simple but engaging 
+		  gameplay and was developed using Phaser.</li>
+      </ul>
+    </td>
+	<td>  <!-- description -->
+        Phaser is an open-source, free framework; it happens to be both fast and 
           allows a developer to create games in HTML5 on the Desktop and Mobile. 
           Including physics, sprite management, and animation systems, it provides one 
           with powerful suites of game development tools. It is heavily documented and 
           has a thriving user community so developers of all experience levels can use 
           it. Doing this depends a lot on WebGL and Canvas, so it can be a cause for 
-          real performance issues on lower-end devices.</li>
-      </ul>
+          real performance issues on lower-end devices.
     </td>
   </tr>
   <tr>
