@@ -276,11 +276,11 @@ user-centric forms, offering an unparalleled development experience.</p>
     <th>Type</th>
   </tr>
   <tr>
-    <td><b><a href="" 
+    <td><b><a href="https://fengyuanchen.github.io/cropperjs/v1/" 
       target="_blank" rel="noopener noreferrer">Cropper.js</a></b></td>
     <td><a href="https://fengyuanchen.github.io/cropperjs/v1/" 
       target="_blank" rel="noopener noreferrer">Cropper.js</a></td>
-    <td><a href="https://github.com/fengyuanchen/cropperjs/tree/v1" 
+    <td><a href="https://github.com/fengyuanchen/cropperjs" 
       target="_blank" rel="noopener noreferrer">Cropper.js GH</a></td>
     <td><a href="https://fengyuanchen.github.io/photo-editor/" 
       target="_blank" rel="noopener noreferrer">Cropper.js demo</a></td>
@@ -288,7 +288,7 @@ user-centric forms, offering an unparalleled development experience.</p>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>Fabric.js:</h4>
+<h4><a href="https://fabricjs.com/">Fabric.js</a>:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A powerful canvas library that allows you to manipulate images, draw shapes, and add text 
 with ease.</p>
@@ -297,16 +297,16 @@ GitHub:
 Demo: 
 Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>CamanJS:</h4>
+<h4><a href="https://cdnjs.com/libraries/camanjs">CamanJS</a>:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A library specializing in image filters and effects, providing a range of Instagram-like 
 filters and adjustments.</p>
 <b>Website:</b>
-GitHub: 
-Demo: 
+GitHub: https://github.com/meltingice/CamanJS
+Demo: https://www.sitepoint.com/manipulating-images-web-pages-camanjs/
 Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>PixiJS:</h4>
+<h4><a href="https://pixijs.com/">PixiJS</a>:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A fast 2D rendering library that can also be used for image manipulation and effects.</p>
 <b>Website:</b>
@@ -314,7 +314,7 @@ GitHub:
 Demo: 
 Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>Three.js:</h4>
+<h4><a href="https://threejs.org/">Three.js</a>:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The most popular 3D library for the web, offering a comprehensive set of tools for 
 creating 3D scenes, animations, and effects.</p>
@@ -323,7 +323,7 @@ GitHub:
 Demo: 
 Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>Babylon.js:</h4>
+<h4><a href="https://www.babylonjs.com/">Babylon.js</a>:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Another powerful 3D engine, offering a slightly different approach to Three.js, with a 
 focus on performance and ease of use.</p>
@@ -332,7 +332,7 @@ GitHub:
 Demo: 
 Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>Zdog:</h4>
+<h4><a href="https://zzz.dog/">Zdog</a>:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A lightweight library for creating flat, pseudo-3D designs with a designer-friendly API.</p>
 <b>Website:</b>
@@ -340,7 +340,7 @@ GitHub:
 Demo: 
 Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>A-Frame:</h4>
+<h4><a href="https://aframe.io/docs/1.7.0/introduction/">A-Frame</a>:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A framework built on top of Three.js, making it easier to create WebVR experiences using 
 HTML-like tags.</p>
@@ -366,7 +366,7 @@ ability to streamline development tasks, improve code maintainability, and enhan
 experience. Let's take a closer look at some of the most influential JavaScript libraries 
 and frameworks available today:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>1. jQuery:</h3>
+<h3>1. <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">jQuery</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b><mark>jQuery</mark></b> is a fast, lightweight, and feature-rich JavaScript library that 
 simplifies HTML document traversal, event handling, and animation. It provides an 
@@ -375,7 +375,7 @@ perform AJAX requests, create animations, and more. jQuery's popularity stems fr
 ability to abstract away the complexities of cross-browser compatibility and provide an 
 easy-to-use interface for common JavaScript operations.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>2. React:</h3>
+<h3>2. <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b><mark>React</mark></b> is a powerful JavaScript library developed by Facebook for building user 
 interfaces. It adopts a component-based architecture, allowing developers to build 
@@ -384,7 +384,7 @@ changes. React leverages a virtual DOM, which minimizes actual DOM manipulations
 optimizes performance. React's popularity is driven by its simplicity, performance, 
 and thriving ecosystem.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>3. Vue.js:</h3>
+<h3>3. <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">Vue.js</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b><mark>Vue.js</mark></b> is a progressive JavaScript framework that excels in building user 
 interfaces. It boasts a gentle learning curve, making it accessible to newcomers, while 
