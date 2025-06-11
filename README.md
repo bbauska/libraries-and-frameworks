@@ -7,22 +7,26 @@
 <h3>Benefits of using Libraries and Frameworks</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol type="1">
-  <li>Increased Productivity: Libraries and frameworks provide pre-built solutions for common tasks,
-   reducing development time and effort. They abstract away the complexities, allowing developers
-   to focus on building application-specific features rather than reinventing the wheel.</li>
-  <li>Code Maintainability and Organization: Libraries and frameworks often encourage best
-   practices and provide guidelines for code organization. By following their patterns and
-   conventions, developers can create well-structured, modular, and maintainable codebases.</li>
-  <li>Improved Performance: Many libraries and frameworks implement optimizations and performance 
-   enhancements behind the scenes. For example, React's virtual DOM efficiently updates the UI, 
-   reducing unnecessary re-rendering and enhancing performance.</li>
-  <li>Cross-Browser Compatibility: Libraries and frameworks handle the nuances and inconsistencies
-   across different browsers, ensuring that your code works consistently across various 
-   platforms and versions. This saves valuable time spent on browser-specific troubleshooting.</li>
-  <li>Thriving Communities and Ecosystems: Popular libraries and frameworks have vibrant 
-   communities and extensive ecosystems. This means you have access to abundant resources, 
-   documentation, tutorials, and a supportive community to help you along your development 
-   journey.</li>
+  <li><b>Increased Productivity</b>: Libraries and frameworks provide pre-built solutions 
+    for common tasks, reducing development time and effort. They abstract away the 
+	complexities, allowing developers to focus on building application-specific features 
+	rather than reinventing the wheel.</li>
+  <li><b>Code Maintainability and Organization</b>: Libraries and frameworks often 
+    encourage best practices and provide guidelines for code organization. By following 
+	their patterns and conventions, developers can create well-structured, modular, and 
+	maintainable codebases.</li>
+  <li><b>Improved Performance</b>: Many libraries and frameworks implement optimizations 
+    and performance enhancements behind the scenes. For example, React's virtual DOM 
+	efficiently updates the UI, reducing unnecessary re-rendering and enhancing 
+	performance.</li>
+  <li><b>Cross-Browser Compatibility</b>: Libraries and frameworks handle the nuances and
+    inconsistencies across different browsers, ensuring that your code works consistently 
+	across various platforms and versions. This saves valuable time spent on browser-
+	specific troubleshooting.</li>
+  <li><b>Thriving Communities and Ecosystems</b>: Popular libraries and frameworks have 
+    vibrant communities and extensive ecosystems. This means you have access to abundant 
+	resources, documentation, tutorials, and a supportive community to help you along 
+	your development journey.</li>
  </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ajax">What Is Ajax?</h2>
@@ -522,6 +526,7 @@ application, while Vuex provides a state management pattern for managing applica
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="4-games">• Games #4 JavaScript libraries for Games: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Name:</h3>
 <table style="width:75%">
   <caption>Games #4 JS Libraries for Games</caption>
   <tr>
@@ -536,28 +541,71 @@ application, while Vuex provides a state management pattern for managing applica
   <tr>
     <td><b>Phaser</b></td>
 	<td>https://phaser.io/</td>
-	<td>Version Control: Host your code version in a Git-based repository. We can collaborate through pull requests, code reviews, or just discussions. Project management: With automatic problem tracking and project boards.</td>
-	<td>Community: Large following with documentation. Integrates with numerous development and CI/CD tools. Free Plan: Free plan with an unlimited amount of public repositories.</td>
-    <th>Pricing: This is a paid plan; it includes advanced features and private repositories. Complexity: Can be complex for beginners to navigate.</th>
-    <th>"Candy Crush Saga": Although not entirely built with Phaser, elements of the game were created using it for web-based versions. "Slither.io": The online multiplayer game is known for its simple but engaging gameplay and was developed using Phaser.</th>
-	<td>Phaser is an open-source, free framework; it happens to be both fast and allows a developer to create games in HTML5 on the Desktop and Mobile. Including physics, sprite management, and animation systems, it provides one with powerful suites of game development tools. It is heavily documented and has a thriving user community so developers of all experience levels can use it. Doing this depends a lot on WebGL and Canvas, so it can be a cause for real performance issues on lower-end devices.</td>
+	<td>
+	  <ul>  <!-- key features -->
+	    <li>Version Control:<br>
+		  Host your code version in a Git-based repository. We can collaborate through pull 
+		  requests, code reviews, or just discussions. Project management: With automatic 
+		  problem tracking and project boards.</li>
+	    <li>Community:<br>
+		  Large following with documentation. Integrates with numerous development and 
+		  CI/CD tools. Free Plan: Free plan with an unlimited amount of public 
+		  repositories.</li>
+        <li>Pricing:<br>
+		  This is a paid plan; it includes advanced features and private repositories. 
+		  Complexity: Can be complex for beginners to navigate.</li>
+        <li>"Candy Crush Saga": Although not entirely built with Phaser, elements of the 
+		  game were created using it for web-based versions. "Slither.io": The online 
+		  multiplayer game is known for its simple but engaging gameplay and was 
+		  developed using Phaser.</li>
+	    <li>Phaser is an open-source, free framework; it happens to be both fast and 
+		  allows a developer to create games in HTML5 on the Desktop and Mobile. 
+		  Including physics, sprite management, and animation systems, it provides one 
+		  with powerful suites of game development tools. It is heavily documented and 
+		  has a thriving user community so developers of all experience levels can use 
+		  it. Doing this depends a lot on WebGL and Canvas, so it can be a cause for 
+		  real performance issues on lower-end devices.</li>
+	  </ul>
+	</td>
   </tr>
   <tr>
     <td><b>Three.js</b></td>
 	<td>https://threejs.org/</td>
-	<td>3D Rendering: It is designed to be user-friendly in making 3D scenes and objects. Camera Options: In-game options for moving and interacting with the camera. Shaders: Great support for writing custom shaders.</td>
-	<td>Visual Quality: This is referred to as high-quality 3D graphics and animations. Flexibility: Very versatile to a wide range of different 3D projects' needs. Community support: good community, useful resources.</td>
-	<td>Learning Curve: Demands good 3D mathematics. This may place a high demand on system resources, which could affect performance on lower-end devices.</td>
+	<td>
+	  <ul>  <!-- key features -->
+	    <li>3D Rendering:<br>
+		  It is designed to be user-friendly in making 3D scenes and objects.</li>
+		<li>Camera Options:<br>
+		  In-game options for moving and interacting with the camera.</li>
+        <li>Shaders:<br>
+		  Great support for writing custom shaders.</li>
+		<li>Visual Quality:<br>
+		  This is referred to as high-quality 3D graphics and animations.</li>
+        <li>Flexibility:<br>
+		  Very versatile to a wide range of different 3D projects' needs.</li>
+		<li>Community support:<br>
+		  Good community, useful resources.</li>
+	  </ul>
+	</td>
+	<td>Learning Curve:<br>  <!-- disadvantages -->
+	Demands good 3D mathematics. This may place a high demand on system resources, which could affect performance on lower-end devices.</td>
+    <!-- famous projects -->
 	<td>"A-Frame": A web framework for building virtual reality (VR) experiences. Many VR demos use Three.js as their rendering engine. "Google Chrome Experiments": Various projects and interactive experiences featured on the Chrome Experiments site leverage Three.js for stunning visuals.</td>
+	<!-- description -->
 	<td>Three.js is a JavaScript library that greatly eases working with WebGL, which is an API for low-level and complex graphics. Most importantly, it makes it possible to create real three-dimensional rich content directly in a browser without participation by plug-ins. Its features in composition make Three.js properly ideal for the creation of immersive 3D games with camera controls, lighting, and shading.</td>
   </tr>
   <tr>
     <td><b>Balyon.js</b></td>
+	
 	<td>https://www.babylonjs.com/</td>
+	
 	<td>Physics Engine: Integrated support for physics-based interactions. Audio Engine: Powerful sound for an immersive experience. Visual Editor: Integrated visual development environment.</td>
+	
 	<td>Performance: Engineered to offer peak performance in high. Feature-packed: Contains many features to develop advanced games. Documentation: It has extensive documentation and a large community.</td>
 	<td>Complexity High: A firm grasp of 3D development is required. Resource Intensive: May be resource-heavy.</td>
+	
 	<td>"Gangs of Space": An online multiplayer space shooter game that utilizes Babylon.js for its 3D graphics. "The Legend of Zelda: Ocarina of Time" (3D project): A fan remake that showcases the capabilities of Babylon.js in creating immersive 3D environments.</td>
+	
 	<td>Another powerful 3-D engine in the hands of developers makes use of the potential of WebGL to create captivating real-time 3-D graphics within a web browser. It also includes robust tools for collision, physics, and audio. Babylon.js comes with its visual editor, speeding up development along with already fast development. One needs to have a pretty good grasp over 3-D mathematics in order to make full use of this. But that's kind of smoothed out by the fact that it offers comprehensive documentation and there is an active community to help you.</td>
   </tr>
   <tr>
@@ -975,4 +1023,5 @@ locally in the process memory.</p>
 <h7>Date Created: 5/27/2025 10:00p<br>
 Date Last Editted: 5/27/2025 10:41p<br>
 Date Last Editted: 5/28/2025 12:35p<br>
-Date Last Editted: 6/05/2025 4:19p</h7>
+Date Last Editted: 6/05/2025 4:19p<br>
+Date Last Editted: 6/11/2025 12:32p</h7>
