@@ -2,7 +2,7 @@
 <!-- README.md of https://github.com/bbauska/libraries-and-frameworks -->
 <h1 id="libs-and-frames">JavaScript libraries and frameworks</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Libraries and Frameworks in Web Front-End Development</p>
+<h2>Libraries and Frameworks in Web Front-End Development</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Benefits of using Libraries and Frameworks</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -29,11 +29,16 @@
 	your development journey.</li>
  </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ajax">What Is Ajax?</h2>
+<h2 id="ajax"><a href="https://www.geeksforgeeks.org/jquery/what-is-ajax/" 
+target="_blank" rel="noopener noreferrer">What Is Ajax?</a></h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b><mark>Ajax</mark></b> (sometimes written AJAX) stands for <b><mark>Asynchronous JavaScript 
 And XML</mark></b>. The “XML” part isn’t that important—you don’t have to use XML to use 
-Ajax (more on that in a moment).</p>
+Ajax (more on that in a moment). <a href="https://api.jquery.com/jQuery.ajax/" target="_blank" 
+rel="noopener noreferrer">jQuery.ajax()</a>.</p>
+<a href="https://dev.to/nikola/making-ajax-calls-in-pure-javascript-the-old-way-ed5" 
+target="_blank" rel="noopener noreferrer">Making AJAX calls in pure JavaScript, the old 
+fashioned way</a>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The “asynchronous” part is what matters.</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -71,7 +76,7 @@ many of their libraries modular, and they continue to make efforts to optimize t
 code. In some cases, it’s also possible to customize the script and use just the parts 
 you need.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="jquery">jQuery and Other Libraries</h2>
+<h2 id="jquery"><a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">jQuery and Other Libraries</a></h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>As of this writing, the overwhelmingly dominant JavaScript library is <b><mark>jQuery 
 (jquery.com)</mark></b>. Chances are, if you use a library, it will be that one (or at least 
@@ -187,7 +192,7 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--    <td>Form validation library</td>  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td><b>ValidateJS</b></td>
+    <td><b><a href="https://validatejs.org/" target="_blank" rel="noopener noreferrer">ValidateJS</a></b></td>
     <td><a href="https://validatejs.org/" target="_blank" rel="noopener noreferrer">
       ValidateJS</a></td>
     <td><a href="https://github.com/ansman/validate.js" target="_blank" rel="noopener noreferrer">
