@@ -144,10 +144,10 @@ user-centric forms, offering an unparalleled development experience.</p>
       Form-js Examples</a></td>
     <td>JSON</td>
   </tr>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <h4>SurveyJS</h4>  -->
-<!--    <td>Automate forms workflow and retain full ownership of respondent data.</td>  -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--  <h4>SurveyJS</h4>  -->
+  <!--    <td>Automate forms workflow and retain full ownership of respondent data.</td>  -->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b><a href="https://surveyjs.io/" target="_blank" rel="noopener noreferrer">
       SurveyJS</a></b></td>
@@ -159,10 +159,10 @@ user-centric forms, offering an unparalleled development experience.</p>
       SurveyJS Doc'n</a></td>
     <td>JSON</td>
   </tr>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <h4>Parsley JS</h4>  -->
-<!-- <td>Form validation library</td>  -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--  <h4>Parsley JS</h4>  -->
+  <!-- <td>Form validation library</td>  -->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b><a href="https://parsleyjs.org" target="_blank" rel="noopener noreferrer">
       parsleyJS.org</a></b></td>
@@ -174,10 +174,10 @@ user-centric forms, offering an unparalleled development experience.</p>
       Example ParsleyJS</a></td>
     <td>JS</td>
   </tr>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <h4>Form validation</h4>  -->
-<!--    <td>Form validation library</td>  -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--  <h4>Form validation</h4>  -->
+  <!--    <td>Form validation library</td>  -->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b><a href="https://formvalidation.io/" target="_blank" rel="noopener noreferrer">
       formvalidation.io</a></b></td>
@@ -190,10 +190,10 @@ user-centric forms, offering an unparalleled development experience.</p>
       formvalidation Demo</a></td>
     <td>JS, YAML</td>
   </tr>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <h4>ValidateJS</h4>  -->
-<!--    <td>Form validation library</td>  -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--  <h4>ValidateJS</h4>  -->
+  <!--    <td>Form validation library</td>  -->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b><a href="https://validatejs.org/" target="_blank" rel="noopener noreferrer">ValidateJS</a></b></td>
     <td><a href="https://validatejs.org/" target="_blank" rel="noopener noreferrer">
@@ -204,13 +204,15 @@ user-centric forms, offering an unparalleled development experience.</p>
       ValidateJS Demo</a></td>
     <td>JS</td>
   </tr>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <h4>Formbuilder</h4>  -->
-<!--    <p>Type: Online tool with a graphical interface for building forms</p>  -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--  <h4>Formbuilder</h4>  -->
+  <!--    <p>Type: Online tool with a graphical interface for building forms</p>  -->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
-    <td><b>Formbuilder</b></td>
-    <td><a href="http://dobtco.github.io/formbuilder/" target="_blank" rel="noopener noreferrer">
+    <td><b><a href="https://formbuilder.online/" target="_blank" rel="noopener noreferrer">
+	  Formbuilder</a></b></td>
+    <td><a href="https://help.form.io/developers/form-development/form-builder" 
+	  target="_blank" rel="noopener noreferrer">
       Formbuilder</a></td>
     <td><a href="https://github.com/dobtco/formbuilder" target="_blank" rel="noopener noreferrer">
       Formbuilder GH</a></td>
@@ -218,14 +220,14 @@ user-centric forms, offering an unparalleled development experience.</p>
       Formbuilder Demo</a></td>
     <td>JSON</p>
   </tr>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <h4>React Form Libraries</h4>  -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <p>In this section, we have presented the best React form libraries.</p>  -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <h4>Formbuilder. dev</h4>  -->
-<!--    <td>Online form builder</td>  -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--  <h4>React Form Libraries</h4>  -->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--  <p>In this section, we have presented the best React form libraries.</p>  -->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--  <h4>Formbuilder.dev</h4>  -->
+  <!--    <td>Online form builder</td>  -->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b><a href="https://formbuilder.online/" target="_blank" rel="noopener noreferrer">
       Formbuilder.dev</a></b></td>
@@ -237,10 +239,10 @@ user-centric forms, offering an unparalleled development experience.</p>
       Formbuilder.dev Demo</a></td>
     <td>React</td>
   </tr>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <h4>React hook form</h4>  -->
-<!--  <p>Type: Form builder and validation library</p>  -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--  <h4>React hook form</h4>  -->
+  <!--  <p>Type: Form builder and validation library</p>  -->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b><a href="https://react-hook-form.com/" target="_blank" rel="noopener noreferrer">
       React Hook Form</a></b></td>
@@ -252,10 +254,10 @@ user-centric forms, offering an unparalleled development experience.</p>
       React Hook Form Demo</a></td>
     <td>React</td>
   </tr>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <h4>Formik</h4>  -->
-<!--  <p>Type: React form builder and validation library</p>  -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <!--  <h4>Formik</h4>  -->
+  <!--  <p>Type: React form builder and validation library</p>  -->
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b><a href="https://jaredpalmer.com/formik" target="_blank" rel="noopener noreferrer">formik</a></b></td>
     <td><a href="https://jaredpalmer.com/formik" target="_blank" rel="noopener noreferrer">formik</a></td>
@@ -289,68 +291,67 @@ user-centric forms, offering an unparalleled development experience.</p>
       target="_blank" rel="noopener noreferrer">Cropper.js demo</a></td>
     <td><a href="">JavaScript image cropper</a></td>
   </tr>
+  <tr>
+    <td><b><a href="https://fabricjs.com/" 
+	  target="_blank" rel="noopener noreferrer">Fabric.js</a></b></td>
+	<td><a href="">website</a></td>
+	<td><a href="">github website</a></td>
+	<td><a href="">Demo</a></td>
+	<td><a href="">Type</a></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://cdnjs.com/libraries/camanjs">CamanJS</a><b></td>
+	<td><a href="">website</a></td>
+	<td><a href="https://github.com/meltingice/CamanJS">GitHub</a></td>
+	<td><a href="https://www.sitepoint.com/manipulating-images-web-pages-camanjs/">Demo</a></td>
+	<td><a href="">Type</a></td>
+  </tr>
 </table>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4><a href="https://fabricjs.com/">Fabric.js</a>:</h4>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>A powerful canvas library that allows you to manipulate images, draw shapes, and add text 
-with ease.</p>
-<b>Website:</b>
-GitHub: 
-Demo: 
-Type: 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4><a href="https://cdnjs.com/libraries/camanjs">CamanJS</a>:</h4>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A library specializing in image filters and effects, providing a range of Instagram-like 
 filters and adjustments.</p>
-<b>Website:</b>
-GitHub: https://github.com/meltingice/CamanJS
-Demo: https://www.sitepoint.com/manipulating-images-web-pages-camanjs/
-Type: 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4><a href="https://pixijs.com/">PixiJS</a>:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A fast 2D rendering library that can also be used for image manipulation and effects.</p>
-<b>Website:</b>
-GitHub: 
-Demo: 
-Type: 
+<p><b>Website:</b></p>
+<p>GitHub: </p>
+<p>Demo: </p>
+<p>Type: </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4><a href="https://threejs.org/">Three.js</a>:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The most popular 3D library for the web, offering a comprehensive set of tools for 
 creating 3D scenes, animations, and effects.</p>
-<b>Website:</b>
-GitHub: 
-Demo: 
-Type: 
+<p><b>Website:</b></p>
+<p>GitHub: </p>
+<p>Demo: </p>
+<p>Type: </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4><a href="https://www.babylonjs.com/">Babylon.js</a>:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Another powerful 3D engine, offering a slightly different approach to Three.js, with a 
 focus on performance and ease of use.</p>
-<b>Website:</b>
-GitHub: 
-Demo: 
-Type: 
+<p><b>Website:</b></p>
+<p>GitHub: </p>
+<p>Demo: </p>
+<p>Type: </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4><a href="https://zzz.dog/">Zdog</a>:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A lightweight library for creating flat, pseudo-3D designs with a designer-friendly API.</p>
-<b>Website:</b>
-GitHub: 
-Demo: 
-Type: 
+<p><b>Website:</b></p>
+<p>GitHub: </p>
+<p>Demo: </p>
+<p>Type: </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4><a href="https://aframe.io/docs/1.7.0/introduction/">A-Frame</a>:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A framework built on top of Three.js, making it easier to create WebVR experiences using 
 HTML-like tags.</p>
-<b>Website:</b>
-GitHub: 
-Demo: 
-Type: 
+<p><b>Website:</b></p>
+<p>GitHub: </p>
+<p>Demo: </p>
+<p>Type: </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>More libraries/frameworks</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
