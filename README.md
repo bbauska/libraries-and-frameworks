@@ -1,6 +1,6 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- README.md of https://github.com/bbauska/libraries-and-frameworks -->
-<h1 id="libs-and-frames">libraries and frameworks</h1>
+<h1 id="libs-and-frames">JavaScript libraries and frameworks</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Libraries and Frameworks in Web Front-End Development</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -97,15 +97,15 @@ search for it.</p>
 “JavaScript libraries for _____________” and see what is available. Some
 library categories include the following:
 <ol start="1">
-  <li>• Forms •</li>
-  <li>• Animation •</li>
-  <li>• Image carousels •</li>
-  <li>• Games •</li>
-  <li>• Information graphics •</li>
-  <li>• Image and 3-D effects for the canvas element •</li>
-  <li>• String and math functions •</li>
-  <li>• Database handling •</li>
-  <li>• Touch gestures •</li>
+  <li id="#1-forms">• Forms •</li>
+  <li id="#2-animation">• Animation •</li>
+  <li id="#3-image-carousels">• Image carousels •</li>
+  <li id="#4-games">• Games •</li>
+  <li id="#5-info-graphics">• Information graphics •</li>
+  <li id="#6-image-3d-effects">• Image and 3-D effects for the canvas element •</li>
+  <li id="#7-string-math">• String and math functions •</li>
+  <li id="#8-db-handling">• Database handling •</li>
+  <li id="#9-touch-gestures">• Touch gestures •</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="1-forms">• Forms #1 JavaScript libraries for <b>Forms</b>: •</h2>
@@ -177,7 +177,8 @@ user-centric forms, offering an unparalleled development experience.</p>
       formvalidation.io</a></td>
     <td><a href="https://github.com/anujsoft/formvalidation.io" target="_blank" rel="noopener noreferrer">
       formvalidation.io GH</a></td>
-    <td><a href="https://preview.keenthemes.com/jet-html-free/documentation/forms/formvalidation/basic.html" target="_blank" rel="noopener noreferrer">
+    <td><a href="https://preview.keenthemes.com/jet-html-free/documentation/forms/formvalidation/basic.html" 
+	  target="_blank" rel="noopener noreferrer">
       formvalidation Demo</a></td>
     <td>JS, YAML</td>
   </tr>
@@ -645,8 +646,10 @@ application, while Vuex provides a state management pattern for managing applica
 	<td>HTML5 is something that the MelonJS game engine is, oriented to be simple and easy to use. It offers such features of 2D game development as collision detection, sprite management, and a powerful plugin system. Lightweight and lean, MelonJS allows effective development with web-based games. It is not very strong in features for developers in need of out-of-the-box functionality.</td>
   </tr>
 </table>
-<p><a href="https://www.geeksforgeeks.org/8-best-javascript-game-engines/">8 Best JS Game Engines</a>.</p>
-<p><a href="https://www.geeksforgeeks.org/ways-to-make-an-api-call-in-javascript/">4 Ways to make an API call in JavaScript</a>.</p>
+<p><a href="https://www.geeksforgeeks.org/8-best-javascript-game-engines/" 
+target="_blank" rel="noopener noreferrer">8 Best JS Game Engines</a>.</p>
+<p><a href="https://www.geeksforgeeks.org/ways-to-make-an-api-call-in-javascript/" 
+target="_blank" rel="noopener noreferrer">4 Ways to make an API call in JavaScript</a>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="5-info-graphics">• Info Graphics #5 JavaScript libraries for Information Graphics: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -661,7 +664,8 @@ application, while Vuex provides a state management pattern for managing applica
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="6-image-3d">• Image &amp; 3-D Effects #6 JS libraries for Image and 3-D Effects for the canvas element: •</h2>
+<h2 id="6-image-3d-effects">• Image &amp; 3-D Effects #6 JS libraries for Image and 3-D 
+  Effects for the canvas element: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <table style="width:75%">
   <caption>Image &amp; 3-D Effects #6 JavaScript Libraries for Image and 3-D Effects for the canvas element</caption>
@@ -679,14 +683,14 @@ computer graphics on the web. It provides a high-level API that abstracts away t
 complexities of WebGL, a low-level graphics API, making it easier for developers to 
 work with 3D graphics in the browser. 
 -->
-    <td><b><a href="https://themeselection.com/javascript-3d-library/?srsltid=AfmBOoqE0onQM6K-D6hFJAftUEq3m_22Z8lI8SaXa_8HUS0GYTLjQjKq#h-three-js" target="_blank" rel="noopener noreferrer">
-      Three.js</a></b></td>
-    <td><b><a href="https://henryegloff.com/awesome-examples-of-three-js/" target="_blank" rel="noopener noreferrer">
-      Three.js</a></b></td>
-    <td><a href="https://discourse.threejs.org/t/drei-reveal-demo-full-source/22935" target="_blank" rel="noopener noreferrer">
-      Three.js GH</a></td>
-    <td><a href="https://codesandbox.io/p/sandbox/drei-reflector-bfplr" target="_blank" rel="noopener noreferrer">
-      Sandbox Three.js</a></td>
+    <td><b><a  href="https://themeselection.com/javascript-3d-library/?srsltid=AfmBOoqE0onQM6K-D6hFJAftUEq3m_22Z8lI8SaXa_8HUS0GYTLjQjKq#h-three-js" target="_blank" rel="noopener noreferrer">
+	  Three.js</a></b></td>
+    <td><b><a href="https://henryegloff.com/awesome-examples-of-three-js/" 
+	  target="_blank" rel="noopener noreferrer">Three.js</a></b></td>
+    <td><a href="https://discourse.threejs.org/t/drei-reveal-demo-full-source/22935" 
+	  target="_blank" rel="noopener noreferrer">Three.js GH</a></td>
+    <td><a href="https://codesandbox.io/p/sandbox/drei-reflector-bfplr" target="_blank" 
+	  rel="noopener noreferrer">Sandbox Three.js</a></td>
     <td>JS</td>
   </tr>
   <tr>
@@ -921,7 +925,8 @@ website backgrounds, apparel, branding, packaging design and more.</p>
 <p>This tool lets you create Doodle-like patterns using a tile system.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="7-strings-math">• Strings &amp; Math #7 JavaScript libraries for Strings and Math Functions: •</h2>
+<h2 id="7-string-math">• String &amp; Math Functions #7 JavaScript libraries for Strings and Math 
+  Functions: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <table style="width:75%">
   <caption>Database Handling #8 JS Libraries for Database Handling</caption>
@@ -937,7 +942,7 @@ website backgrounds, apparel, branding, packaging design and more.</p>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="8-database-handling">• DataBase Handling #8 JavaScript libraries for Database Handling: •</h2>
+<h2 id="8-db-handling">• DataBase Handling #8 JavaScript libraries for Database Handling: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <table style="width:75%">
   <caption>Database Handling #8 JS Libraries for Database Handling</caption>
@@ -949,8 +954,9 @@ website backgrounds, apparel, branding, packaging design and more.</p>
     <th>Type/language</th>
   </tr>
   <tr>
-    <td><b>Name of website</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><b>SQL, query builders, and ORMs</b></td>
+    <td><a href="https://github.com/brianc/node-postgres" 
+	  target="_blank" rel="noopener noreferrer">Website</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
     <td>JS</td>
@@ -977,42 +983,61 @@ website backgrounds, apparel, branding, packaging design and more.</p>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2><a href="https://byby.dev/js-search-libraries">Top 6 JavaScript SEARCH Libraries</a></h2>
+<h2><a href="https://byby.dev/js-search-libraries" target="_blank" rel="noopener noreferrer">
+Top 6 JavaScript SEARCH Libraries</a></h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>JavaScript search libraries are tools that enable you to perform full-text search on 
 data using JavaScript, either on the browser or on the server. They can help you create 
 fast and user-friendly search experiences for your web applications, without relying on 
 external search services or databases.</p>
-
-<h3><b>Fuse.js</b> (17.6k ⭐)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b><a href="https://www.fusejs.io/getting-started/installation.html" 
+target="_blank" rel="noopener noreferrer">1. Fuse.js</a></b> (17.6k ⭐)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>— A powerful, lightweight fuzzy-search library, with zero dependencies. It allows you 
 to perform approximate string matching on the client-side or the backend, without setting 
 up a dedicated search service. You can use it to search through arrays of strings or 
-objects, with different options for weighting, nesting, and extended search syntax.</p>
-
-<h3><b>List.js</b> (11.2k ⭐)</h3>
+objects, with different options for weighting, nesting, and extended search syntax.<br>
+<a href="https://www.fusejs.io/examples.html" target="_blank" rel="noopener noreferrer">
+  Fuse.js Examples</a>,<br>
+<a href="https://medium.com/@gurunadhpukkalla/introduction-to-fuse-js-62bc856a2914" 
+  target="_blank" rel="noopener noreferrer">
+  Fuse.js Introduction</a>,<br>
+<a href="https://github.com/krisk/Fuse" target="_blank" rel="noopener noreferrer">
+  Fuse.js GitHub</a>.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b><a href="https://listjs.com/" target="_blank" rel="noopener noreferrer">2. List.js</a></b> (11.2k ⭐)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p> — A vanilla JavaScript library that adds search, sort, filters and flexibility to 
 plain HTML lists, tables, or anything. It can work with existing HTML or create its own 
 HTML from scratch. You can customize the options for value names, item templates, 
 pagination and more.</p>
-
-<h3><b>FlexSearch.js</b> (12k ⭐)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b><a href="https://emersonbottero.github.io/flexsearch/" target="_blank" 
+rel="noopener noreferrer">3. FlexSearch.js</a></b> (12k ⭐)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p> — A next-generation full-text search library for Browser and Node.js with zero 
 dependencies. It claims to be the web’s fastest and most memory-efficient search library, 
-with features like contextual indexing, document indexing, web workers, and more.</p>
-
-<h3><b>Lunr.js</b> (8.8k ⭐)</h3>
+with features like contextual indexing, document indexing, web workers, and more.
+FlexSearch Server is available here: https://github.com/nextapps-de/flexsearch-server</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b><a href="https://lunrjs.com/guides/searching.html" target="_blank" 
+rel="noopener noreferrer">4. Lunr.js</a></b> (8.8k ⭐)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>— A small, full-text search library for use in the browser or on the server with 
 Node.js. It indexes JSON documents and provides a simple search interface for retrieving 
 documents that best match text queries. It is designed to be easy to set up and use, 
 without the need for external search services.</p>
-
-<h3><b>Orama</b> (8.2k ⭐)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b><a href="https://orama.com/" target="_blank" rel="noopener noreferrer">5. Orama</a></b> (8.2k ⭐)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>— A fast, batteries-included, full-text search engine entirely written in TypeScript, 
 designed to work on any runtime and has no dependencies. Orama also supports plugins to 
 extend its functionality and integrate with other frameworks.</p>
-
-<h3><b>MiniSearch</b> (4.2k ⭐)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b><a href="https://lucaong.github.io/minisearch/classes/MiniSearch.MiniSearch.html" 
+target="_blank" rel="noopener noreferrer">6. MiniSearch</a></b> (4.2k ⭐)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>— A tiny but powerful in-memory fulltext search engine written in JavaScript. It is 
 respectful of resources, and it can comfortably run both in Node and in the browser. 
 MiniSearch addresses use cases where full-text search features are needed (e.g. prefix 
