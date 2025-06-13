@@ -92,11 +92,12 @@ expanding accordion lists, and simple animation effects. jQuery Mobile is anothe
 library that provides UI elements and polyfills designed to account for the variety of mobile 
 browsers and their notorious quirks.</p>
 
-<p>Of course, jQuery isn’t the only library in town. Others include <b><mark>MooTools 
-(mootools.net)</mark></b>, <b><mark>Dojo (dojotoolkit.org)</mark></b>, and <b><mark>Prototype 
-(prototypejs.org)</mark></b>. As for smaller JS libraries that handle specialized functions, 
-because they are being created and made obsolete all the time, I recommend doing a web 
-search for it.</p>
+<p>Of course, jQuery isn’t the only library in town. Others include 
+<b><mark>(<a href="https://mootools.net/" target="_blank" rel="noopener noreferrer">MooTools mootools.net</a>)</mark></b>, 
+<b><mark><a href="https://dojotoolkit.org/" target="_blank" rel="noopener noreferrer">Dojo (dojotoolkit.org)</a></mark></b>, and 
+<b><mark><a href="http://prototypejs.org/" target="_blank" rel="noopener noreferrer">Prototype (prototypejs.org)</a></mark></b>. 
+As for smaller JS libraries that handle specialized functions, because they are being 
+created and made obsolete all the time, I recommend doing a web search for it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="js-libs">JavaScript Libraries</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -269,9 +270,7 @@ user-centric forms, offering an unparalleled development experience.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="2-animation">• Animation #2 JavaScript libraries for Animation: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>Cropper.js:</h4>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>A versatile library for image cropping and resizing directly in the browser.</p>
+<!-- <p>A versatile library for image cropping and resizing directly in the browser.</p>  -->
 <table style="width:75%">
   <tr>
     <th>Name</th>
@@ -297,61 +296,79 @@ user-centric forms, offering an unparalleled development experience.</p>
 	<td><a href="">website</a></td>
 	<td><a href="">github website</a></td>
 	<td><a href="">Demo</a></td>
-	<td><a href="">Type</a></td>
+	<td><a href="">Image manipulation</a></td>
   </tr>
   <tr>
-    <td><b><a href="https://cdnjs.com/libraries/camanjs">CamanJS</a><b></td>
+    <td><b><a href="https://cdnjs.com/libraries/camanjs" 
+      target="_blank" rel="noopener noreferrer">CamanJS</a><b></td>
 	<td><a href="">website</a></td>
-	<td><a href="https://github.com/meltingice/CamanJS">GitHub</a></td>
-	<td><a href="https://www.sitepoint.com/manipulating-images-web-pages-camanjs/">Demo</a></td>
-	<td><a href="">Type</a></td>
+	<td><a href="https://github.com/meltingice/CamanJS" 
+      target="_blank" rel="noopener noreferrer">GitHub</a></td>
+	<td><a href="https://www.sitepoint.com/manipulating-images-web-pages-camanjs/" 
+      target="_blank" rel="noopener noreferrer">Demo</a></td>
+	<td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://pixijs.com/" 
+      target="_blank" rel="noopener noreferrer"</a><b>PixiJS</td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">website</a></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">GH</a></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">Demo</a></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">Image manipulation and effects</a></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://threejs.org/" 
+      target="_blank" rel="noopener noreferrer">three.js</a></b></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">website</a></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">GH</a></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">Demo</a></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">3D scenes, animations, and effects</a></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://www.babylonjs.com/" 
+      target="_blank" rel="noopener noreferrer">Babylon.js</a></b></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">website</a></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">GH</a></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">Demo</a></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">3d engine like three.js</a></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://zzz.dog/" 
+      target="_blank" rel="noopener noreferrer">Zdog</a></b></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">website</a></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">GH</a></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">Demo</a></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">lightweight library of pseudo-3d designs</a></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://aframe.io/docs/1.7.0/introduction/" 
+      target="_blank" rel="noopener noreferrer">A-Frame</a></b></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">website</a></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">GH</a></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">Demo</a></td>
+	<td><a href="" 
+      target="_blank" rel="noopener noreferrer">WebVR Experience maker</a></td>
   </tr>
 </table>
-<p>A library specializing in image filters and effects, providing a range of Instagram-like 
-filters and adjustments.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4><a href="https://pixijs.com/">PixiJS</a>:</h4>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>A fast 2D rendering library that can also be used for image manipulation and effects.</p>
-<p><b>Website:</b></p>
-<p>GitHub: </p>
-<p>Demo: </p>
-<p>Type: </p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4><a href="https://threejs.org/">Three.js</a>:</h4>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>The most popular 3D library for the web, offering a comprehensive set of tools for 
-creating 3D scenes, animations, and effects.</p>
-<p><b>Website:</b></p>
-<p>GitHub: </p>
-<p>Demo: </p>
-<p>Type: </p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4><a href="https://www.babylonjs.com/">Babylon.js</a>:</h4>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Another powerful 3D engine, offering a slightly different approach to Three.js, with a 
-focus on performance and ease of use.</p>
-<p><b>Website:</b></p>
-<p>GitHub: </p>
-<p>Demo: </p>
-<p>Type: </p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4><a href="https://zzz.dog/">Zdog</a>:</h4>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>A lightweight library for creating flat, pseudo-3D designs with a designer-friendly API.</p>
-<p><b>Website:</b></p>
-<p>GitHub: </p>
-<p>Demo: </p>
-<p>Type: </p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4><a href="https://aframe.io/docs/1.7.0/introduction/">A-Frame</a>:</h4>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>A framework built on top of Three.js, making it easier to create WebVR experiences using 
-HTML-like tags.</p>
-<p><b>Website:</b></p>
-<p>GitHub: </p>
-<p>Demo: </p>
-<p>Type: </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>More libraries/frameworks</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
