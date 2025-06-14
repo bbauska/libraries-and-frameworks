@@ -930,22 +930,16 @@ and more.</p>
 <p>— A library for creating scroll interactions with JavaScript 
 and CSS. It can trigger animations based on scroll position and pin elements within 
 the viewport. It has over 11K stars on GitHub.</p>
-
-<h5><b>Typed.js</b> (14.8k ⭐)</h5>
-<p>— A library that types. Enter in any string, and watch it type 
-at the speed you've set, backspace what it's typed, and begin a new sentence for 
-however many strings you've set.</p>
-
 <table>
   <tr>
     <th></th>
   </tr>
   <tr>
-    <td><b>name</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GitHub</a></td>
+    <td><b>Typed.js</b></td>
+    <td><a href="https://mattboldt.com/demos/typed-js/" target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="https://github.com/mattboldt/typed.js/" target="_blank" rel="noopener noreferrer">GitHub</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
-    <td>JS</td>
+    <td>Library that types</td>
   </tr>
 </table>
 <h2 id="svg">Top 10 SVG Pattern Generators</h2>
@@ -992,10 +986,46 @@ website backgrounds, apparel, branding, packaging design and more.</p>
     <th>Website:</th>
     <th>GitHub:</th>
     <th>Demo:</th>
-    <th>Type of library/framework:</th>
+    <th>Desc'n</th>
   </tr>
   <tr>
-    <td>Data1</td>
+    <td>Math.js</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Comprehensive JS library of Math functions &amp; operators</td>
+  </tr>
+  <tr>
+    <td><b>Numeral.js</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Lightweight JS library to manipulate &amp; format numbers</td>
+  </tr>
+  <tr>
+    <td><b>D3.js</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Popular Data visualization library</td>
+  </tr>
+  <tr>
+    <td><b>Chart.js</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>JS library to create responsive charts</td>
+  </tr>
+  <tr>
+    <td><b>MathJax</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>JS library to display math notation on web pages</td>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1008,7 +1038,7 @@ website backgrounds, apparel, branding, packaging design and more.</p>
     <th>Website</th>
     <th>GitHub</th>
     <th>Demo</th>
-    <th>Type/language</th>
+    <th>Short Desc'n</th>
   </tr>
   <tr>
     <td><b>SQL, query builders, and ORMs</b></td>
@@ -1017,6 +1047,230 @@ website backgrounds, apparel, branding, packaging design and more.</p>
     <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
     <td>JS</td>
+  </tr>
+  <tr>
+    <td><b>ORM (Object-Relational Mapping) Libraries</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Description</td>
+  </tr>
+  <tr>
+    <td><b>Sequelize</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Library with query builder. Supports PostgresSQL, MySQL, SQLite, & SQL Server</td>
+  </tr>
+  <tr>
+    <td><b>TypeORM</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>ORM for TypeScript &amp; JS</td>
+  </tr>
+  <tr>
+    <td><b>Bookshelf.js</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Built on Knex.js, supports SQL: MySQL,PostgresSQL &amp; SQLite</td>
+  </tr>
+  <tr>
+    <td><b>Objection.js</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Minimal library w/TypeScript support</td>
+  </tr>
+  <tr>
+    <td><b>Mongoose</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Most popular library for Node.js, MongoDB</td>
+  </tr>
+  <tr>
+    <td><b>Prism</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>TypeScript-first ORM</td>
+  </tr>
+  <tr>
+    <td><b>MikroORM</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>ORM library</td>
+  </tr>
+  <tr>
+    <td><b>Waterline</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>default ORM for Sales.js, a Node.js framework</td>
+  </tr>
+  <tr>
+    <td><b>Knex.js</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>query builder as base for ORMs</td>
+  </tr>
+  <tr>
+    <td><b>Database-Specific Libraries</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Description</td>
+  </tr>
+  <tr>
+    <td><b>sql.js</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>library to run SQLite using WebAssembly</td>
+  </tr>
+  <tr>
+    <td><b>better-sqlite3</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>library for SQLite &amp; bun:sqlite for bun runtime</td>
+  </tr>
+  <tr>
+    <td><b>General DB Libraries</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Description</td>
+  </tr>
+  <tr>
+    <td><b>TaffyDB</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Fast queries &amp; cross-browser support</td>
+  </tr>
+  <tr>
+    <td><b>RxDB</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Supports Rx.js and backends; CouchDB, GraphQL, Firestone &amp; more</td>
+  </tr>
+  <tr>
+    <td><b>MongoDB</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>NoSQL dbms using JSON-like documents, often with Node.js</td>
+  </tr>
+  <tr>
+    <td><b>Other Notables Libraries</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Description</td>
+  </tr>
+  <tr>
+    <td><b>Chart.js</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>JS library for responsive data visualizations</td>
+  </tr>
+  <tr>
+    <td><b>GOJS</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>JS library for building interative diagrams &amp; graphs</td>
+  </tr>
+  <tr>
+    <td><b>Highcharts</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>A charting library written in pure JS</td>
+  </tr>
+  <tr>
+    <td><b>Vue.js</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Library framework for building user interfaces</td>
+  </tr>
+  <tr>
+    <td><b>Ember Data</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>DB library that comes with Ember.js</td>
+  </tr>
+  <tr>
+    <td><b>Recharts</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Lightweight JS library for interactive charts</td>
+  </tr>
+  <tr>
+    <td><b>amCharts</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Commercial JS library for interactive charts &amp; maps</td>
+  </tr>
+  <tr>
+    <td><b>ApexCharts</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Charting library for responsive charts</td>
+  </tr>
+  <tr>
+    <td><b>Backbone.js</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>A JS library for building web apps following M-V-P design</td>
+  </tr>
+  <tr>
+    <td><b>C3.js</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>A JS library for building reusable charts</td>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1029,14 +1283,98 @@ website backgrounds, apparel, branding, packaging design and more.</p>
     <th>Website</th>
     <th>GitHub</th>
     <th>Demo</th>
-    <th>Type/language</th>
+    <th>Short Desc'n</th>
   </tr>
   <tr>
-    <td><b>Name of website</b></td>
+    <td><b>Swiper</b></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
-    <td>JS</td>
+    <td>Mobile touch slider</td>
+  </tr>
+  <tr>
+    <td><b>Swiper</b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Mobile touch slider</td>
+  </tr>
+  <tr>
+    <td><b>PhotoSwipe</b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>JS image gallery for mobile &amp; desktop</td>
+  </tr>
+  <tr>
+    <td><b>hammer.js</b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>JS library for multi-touch gestures</td>
+  </tr>
+  <tr>
+    <td><b>fancyBox</b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td><b>Discontinued</b>. jQuery lightbox scripts</td>
+  </tr>
+  <tr>
+    <td><b>Slideout</b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Touch slideout nav menu for mobile web apps</td>
+  </tr>
+  <tr>
+    <td><b>Glide.js</b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Dependency-free JS slider &amp; carousel</td>
+  </tr>
+  <tr>
+    <td><b>Flickity</b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Touch, responsive, flickable carousels</td>
+  </tr>
+  <tr>
+    <td><b>bxSlider 4.2.14</b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Responsive jQuery content slider</td>
+  </tr>
+  <tr>
+    <td><b>Embla Carousel</b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Lightweight carousel library w/fluid motion</td>
+  </tr>
+  <tr>
+    <td><b>lightgallery.js</b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Full featured JS image &amp; video gallery</td>
+  </tr>
+  <tr>
+    <td><b>Splide</b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Full featured JS image &amp; video gallery</td>
+  </tr>
+  <tr>
+    <td><b>lightgallery.js</b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Full featured JS image &amp; video gallery</td>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
