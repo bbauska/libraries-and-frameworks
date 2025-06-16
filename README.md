@@ -369,125 +369,6 @@ user-centric forms, offering an unparalleled development experience.</p>
       target="_blank" rel="noopener noreferrer">WebVR Experience maker</a></td>
   </tr>
 </table>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>More libraries/frameworks</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>In this chapter, we will embark on a comprehensive exploration of JavaScript libraries 
-and frameworks.</p>
-
-<p>JavaScript libraries and frameworks are invaluable tools that simplify and enhance the 
-development process, enabling developers to build robust and efficient web applications.
-We will delve into an in-depth overview of popular JavaScript libraries and frameworks, 
-including jQuery, React, and Vue.js. By the end of this chapter, you will possess a solid 
-understanding of these tools and how they can revolutionize your JavaScript development 
-workflow.</p>
-
-<p>JavaScript libraries and frameworks are widely adopted in web development due to their 
-ability to streamline development tasks, improve code maintainability, and enhance user 
-experience. Let's take a closer look at some of the most influential JavaScript libraries 
-and frameworks available today:</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>1. <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">jQuery</a>:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><b><mark>jQuery</mark></b> is a fast, lightweight, and feature-rich JavaScript library that 
-simplifies HTML document traversal, event handling, and animation. It provides an 
-intuitive and concise API that enables developers to manipulate the DOM, handle events, 
-perform AJAX requests, create animations, and more. jQuery's popularity stems from its 
-ability to abstract away the complexities of cross-browser compatibility and provide an 
-easy-to-use interface for common JavaScript operations.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>2. <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React</a>:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><b><mark>React</mark></b> is a powerful JavaScript library developed by Facebook for building user 
-interfaces. It adopts a component-based architecture, allowing developers to build 
-reusable UI components and efficiently update and render them as the application's state 
-changes. React leverages a virtual DOM, which minimizes actual DOM manipulations and 
-optimizes performance. React's popularity is driven by its simplicity, performance, 
-and thriving ecosystem.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>3. <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">Vue.js</a>:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><b><mark>Vue.js</mark></b> is a progressive JavaScript framework that excels in building user 
-interfaces. It boasts a gentle learning curve, making it accessible to newcomers, while 
-providing advanced features for seasoned developers. Vue.js embraces a component-based 
-development approach, where complex user interfaces are constructed by composing self-
-contained and reusable components. It offers powerful features such as declarative 
-rendering, two-way data binding, computed properties, and a sophisticated reactivity 
-system. Vue.js's versatility and ease of integration with existing projects have 
-contributed to its popularity.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2>Introduction to jQuery, React, and Vue.js</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Let's dive deeper into the key features and benefits of three influential JavaScript 
-libraries and frameworks: <b><mark>jQuery, React, and Vue.js</mark></b>.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>jQuery</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Simplified DOM Manipulation:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>jQuery provides a unified and streamlined API for <b><mark>DOM manipulation</mark></b>, 
-making it effortless to select and modify HTML elements, handle events, and traverse the 
-DOM tree.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Cross-Browser Compatibility:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>jQuery abstracts away the differences in browser implementations, ensuring consistent behavior 
-and easing the pain of dealing with browser quirks and inconsistencies.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>AJAX</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>jQuery simplifies <b><mark>AJAX</mark></b> communication by providing a set of convenient 
-methods for making asynchronous requests to servers, handling responses, and updating 
-content on the webpage dynamically. Rich Plugin Ecosystem: jQuery boasts a vast 
-ecosystem of plugins that extend its functionality. These plugins cover a wide range of 
-use cases, from UI widgets and effects to data visualization and form validation.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>React Component-Based Architecture:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>React revolutionized the web development landscape with its <b><mark>component-based 
-architecture</mark></b>. Components encapsulate the logic and presentation of UI elements, 
-allowing for modular development, code reusability, and easier testing.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Virtual DOM:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>React employs a <b><mark>virtual DOM</mark></b>, a lightweight in-memory representation of the
-actual DOM. By using a virtual DOM, React optimizes rendering performance by selectively
-updating only the necessary parts of the UI, resulting in efficient and responsive
-applications.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Unidirectional Data Flow:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><b><mark>React</mark></b> promotes a <b><mark>unidirectional data flow</mark></b>, where data flows 
-from parent components to child components. This one-way data binding simplifies 
-debugging, improves code predictability, and reduces side effects.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>React Native:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>React also offers <b><mark>React Native</mark></b>, a framework for building cross-platform 
-mobile applications using JavaScript. With React Native, developers can write code once 
-and deploy it on both iOS and Android platforms, saving time and effort.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Vue.js:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Approachable Learning Curve:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><b><mark>Vue.js</mark></b> stands out for its simplicity and ease of learning. Its gentle 
-learning curve enables developers to quickly grasp its core concepts and start building 
-applications. The <b><mark>Vue CLI (Command Line Interface)</mark></b> provides a scaffold for 
-setting up Vue.js projects with ease.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Flexible and Versatile:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><b><mark>Vue.js</mark></b> is designed to be flexible and adaptable to various project sizes 
-and requirements. Whether you're building a small application or a large-scale single-
-page application, Vue.js provides the necessary tools and features to handle the task 
-at hand.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Vue Router and Vuex:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Vue.js offers official plugins, such as Vue Router and Vuex, that seamlessly integrate 
-with the framework. Vue Router facilitates navigation between different views in a Vue.js 
-application, while Vuex provides a state management pattern for managing application-wide data.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="3-image-carousels">• Image Carousels #3 JavaScript libraries for Image Carousels: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -808,6 +689,11 @@ backspace what it's typed, and begin a new sentence for however many strings you
 	<td><a href="">Example/Demo</a></td>
 	<td>Short Desc'n</td>
   </tr>
+<!-- Three.js (99.1k ⭐)— A popular JavaScript library used for creating and displaying 3D 
+computer graphics on the web. It provides a high-level API that abstracts away the 
+complexities of WebGL, a low-level graphics API, making it easier for developers to 
+work with 3D graphics in the browser.</p>
+-->
   <tr>
     <td><b>Anime.js</b></td>
 	<td><a href="">Website name</a></td>
@@ -815,11 +701,6 @@ backspace what it's typed, and begin a new sentence for however many strings you
 	<td><a href="">Example/Demo</a></td>
 	<td>3d computing graphics</td>
   </tr>
-<!-- Three.js (99.1k ⭐)— A popular JavaScript library used for creating and displaying 3D 
-computer graphics on the web. It provides a high-level API that abstracts away the 
-complexities of WebGL, a low-level graphics API, making it easier for developers to 
-work with 3D graphics in the browser.</p>
--->
 <!-- Anime.js (48.8k ⭐) — A lightweight library with a simple API that can animate HTML, 
 CSS, JS, SVG and DOM attributes. It has a built-in staggering system, callbacks and 
 controls, and various easing and animation effects.
@@ -1460,6 +1341,125 @@ locally in the process memory.
 	<td></td>
   </tr>
 </table>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>More libraries/frameworks</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>In this chapter, we will embark on a comprehensive exploration of JavaScript libraries 
+and frameworks.</p>
+
+<p>JavaScript libraries and frameworks are invaluable tools that simplify and enhance the 
+development process, enabling developers to build robust and efficient web applications.
+We will delve into an in-depth overview of popular JavaScript libraries and frameworks, 
+including jQuery, React, and Vue.js. By the end of this chapter, you will possess a solid 
+understanding of these tools and how they can revolutionize your JavaScript development 
+workflow.</p>
+
+<p>JavaScript libraries and frameworks are widely adopted in web development due to their 
+ability to streamline development tasks, improve code maintainability, and enhance user 
+experience. Let's take a closer look at some of the most influential JavaScript libraries 
+and frameworks available today:</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>1. <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">jQuery</a>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p><b><mark>jQuery</mark></b> is a fast, lightweight, and feature-rich JavaScript library that 
+simplifies HTML document traversal, event handling, and animation. It provides an 
+intuitive and concise API that enables developers to manipulate the DOM, handle events, 
+perform AJAX requests, create animations, and more. jQuery's popularity stems from its 
+ability to abstract away the complexities of cross-browser compatibility and provide an 
+easy-to-use interface for common JavaScript operations.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>2. <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React</a>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p><b><mark>React</mark></b> is a powerful JavaScript library developed by Facebook for building user 
+interfaces. It adopts a component-based architecture, allowing developers to build 
+reusable UI components and efficiently update and render them as the application's state 
+changes. React leverages a virtual DOM, which minimizes actual DOM manipulations and 
+optimizes performance. React's popularity is driven by its simplicity, performance, 
+and thriving ecosystem.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>3. <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">Vue.js</a>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p><b><mark>Vue.js</mark></b> is a progressive JavaScript framework that excels in building user 
+interfaces. It boasts a gentle learning curve, making it accessible to newcomers, while 
+providing advanced features for seasoned developers. Vue.js embraces a component-based 
+development approach, where complex user interfaces are constructed by composing self-
+contained and reusable components. It offers powerful features such as declarative 
+rendering, two-way data binding, computed properties, and a sophisticated reactivity 
+system. Vue.js's versatility and ease of integration with existing projects have 
+contributed to its popularity.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>Introduction to jQuery, React, and Vue.js</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Let's dive deeper into the key features and benefits of three influential JavaScript 
+libraries and frameworks: <b><mark>jQuery, React, and Vue.js</mark></b>.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>jQuery</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Simplified DOM Manipulation:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>jQuery provides a unified and streamlined API for <b><mark>DOM manipulation</mark></b>, 
+making it effortless to select and modify HTML elements, handle events, and traverse the 
+DOM tree.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Cross-Browser Compatibility:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>jQuery abstracts away the differences in browser implementations, ensuring consistent behavior 
+and easing the pain of dealing with browser quirks and inconsistencies.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>AJAX</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>jQuery simplifies <b><mark>AJAX</mark></b> communication by providing a set of convenient 
+methods for making asynchronous requests to servers, handling responses, and updating 
+content on the webpage dynamically. Rich Plugin Ecosystem: jQuery boasts a vast 
+ecosystem of plugins that extend its functionality. These plugins cover a wide range of 
+use cases, from UI widgets and effects to data visualization and form validation.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>React Component-Based Architecture:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>React revolutionized the web development landscape with its <b><mark>component-based 
+architecture</mark></b>. Components encapsulate the logic and presentation of UI elements, 
+allowing for modular development, code reusability, and easier testing.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Virtual DOM:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>React employs a <b><mark>virtual DOM</mark></b>, a lightweight in-memory representation of the
+actual DOM. By using a virtual DOM, React optimizes rendering performance by selectively
+updating only the necessary parts of the UI, resulting in efficient and responsive
+applications.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Unidirectional Data Flow:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p><b><mark>React</mark></b> promotes a <b><mark>unidirectional data flow</mark></b>, where data flows 
+from parent components to child components. This one-way data binding simplifies 
+debugging, improves code predictability, and reduces side effects.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>React Native:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>React also offers <b><mark>React Native</mark></b>, a framework for building cross-platform 
+mobile applications using JavaScript. With React Native, developers can write code once 
+and deploy it on both iOS and Android platforms, saving time and effort.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Vue.js:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Approachable Learning Curve:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p><b><mark>Vue.js</mark></b> stands out for its simplicity and ease of learning. Its gentle 
+learning curve enables developers to quickly grasp its core concepts and start building 
+applications. The <b><mark>Vue CLI (Command Line Interface)</mark></b> provides a scaffold for 
+setting up Vue.js projects with ease.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Flexible and Versatile:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p><b><mark>Vue.js</mark></b> is designed to be flexible and adaptable to various project sizes 
+and requirements. Whether you're building a small application or a large-scale single-
+page application, Vue.js provides the necessary tools and features to handle the task 
+at hand.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Vue Router and Vuex:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Vue.js offers official plugins, such as Vue Router and Vuex, that seamlessly integrate 
+with the framework. Vue Router facilitates navigation between different views in a Vue.js 
+application, while Vuex provides a state management pattern for managing application-wide data.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="8-js-game-engines"><a href="https://www.geeksforgeeks.org/8-best-javascript-game-engines/" 
 target="_blank" rel="noopener noreferrer">8 Best JS Game Engines</a>.</h2>
