@@ -497,8 +497,8 @@ application, while Vuex provides a state management pattern for managing applica
     <th><b>Name</b></th>
     <th>Website</th>
     <th>GitHub</th>
-    <th>Demo</th>
-    <th>Type</th>
+    <th>Demo/Example</th>
+    <th>Desc'n</th>
   </tr>
   <tr>
     <td><b>Swiper</b></td>
@@ -568,7 +568,7 @@ application, while Vuex provides a state management pattern for managing applica
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="4-games">• Games #4 JavaScript libraries for Games: •</h2>
+<!--  <h2 id="4-games">• Games #4 JavaScript libraries for Games: •</h2> -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Name:</h3>
 <table style="width:75%">
@@ -576,113 +576,43 @@ application, while Vuex provides a state management pattern for managing applica
   <tr>
     <th><b>Name</b></th>
     <th>Website</th>
-    <th>Key Features</th>
-    <th>Advantages</th>
-    <th>Disadvantages</th>
-    <th>Famous Projects</th>
-    <th>Description</th>
+    <th>GitHub</th>
+    <th>Demo/Example</th>
+    <th>Desc'n</th>
   </tr>
   <tr>
     <td><b>Phaser</b></td>
-    <td>https://phaser.io/</td>
-    <td>  <!-- key features -->
-      <ul>
-        <li>Version Control:<br>
-          Host your code version in a Git-based repository. We can collaborate through pull 
-          requests, code reviews, or just discussions. Project management: With automatic 
-          problem tracking and project boards.</li>
-	  </ul>
-    </td>
-	<td>  <!-- advantages -->
-	  <ul>
-        <li>Community:<br>
-          Large following with documentation. Integrates with numerous development and 
-          CI/CD tools. Free Plan: Free plan with an unlimited amount of public 
-          repositories.</li>
-	  </ul>
-	</td>
-	<td>  <!-- disadvantages -->
-	  <ul>
-        <li>Pricing:<br>
-          This is a paid plan; it includes advanced features and private repositories.</li>
-	    <li>Complexity: Can be complex for beginners to navigate.</li>
-	  </ul>
-    </td>
-	<td>  <!-- famouse projects -->
-	  <ul>
-        <li>"Candy Crush Saga": Although not entirely built with Phaser, elements of the 
-          game were created using it for web-based versions.<br>
-		  "Slither.io": The online multiplayer game is known for its simple but engaging 
-		  gameplay and was developed using Phaser.</li>
-      </ul>
-    </td>
-	<td>  <!-- description -->
-        Phaser is an open-source, free framework; it happens to be both fast and 
-          allows a developer to create games in HTML5 on the Desktop and Mobile. 
-          Including physics, sprite management, and animation systems, it provides one 
-          with powerful suites of game development tools. It is heavily documented and 
-          has a thriving user community so developers of all experience levels can use 
-          it. Doing this depends a lot on WebGL and Canvas, so it can be a cause for 
-          real performance issues on lower-end devices.
-    </td>
+    <td><a href="https://phaser.io/">phaser.io</a></td>
+    <td><a href="">GH</a></td>
+	<td><a href="">Demo/Example</a></td>
+	<td>Used in "Candy Crush Saga" &amp; Phaser</td>
   </tr>
   <tr>
     <td><b>Three.js</b></td>
-    <td>https://threejs.org/</td>
-    <td>
-      <ul>  <!-- key features -->
-        <li>3D Rendering:<br>
-          It is designed to be user-friendly in making 3D scenes and objects.</li>
-        <li>Camera Options:<br>
-          In-game options for moving and interacting with the camera.</li>
-        <li>Shaders:<br>
-          Great support for writing custom shaders.</li>
-        <li>Visual Quality:<br>
-          This is referred to as high-quality 3D graphics and animations.</li>
-        <li>Flexibility:<br>
-          Very versatile to a wide range of different 3D projects' needs.</li>
-        <li>Community support:<br>
-          Good community, useful resources.</li>
-      </ul>
-    </td>
-    <td>Learning Curve:<br>  <!-- disadvantages -->
-    Demands good 3D mathematics. This may place a high demand on system resources, which could affect performance on lower-end devices.</td>
-    <!-- famous projects -->
-    <td>"A-Frame": A web framework for building virtual reality (VR) experiences. Many VR demos use Three.js as their rendering engine. "Google Chrome Experiments": Various projects and interactive experiences featured on the Chrome Experiments site leverage Three.js for stunning visuals.</td>
-    <!-- description -->
-    <td>Three.js is a JavaScript library that greatly eases working with WebGL, which is an API for low-level and complex graphics. Most importantly, it makes it possible to create real three-dimensional rich content directly in a browser without participation by plug-ins. Its features in composition make Three.js properly ideal for the creation of immersive 3D games with camera controls, lighting, and shading.</td>
+    <td><a href="https://threejs.org/">threejs.org</a></td>
+    <td>"A-Frame" &amp; "Google Chrome Experiments"</td>
+	<td><a href="">Demo/Example</a></td>
+    <td>Eases working with WebGL</td>
   </tr>
   <tr>
     <td><b>Balyon.js</b></td>
-    
-    <td>https://www.babylonjs.com/</td>
-    
-    <td>Physics Engine: Integrated support for physics-based interactions. Audio Engine: Powerful sound for an immersive experience. Visual Editor: Integrated visual development environment.</td>
-    
-    <td>Performance: Engineered to offer peak performance in high. Feature-packed: Contains many features to develop advanced games. Documentation: It has extensive documentation and a large community.</td>
-    <td>Complexity High: A firm grasp of 3D development is required. Resource Intensive: May be resource-heavy.</td>
-    
-    <td>"Gangs of Space": An online multiplayer space shooter game that utilizes Babylon.js for its 3D graphics. "The Legend of Zelda: Ocarina of Time" (3D project): A fan remake that showcases the capabilities of Babylon.js in creating immersive 3D environments.</td>
-    
-    <td>Another powerful 3-D engine in the hands of developers makes use of the potential of WebGL to create captivating real-time 3-D graphics within a web browser. It also includes robust tools for collision, physics, and audio. Babylon.js comes with its visual editor, speeding up development along with already fast development. One needs to have a pretty good grasp over 3-D mathematics in order to make full use of this. But that's kind of smoothed out by the fact that it offers comprehensive documentation and there is an active community to help you.</td>
+    <td><a href="https://www.babylonjs.com/">babylonjs.com</a></td>
+	<td><a href="">GH</a></td>
+	<td>"Gangs of Space" &amp; "The Legend of Zelda: Ocarina of Time"</td>
+	<td>Another powerful 3-D engine</td>
   </tr>
   <tr>
     <td><b>PlayCanvas</b></td>
-    <td></td>
-    <td>Real Time Collaboration: Team based public SMART cloud workspaces. Visual Editor: Drag in anything to build 3D content. Cross-Platform: Development of several platforms.</td>
-    <td>User Friendliness: From novice to pro, kindly expect an easy and user-friendly interface. Collaboration: Sharing and real-time collaboration. Performance: High status performed on an optimal level on various devices.</td>
-    <td>Cost: Free, but with limited features; other features may be acquired by purchase. It could be hard to learn some advanced features.</td>
-    <td>"Lumberjack": A 3D multiplayer game that showcases real-time collaboration features of PlayCanvas. "Gundam Battle": A browser-based game that utilizes PlayCanvas for its engaging 3D graphics and gameplay.</td>
-    <td>PlayCanvas is a collaborative gamedev platform with a visual dev environment holding a powerful JavaScript framework. It allows developers to create high-performance 3D games directly in the browser, with maximum compatibility across all devices. Because of this cloud enablement, PlayCanvas allows real-time cooperation and serves excellently for teamwork. Of course, the free version has some of the features limited, but the broad set of opportunities of the platform is still available.</td>
+    <td>"Lumberjack" &amp; "Gundam Battle"</td>
+	<td></td>
+	<td></td>
+	<td></td>
   </tr>
   <tr>
     <td><b>PIXI.js</b></td>
-    <td></td>
-    <td>Quick Drawing: Full hardware acceleration enables the fastest possible rendering speed. Texture Mapping: Texturing capability mappings. Particle Effects: Built-in support for particle effects.</td>
-    <td>Performance: 2 Proactive high yield. User-Friendly: Easy to use and simply combined with other tools. Widespread community backing and ample resource quantities.</td>
-    <td>This places it only in 2D rendering and, depending on other libraries, extends its functionality. Complexity: Advanced features may require in-depth knowledge.</td>
-    <td>"Super Mario 64 HD": A fan remake that utilizes PIXI.js to enhance its 2D graphics. "Frogger": Various iterations of the classic arcade game have been developed using PIXI.js for its smooth rendering capabilities.</td>
+<!--
     <td>PIXI.js is a 2D render engine that allows you to create smooth and visually appealing applications. It renders very well by using hardware acceleration, resulting in very good performance for lots of game development features, such as texture mapping, particle effects, and sprite animations. For these reasons, the power of PIXI.js features is combined especially well with the realization of 2D games and interactive UI components. While it focuses only on rendering, it can be paired with other libraries for additional functionality.</td>
+-->
   </tr>
   <tr>
     <td><b>Coco2d-JS</b></td>
