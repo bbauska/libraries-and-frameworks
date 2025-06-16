@@ -508,11 +508,7 @@ application, while Vuex provides a state management pattern for managing applica
       SwiperJS GH</a></td>
     <td><a href="https://swiperjs.com/demos" target="_blank" rel="noopener noreferrer">
       SwiperJS Demos</a></td>
-    <td>Swiper is the most modern free mobile touch slider with hardware accelerated 
-      transitions and amazing native behavior. It is intended to be used in mobile 
-      websites, mobile web apps, and mobile native/hybrid apps. Swiper is not 
-      compatible with all platforms, it is a modern touch slider which is focused only 
-      on modern apps/platforms to bring the best experience and simplicity.</td>
+    <td>Swiper is the most modern free mobile touch slider</td>
   </tr>
   <tr>
     <td><b>Owl Carousel 2</b></td>
@@ -522,10 +518,7 @@ application, while Vuex provides a state management pattern for managing applica
       Owl Carousel 2 GH</a></td>
     <td><a href="https://owlcarousel2.github.io/OwlCarousel2/demos/demos.html" target="_blank" rel="noopener noreferrer">
       Owl Carousel 2 Demo</a></td>
-    <td>Touch enabled jQuery plugin that lets you create a beautiful responsive carousel 
-      slider. Owl Carousel has been chosen as the number one jQuery plugin by hundreds 
-      of developers. Now its time for a new version that comes with lots of new features 
-      and an even more user-friendly API.</td>
+    <td>Touch enabled jQuery plugin</td>
   </tr>
   <tr>
     <td><b>Slick Slider</b></td>
@@ -535,11 +528,7 @@ application, while Vuex provides a state management pattern for managing applica
       Slick Slider GH</a></td>
     <td><a href="https://kenwheeler.github.io/slick/" target="_blank" rel="noopener noreferrer">
       Slick Slider Demo</a></td>
-    <td>Fully responsive. Scales with its container. Separate settings per breakpoint 
-      Uses CSS3 when available. Fully functional when not. Swipe enabled. Or disabled, 
-      if you prefer. Desktop mouse dragging Infinite looping. Fully accessible with 
-      arrow key navigation Add, remove, filter & unfilter slides Autoplay, dots, arrows, 
-      callbacks, etc...</td>
+    <td>Fully responsive</td>
   </tr>
   <tr>
     <td><b>ItemSlider</b></td>
@@ -549,9 +538,7 @@ application, while Vuex provides a state management pattern for managing applica
       ItemSlider GH</a></td>
     <td><a href="https://smartslider3.com/sample-sliders/" target="_blank" rel="noopener noreferrer">
       Item Slider Demo</a></td>
-    <td>A tutorial on how to create a simple category slider with a minimal design using 
-      CSS animations and jQuery. The idea is to slide the items sequentially depending 
-      on the slide direction.</td>
+    <td>CSS animations and jQuery</td>
   </tr>
   <tr>
     <td><b>blueimp Gallery</b></td>
@@ -559,19 +546,15 @@ application, while Vuex provides a state management pattern for managing applica
       blueimp Gallery</a></td>
     <td><a href="https://blueimp.github.io/Gallery/"  target="_blank" rel="noopener noreferrer">
       blueimp Gallery GH</a></td>
-    <td></td>
-    <td>blueimp Gallery is a touch-enabled, responsive and customizable image & video 
-      gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. 
-      It features swipe, mouse and keyboard navigation, transition effects, slideshow 
-      functionality, fullscreen support, and on-demand content loading and can be 
-      extended to display additional content types.</td>
+	<td></td>
+    <td>Touch-enabled, responsive and customizable image & video gallery</td>
   </tr>
   <tr>
     <td><b>Phaser</b></td>
     <td><a href="https://phaser.io/">phaser.io</a></td>
     <td><a href="">GH</a></td>
-	<td><a href="">Demo/Example</a></td>
-	<td>Used in "Candy Crush Saga" &amp; Phaser</td>
+	<td>"Candy Crush Saga" &amp; Phaser</td>
+	<td><a href="">Desc'n</a></td>
   </tr>
   <tr>
     <td><b>Three.js</b></td>
@@ -579,6 +562,19 @@ application, while Vuex provides a state management pattern for managing applica
 	<td><a href="">GH</td>
     <td>"A-Frame" &amp; "Google Chrome Experiments"</td>
     <td>Eases working with WebGL</td>
+  </tr>
+</table>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="4-games">• Games #4 Games: •</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<table style="width:75%">
+  <caption>Games #4 Games</caption>
+  <tr>
+    <th><b>Name</b></th>
+    <th>Website</th>
+    <th>GitHub</th>
+    <th>Demo/Example</th>
+    <th>Desc'n</th>
   </tr>
   <tr>
     <td><b>Balyon.js</b></td>
@@ -589,38 +585,33 @@ application, while Vuex provides a state management pattern for managing applica
   </tr>
   <tr>
     <td><b>PlayCanvas</b></td>
+	<td>PlayCanvas</td>
+	<td>GH</td>
     <td>"Lumberjack" &amp; "Gundam Battle"</td>
-	<td></td>
-	<td></td>
 	<td></td>
   </tr>
   <tr>
     <td><b>PIXI.js</b></td>
-    <td></td>
-	<td></td>
+    <td>Pixi.js</td>
+	<td>GH</td>
 	<td></td>
 	<td></td>
   </tr>
   <tr>
     <td><b>Coco2d-JS</b></td>
-    <td><b>PIXI.js</b></td>
+    <td>Coco2d-JS</td>
     <td>GH</td>
     <td>"Clash of Kings" &amp; "Badland"</td>
     <td>Cocos2d-JS</td>
   </tr>
   <tr>
     <td><b>MelonJS</b></td>
-	<td></td>
-	<td></td>
+	<td>MelonJS</td>
+	<td>GH</td>
     <td>"Grape Escape" &amp; "Box2D"</td>
     <td></td>
   </tr>
 </table>
-
-<p><a href="https://www.geeksforgeeks.org/8-best-javascript-game-engines/" 
-target="_blank" rel="noopener noreferrer">8 Best JS Game Engines</a>.</p>
-<p><a href="https://www.geeksforgeeks.org/ways-to-make-an-api-call-in-javascript/" 
-target="_blank" rel="noopener noreferrer">4 Ways to make an API call in JavaScript</a>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="5-info-graphics">• Info Graphics #5 JavaScript libraries for Information Graphics: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -630,8 +621,29 @@ target="_blank" rel="noopener noreferrer">4 Ways to make an API call in JavaScri
     <th><b>Name</b></th>
     <th>Website</th>
     <th>GitHub</th>
-    <th>Demo</th>
-    <th>Type</th>
+    <th>Demo/Example</th>
+    <th>Desc'n</th>
+  </tr>
+  <tr>
+    <td><b>1st Info Graphics</b></td>
+    <td>Website</td>
+    <td>GitHub</td>
+    <td>Demo/Example</td>
+    <td>Desc'n</td>
+  </tr>
+  <tr>
+    <td><b>2nd Info Graphics</b></td>
+    <td>Website</td>
+    <td>GitHub</td>
+    <td>Demo</td>
+    <td>Desc'n</td>
+  </tr>
+  <tr>
+    <td><b>3rd Info Graphics</b></td>
+    <td>Website</td>
+    <td>GitHub</td>
+    <td>Demo</td>
+    <td>Desc'n</td>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -656,8 +668,8 @@ work with 3D graphics in the browser.
 -->
     <td><b><a  href="https://themeselection.com/javascript-3d-library/?srsltid=AfmBOoqE0onQM6K-D6hFJAftUEq3m_22Z8lI8SaXa_8HUS0GYTLjQjKq#h-three-js" target="_blank" rel="noopener noreferrer">
       Three.js</a></b></td>
-    <td><b><a href="https://henryegloff.com/awesome-examples-of-three-js/" 
-      target="_blank" rel="noopener noreferrer">Three.js</a></b></td>
+    <td><a href="https://henryegloff.com/awesome-examples-of-three-js/" 
+      target="_blank" rel="noopener noreferrer">Three.js</a></td>
     <td><a href="https://discourse.threejs.org/t/drei-reveal-demo-full-source/22935" 
       target="_blank" rel="noopener noreferrer">Three.js GH</a></td>
     <td><a href="https://codesandbox.io/p/sandbox/drei-reflector-bfplr" target="_blank" 
@@ -671,8 +683,8 @@ A lightweight library with a simple API that can animate HTML, CSS, JS, SVG and 
 attributes. It has a built-in staggering system, callbacks and controls, and various 
 easing and animation effects.
 -->
-    <td><b><a href="https://animejs.com/" target="_blank" rel="noopener noreferrer">
-      Anime.js</a></b></td>
+    <td><a href="https://animejs.com/" target="_blank" rel="noopener noreferrer">
+      Anime.js</a></td>
     <td><a href="https://github.com/topics/animejs?l=vue&o=desc&s=" target="_blank" rel="noopener noreferrer">
       Anime.js GH</a></td>
     <td><a href="https://freefrontend.com/anime-js-examples/" target="_blank" rel="noopener noreferrer">
@@ -732,8 +744,8 @@ Motion graphics library provides built-in components to start animating from scr
 like html, shape, swirl, burst and stagger, but also bring you tools to help craft 
 your animation in a most natural way.
 -->
-    <td><b><a href="https://mojs.github.io/" target="_blank" rel="noopener noreferrer">
-      Mo.js</a></b></td>
+    <td><a href="https://mojs.github.io/" target="_blank" rel="noopener noreferrer">
+      Mo.js</a></td>
     <td><a href="https://github.com/mojs" target="_blank" rel="noopener noreferrer">
       Mo.js GH</a></td>
     <td><a href="https://codemyui.com/tag/mo-js/" target="_blank" rel="noopener noreferrer">
@@ -748,8 +760,8 @@ transforms, loops, easings, SVGs and more. It can work with or without jQuery an
 a high performance.
 Accelerated JavaScript animation.
 -->
-    <td><b><a href="http://velocityjs.org/" target="_blank" rel="noopener noreferrer">
-      Velocity.js</a></b></td>
+    <td><a href="http://velocityjs.org/" target="_blank" rel="noopener noreferrer">
+      Velocity.js</a></td>
     <td><a href="https://github.com/cohenerickson/Velocity" target="_blank" rel="noopener noreferrer">
       Velocity GH</a></td>
     <td><a href="https://codemyui.com/tag/velocity-js/" target="_blank" rel="noopener noreferrer">
@@ -761,8 +773,8 @@ Accelerated JavaScript animation.
 <!--
 GreenSock Animation Platform - A library for building high-performance animations that work in every major browser. It can animate anything on the web, including CSS, SVG, canvas, React, Vue and more. It has advanced features like motion paths, physics, morphing and more.
 -->
-    <td><b><a href="https://gsap.com/" target="_blank" rel="noopener noreferrer">
-      GSAP.com</a></b></td>
+    <td><a href="https://gsap.com/" target="_blank" rel="noopener noreferrer">
+      GSAP.com</a></td>
     <td><a href="https://github.com/greensock/GSAP" target="_blank" rel="noopener noreferrer">
       GSAP GH</a></td>
     <td><a href="https://codepen.io/GreenSock/collections/" target="_blank" rel="noopener noreferrer">
@@ -775,8 +787,8 @@ GreenSock Animation Platform - A library for building high-performance animation
 <!--
 A library for creating scroll interactions with JavaScript and CSS. It can trigger animations based on scroll position and pin elements within the viewport. It has over 11K stars on GitHub.
 -->
-    <td><b><a href="https://scrollmagic.io/" target="_blank" rel="noopener noreferrer">
-      ScrollMagic.io</a></b></td>
+    <td><a href="https://scrollmagic.io/" target="_blank" rel="noopener noreferrer">
+      ScrollMagic.io</a></td>
     <td><a href="https://github.com/ANSHPG/SCROLL-MAGIC" target="_blank" rel="noopener noreferrer">
       ScrollMagic GH</a></td>
     <td><a href="https://scrollmagic.io/examples/" target="_blank" rel="noopener noreferrer">
@@ -789,8 +801,8 @@ A library for creating scroll interactions with JavaScript and CSS. It can trigg
 A library that types. Enter in any string, and watch it type at the speed you've set, 
 backspace what it's typed, and begin a new sentence for however many strings you've set.
 -->
-    <td><b><a href="https://github.com/mattboldt/typed.js" target="_blank" rel="noopener noreferrer">
-      Typed.js</a></b></td>
+    <td><a href="https://github.com/mattboldt/typed.js" target="_blank" rel="noopener noreferrer">
+      Typed.js</a></td>
     <td><a href="https://github.com/mattboldt/typed.js" target="_blank" rel="noopener noreferrer">
       Typed.js GH</a></td>
     <td><a href="https://codepen.io/merb/pen/yOwJjj" target="_blank" rel="noopener noreferrer">
@@ -941,38 +953,63 @@ the viewport. It has over 11K stars on GitHub.</p>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="8-js-game-engines"><a href="https://www.geeksforgeeks.org/8-best-javascript-game-engines/" 
+target="_blank" rel="noopener noreferrer">8 Best JS Game Engines</a>.</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="4-ways-api-call"><a href="https://www.geeksforgeeks.org/ways-to-make-an-api-call-in-javascript/" 
+target="_blank" rel="noopener noreferrer">4 Ways to make an API call in JavaScript</a>.</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="svg">Top 10 SVG Pattern Generators</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>An SVG pattern generator is a tool that creates unique and customizable patterns using 
 Scalable Vector Graphics (SVG). The generator allows you to adjust parameters such as 
 color, size, shape, and pattern density to create a pattern that fits specific needs.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><b>Hero Patterns</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A collection of repeatable SVG background patterns for you to use on your web projects.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><b>Softr</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A free tool made by Softr for creating random organic-looking shapes that can be used 
 to add a nice touch to your landing page design, video thumbnail, social media banner, 
 or any other visual.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><b>BGJar</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Free svg background generator for your websites, blogs and app.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><b>fffuel</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A collection of color tools and free SVG generators for gradients, patterns, textures, 
 shapes & backgrounds.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><b>SVG Doodles!</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A free collection of 50 different editable SVG’s to spice up your online and offline designs.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><b>PatternPad</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>It generates graphical patterns based on a variety of parameters. This results in an 
 endless number of variations. You can choose from popular styles or create your own 
 individual pattern.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><b>SVGeez</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Totally awesome, well-stretched CSS svg background patterns, free for download.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><b>VISIWIG</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>This tool allows users to customize seamless patterns, change the size, rotation, 
 color, and stroke width of the patterns.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><b>Pattern Monster</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A simple online pattern generator to create repeatable SVG patterns. Perfect for 
 website backgrounds, apparel, branding, packaging design and more.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><b>Super Designer</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>This tool lets you create Doodle-like patterns using a tile system.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1413,70 +1450,95 @@ Top 6 JavaScript SEARCH Libraries</a></h2>
   </tr>
   <tr>
     <td><b><a href="https://www.fusejs.io/getting-started/installation.html" 
-target="_blank" rel="noopener noreferrer">Fuse.js</a></b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">
-	  Website</a></td>
+	  target="_blank" rel="noopener noreferrer">1. Fuse.js</a></b></td>
+    <td><a href="https://www.fusejs.io" target="_blank" rel="noopener noreferrer">
+	  Fuse.js Website</a></td>
+<!--
 <p>JavaScript search libraries are tools that enable you to perform full-text search on 
 data using JavaScript, either on the browser or on the server. They can help you create 
 fast and user-friendly search experiences for your web applications, without relying on 
 external search services or databases.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b><a href="https://www.fusejs.io/getting-started/installation.html" 
-target="_blank" rel="noopener noreferrer">1. Fuse.js</a></b> (17.6k ⭐)</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>— A powerful, lightweight fuzzy-search library, with zero dependencies. It allows you 
 to perform approximate string matching on the client-side or the backend, without setting 
 up a dedicated search service. You can use it to search through arrays of strings or 
 objects, with different options for weighting, nesting, and extended search syntax.<br>
-<a href="https://www.fusejs.io/examples.html" target="_blank" rel="noopener noreferrer">
-  Fuse.js Examples</a>,<br>
-<a href="https://medium.com/@gurunadhpukkalla/introduction-to-fuse-js-62bc856a2914" 
-  target="_blank" rel="noopener noreferrer">
-  Fuse.js Introduction</a>,<br>
-<a href="https://github.com/krisk/Fuse" target="_blank" rel="noopener noreferrer">
-  Fuse.js GitHub</a>.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b><a href="https://listjs.com/" target="_blank" rel="noopener noreferrer">2. List.js</a></b> (11.2k ⭐)</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p> — A vanilla JavaScript library that adds search, sort, filters and flexibility to 
+-->
+    <td><a href="https://www.fusejs.io/examples.html" target="_blank" rel="noopener noreferrer">
+      Fuse.js Examples</a></td>
+    <td><a href="https://github.com/krisk/Fuse" target="_blank" rel="noopener noreferrer">
+      Fuse.js GitHub</a>.</td>
+    <td><a href="https://medium.com/@gurunadhpukkalla/introduction-to-fuse-js-62bc856a2914" target="_blank"
+      rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Fuse.js Introduction</a></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://listjs.com/" target="_blank" rel="noopener noreferrer">2. List.js</a></b></td>
+	<td></td>
+	<td>GH List.js</td>
+<!--(11.2k ⭐) — A vanilla JavaScript library that adds search, sort, filters and flexibility to 
 plain HTML lists, tables, or anything. It can work with existing HTML or create its own 
 HTML from scratch. You can customize the options for value names, item templates, 
-pagination and more.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b><a href="https://emersonbottero.github.io/flexsearch/" target="_blank" 
-rel="noopener noreferrer">3. FlexSearch.js</a></b> (12k ⭐)</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p> — A next-generation full-text search library for Browser and Node.js with zero 
+pagination and more.
+-->
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://emersonbottero.github.io/flexsearch/" target="_blank" 
+	  rel="noopener noreferrer">3. FlexSearch.js</a></b></td>
+	<td></td>
+	<td><a href="https://github.com/nextapps-de/flexsearch-server" target="_blank" 
+	  rel="noopener noreferrer">FlexSearch GH Server</a></td>
+<!-- (12k ⭐)</td> — A next-generation full-text search library for Browser and Node.js with zero 
 dependencies. It claims to be the web’s fastest and most memory-efficient search library, 
 with features like contextual indexing, document indexing, web workers, and more.
-FlexSearch Server is available here: https://github.com/nextapps-de/flexsearch-server</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b><a href="https://lunrjs.com/guides/searching.html" target="_blank" 
-rel="noopener noreferrer">4. Lunr.js</a></b> (8.8k ⭐)</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>— A small, full-text search library for use in the browser or on the server with 
+-->
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://lunrjs.com/guides/searching.html" target="_blank" 
+	  rel="noopener noreferrer">4. Lunr.js</a></b></td>
+	<td></td>
+	<td>GH Lunr.js</td>
+<!-- (8.8k ⭐)</h3> A small, full-text search library for use in the browser or on the server with 
 Node.js. It indexes JSON documents and provides a simple search interface for retrieving 
 documents that best match text queries. It is designed to be easy to set up and use, 
-without the need for external search services.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b><a href="https://orama.com/" target="_blank" rel="noopener noreferrer">5. Orama</a></b> (8.2k ⭐)</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>— A fast, batteries-included, full-text search engine entirely written in TypeScript, 
+without the need for external search services.
+-->
+    <td></td>
+	<td></td>
+  </tr>
+  </tr>
+  <tr>
+    <td><b><a href="https://orama.com/" target="_blank" rel="noopener noreferrer">5. Orama</a></b></td>
+    <td></td>
+	<td>GH Orama.com</td>
+<!-- (8.2k ⭐) — A fast, batteries-included, full-text search engine entirely written in TypeScript, 
 designed to work on any runtime and has no dependencies. Orama also supports plugins to 
-extend its functionality and integrate with other frameworks.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b><a href="https://lucaong.github.io/minisearch/classes/MiniSearch.MiniSearch.html" 
-target="_blank" rel="noopener noreferrer">6. MiniSearch</a></b> (4.2k ⭐)</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>— A tiny but powerful in-memory fulltext search engine written in JavaScript. It is 
+extend its functionality and integrate with other frameworks.
+-->
+	<td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://lucaong.github.io/minisearch/classes/MiniSearch.MiniSearch.html" 
+	  target="_blank" rel="noopener noreferrer">6. MiniSearch</a></b></td>
+    <td></td>
+	<td>GH MiniSearch</td>
+<!-- (4.2k ⭐) — A tiny but powerful in-memory fulltext search engine written in JavaScript. It is 
 respectful of resources, and it can comfortably run both in Node and in the browser. 
 MiniSearch addresses use cases where full-text search features are needed (e.g. prefix 
 search, fuzzy search, ranking, boosting of fields…), but the data to be indexed can fit 
-locally in the process memory.</p>
-
+locally in the process memory.
+-->
+    <td></td>
+	<td></td>
+  </tr>
+</table>
 
 <h7>Date Created: 5/27/2025 10:00p<br>
 Date Last Editted: 5/27/2025 10:41p<br>
 Date Last Editted: 5/28/2025 12:35p<br>
 Date Last Editted: 6/05/2025 4:19p<br>
-Date Last Editted: 6/11/2025 12:32p</h7>
+Date Last Editted: 6/11/2025 12:32p<br>
+Date Last Editted: 6/15/2025 10:41p</h7>
