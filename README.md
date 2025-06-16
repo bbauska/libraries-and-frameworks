@@ -827,14 +827,14 @@ canvas element: •</h2>
     <td><b>Three.js</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
-	<td<<a href="">Example/Demo</a></td>
+	<td><a href="">Example/Demo</a></td>
 	<td>Short Desc'n</td>
   </tr>
   <tr>
     <td><b>Anime.js</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
-	<td<<a href="">Example/Demo</a></td>
+	<td><a href="">Example/Demo</a></td>
 	<td>3d computing graphics</td>
   </tr>
 <!-- (99.1k ⭐)— A popular JavaScript library used for creating and displaying 3D 
@@ -852,7 +852,7 @@ controls, and various easing and animation effects.</p>
     <td><b>Lottie</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
-	<td<<a href="">Example/Demo</a></td>
+	<td><a href="">Example/Demo</a></td>
 	<td>Renders Adobe After Effects</td>
   </tr>
 <!--
@@ -865,7 +865,7 @@ by designers without coding them manually.</p>
     <td><b>Three.js</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
-	<td<<a href="">Example/Demo</a></td>
+	<td><a href="">Example/Demo</a></td>
 	<td>Short Desc'n</td>
   </tr>
 <!--
@@ -878,14 +878,14 @@ surprised below at how easy it is to pick up.</p>
     <td><h5><b>Three.js</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
-	<td<<a href="">Example/Demo</a></td>
+	<td><a href="">Example/Demo</a></td>
 	<td>Short Desc'n</td>
   </tr>
   <tr>
     <td><h5><b>Popmotion</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
-	<td<<a href="">Example/Demo</a></td>
+	<td><a href="">Example/Demo</a></td>
 	<td>Tiny toolbox for keyframe and sprint animations</td>
   </tr>
 <!--
@@ -896,7 +896,7 @@ for numbers, colors and complex strings.</p>
     <td><h5><b>Mo.js</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
-	<td<<a href="">Example/Demo</a></td>
+	<td><a href="">Example/Demo</a></td>
 	<td>Animate from scatch, html, shape, swirl, burst, swagger</td>
   </tr>
 <!--
@@ -909,7 +909,7 @@ you tools to help craft your animation in a most natural way.</p>
     <td><h5><b>Velocity.js</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
-	<td<<a href="">Example/Demo</a></td>
+	<td><a href="">Example/Demo</a></td>
 	<td>Animate colors, transforms, loops, easings, SVGs, more...</td>
   </tr>
 <!--
@@ -922,7 +922,7 @@ It can work with or without jQuery and has a high performance.</p>
     <td><h5><b>GSAP</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
-	<td<<a href="">Example/Demo</a></td>
+	<td><a href="">Example/Demo</a></td>
 	<td>Animate CSS,SVG,canvas,React,Vue,more...</td>
   </tr>
 <!--
@@ -936,7 +936,7 @@ and more.</p>
     <td><h5><b>ScrollMagic</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
-	<td<<a href="">Example/Demo</a></td>
+	<td><a href="">Example/Demo</a></td>
 	<td>Scroll interactions w/JS</td>
   </tr>
 <!-- <h5><b>ScrollMagic</b> (14.8k ⭐)</h5>
