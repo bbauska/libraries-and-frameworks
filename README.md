@@ -546,15 +546,15 @@ application, while Vuex provides a state management pattern for managing applica
       blueimp Gallery</a></td>
     <td><a href="https://blueimp.github.io/Gallery/"  target="_blank" rel="noopener noreferrer">
       blueimp Gallery GH</a></td>
-	<td></td>
-    <td>Touch-enabled, responsive and customizable image & video gallery</td>
+	<td>blueimp Example/Demo</td>
+    <td>Touch-enabled, responsive and customizable image &amp; video gallery</td>
   </tr>
   <tr>
     <td><b>Phaser</b></td>
     <td><a href="https://phaser.io/">phaser.io</a></td>
     <td><a href="">GH</a></td>
 	<td>"Candy Crush Saga" &amp; Phaser</td>
-	<td><a href="">Desc'n</a></td>
+	<td>Desc'n</td>
   </tr>
   <tr>
     <td><b>Three.js</b></td>
@@ -645,13 +645,6 @@ application, while Vuex provides a state management pattern for managing applica
     <td>Demo</td>
     <td>Desc'n</td>
   </tr>
-</table>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="6-image-3d-effects">• Image &amp; 3-D Effects #6 JS libraries for Image and 3-D 
-  Effects for the canvas element: •</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<table style="width:75%">
-  <caption>Image &amp; 3-D Effects #6 JavaScript Libraries for Image and 3-D Effects for the canvas element</caption>
   <tr>
     <th><b>Name</b></th>
     <th>Website</th>
@@ -728,8 +721,8 @@ easy it is to pick up.
 <!--
 Tiny animator's toolbox supports keyframe and spring animations for numbers, colors and complex strings.
 -->
-    <td><b><a href="https://popmotion.io/" target="_blank" rel="noopener noreferrer">
-      Popmotion</a></b></td>
+    <td><a href="https://popmotion.io/" target="_blank" rel="noopener noreferrer">
+      Popmotion</a></td>
     <td><a href="https://github.com/Popmotion/popmotion" target="_blank" rel="noopener noreferrer">
       Popmotion GH</a></td>
     <td><a href="https://popmotion.io/pose/examples/accordion/" target="_blank" rel="noopener noreferrer">
@@ -808,20 +801,6 @@ backspace what it's typed, and begin a new sentence for however many strings you
       Typed.js Codepen</a></td>
     <td>JS</td>
   </tr>
-</table>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="6-image-3d-effects-2">• more 3-D Effects #6 JS libraries for Image and 3-D Effects for the 
-canvas element: •</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<table style="width:75%">
-  <caption>Image &amp; 3-D Effects #6 JavaScript Libraries for Image and 3-D Effects for the canvas element</caption>
-  <tr>
-    <th><b>Name</b></th>
-    <th>Website</th>
-    <th>GitHub</th>
-    <th>Example/Demo</th>
-    <th>Short Desc'n</th>
-  </tr>
   <tr>
     <td><b>Three.js</b></td>
 	<td><a href="">Website name</a></td>
@@ -836,16 +815,14 @@ canvas element: •</h2>
 	<td><a href="">Example/Demo</a></td>
 	<td>3d computing graphics</td>
   </tr>
-<!-- (99.1k ⭐)— A popular JavaScript library used for creating and displaying 3D 
+<!-- Three.js (99.1k ⭐)— A popular JavaScript library used for creating and displaying 3D 
 computer graphics on the web. It provides a high-level API that abstracts away the 
 complexities of WebGL, a low-level graphics API, making it easier for developers to 
 work with 3D graphics in the browser.</p>
 -->
-<!--
-<h5><b>Anime.js</b> (48.8k ⭐)</h5>
-<p>— A lightweight library with a simple API that can animate HTML, 
+<!-- Anime.js (48.8k ⭐) — A lightweight library with a simple API that can animate HTML, 
 CSS, JS, SVG and DOM attributes. It has a built-in staggering system, callbacks and 
-controls, and various easing and animation effects.</p>
+controls, and various easing and animation effects.
 -->
   <tr>
     <td><b>Lottie</b></td>
@@ -854,11 +831,9 @@ controls, and various easing and animation effects.</p>
 	<td><a href="">Example/Demo</a></td>
 	<td>Renders Adobe After Effects</td>
   </tr>
-<!--
-<h5><b>Lottie</b> (29.7k ⭐)</h5>
-<p>— A library that renders Adobe After Effects animations exported 
+<!-- Lottie (29.7k ⭐) — A library that renders Adobe After Effects animations exported 
 as JSON with the Bodymovin plugin. It allows you to use complex animations created 
-by designers without coding them manually.</p>
+by designers without coding them manually.
 -->
   <tr>
     <td><b>Three.js</b></td>
@@ -867,81 +842,70 @@ by designers without coding them manually.</p>
 	<td><a href="">Example/Demo</a></td>
 	<td>Short Desc'n</td>
   </tr>
-<!--
-<h5><b>ScrollReveal</b> (22.1k ⭐)</h5>
-<p>— A library for easily animating elements as they enter/leave 
+<!-- ScrollReveal (22.1k ⭐) — A library for easily animating elements as they enter/leave 
 the viewport. It was designed to be robust and flexible, but hopefully you’ll be 
-surprised below at how easy it is to pick up.</p>
+surprised below at how easy it is to pick up.
 -->
   <tr>
-    <td><h5><b>Three.js</b></td>
+    <td><b><b>Three.js</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
 	<td><a href="">Example/Demo</a></td>
 	<td>Short Desc'n</td>
   </tr>
   <tr>
-    <td><h5><b>Popmotion</b></td>
+    <td><b><b>Popmotion</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
 	<td><a href="">Example/Demo</a></td>
 	<td>Tiny toolbox for keyframe and sprint animations</td>
   </tr>
-<!--
-<h5><b>Popmotion</b> (19.8k ⭐)</h5>
-<p>— Tiny animator's toolbox supports keyframe and spring animations 
-for numbers, colors and complex strings.</p>
+<!-- Popmotion (19.8k ⭐) — Tiny animator's toolbox supports keyframe and spring animations 
+for numbers, colors and complex strings.
 -->
-    <td><h5><b>Mo.js</b></td>
+    <td><b><b>Mo.js</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
 	<td><a href="">Example/Demo</a></td>
 	<td>Animate from scatch, html, shape, swirl, burst, swagger</td>
   </tr>
-<!--
-<h5><b>Mo.js</b> (18.3k ⭐)</h5>
-<p>— Motion graphics library provides built-in components to start 
+<!-- Mo.js (18.3k ⭐)— Motion graphics library provides built-in components to start 
 animating from scratch like html, shape, swirl, burst and stagger, but also bring 
-you tools to help craft your animation in a most natural way.</p>
+you tools to help craft your animation in a most natural way.
 -->
   <tr>
-    <td><h5><b>Velocity.js</b></td>
+    <td><b><b>Velocity.js</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
 	<td><a href="">Example/Demo</a></td>
 	<td>Animate colors, transforms, loops, easings, SVGs, more...</td>
   </tr>
-<!--
-<h5><b>Velocity.js</b> (17.3k ⭐)</h5>
-<p>— A library that combines the best of jQuery and CSS transitions.
+<!-- Velocity.js</b> (17.3k ⭐) — A library that combines the best of jQuery and CSS transitions.
 It can animate colors, transforms, loops, easings, SVGs and more. 
-It can work with or without jQuery and has a high performance.</p>
+It can work with or without jQuery and has a high performance.
 -->
   <tr>
-    <td><h5><b>GSAP</b></td>
+    <td><b><b>GSAP</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
 	<td><a href="">Example/Demo</a></td>
 	<td>Animate CSS,SVG,canvas,React,Vue,more...</td>
   </tr>
-<!--
-<h5><b>GSAP</b> (18.7k ⭐)</h5>
-<p>— A library for building high-performance animations that work in 
+<!-- GSAP (18.7k ⭐) — A library for building high-performance animations that work in 
 every major browser. It can animate anything on the web, including CSS, SVG, canvas, 
 React, Vue and more. It has advanced features like motion paths, physics, morphing 
-and more.</p>
+and more.
 -->
   <tr>
-    <td><h5><b>ScrollMagic</b></td>
+    <td><b><b>ScrollMagic</b></td>
 	<td><a href="">Website name</a></td>
 	<td><a href="">GH</a></td>
 	<td><a href="">Example/Demo</a></td>
 	<td>Scroll interactions w/JS</td>
   </tr>
-<!-- <h5><b>ScrollMagic</b> (14.8k ⭐)</h5>
-<p>— A library for creating scroll interactions with JavaScript 
+<!-- ScrollMagic (14.8k ⭐) — A library for creating scroll interactions with JavaScript 
 and CSS. It can trigger animations based on scroll position and pin elements within 
-the viewport. It has over 11K stars on GitHub.</p>
+the viewport. It has over 11K stars on GitHub.
 -->
   <tr>
     <td><b>Typed.js</b></td>
@@ -952,71 +916,33 @@ the viewport. It has over 11K stars on GitHub.</p>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="8-js-game-engines"><a href="https://www.geeksforgeeks.org/8-best-javascript-game-engines/" 
-target="_blank" rel="noopener noreferrer">8 Best JS Game Engines</a>.</h2>
+<h2 id="6-image-3d-effects">• Image and 3-D effects for the canvas element #6 JavaScript 
+libraries for Image and 3-D Effects for the Canvas Element: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="4-ways-api-call"><a href="https://www.geeksforgeeks.org/ways-to-make-an-api-call-in-javascript/" 
-target="_blank" rel="noopener noreferrer">4 Ways to make an API call in JavaScript</a>.</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="svg">Top 10 SVG Pattern Generators</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>An SVG pattern generator is a tool that creates unique and customizable patterns using 
-Scalable Vector Graphics (SVG). The generator allows you to adjust parameters such as 
-color, size, shape, and pattern density to create a pattern that fits specific needs.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>Hero Patterns</b>:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>A collection of repeatable SVG background patterns for you to use on your web projects.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>Softr</b>:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>A free tool made by Softr for creating random organic-looking shapes that can be used 
-to add a nice touch to your landing page design, video thumbnail, social media banner, 
-or any other visual.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>BGJar</b>:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Free svg background generator for your websites, blogs and app.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>fffuel</b>:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>A collection of color tools and free SVG generators for gradients, patterns, textures, 
-shapes & backgrounds.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>SVG Doodles!</b>:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>A free collection of 50 different editable SVG’s to spice up your online and offline designs.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>PatternPad</b>:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>It generates graphical patterns based on a variety of parameters. This results in an 
-endless number of variations. You can choose from popular styles or create your own 
-individual pattern.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>SVGeez</b>:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Totally awesome, well-stretched CSS svg background patterns, free for download.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>VISIWIG</b>:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>This tool allows users to customize seamless patterns, change the size, rotation, 
-color, and stroke width of the patterns.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>Pattern Monster</b>:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>A simple online pattern generator to create repeatable SVG patterns. Perfect for 
-website backgrounds, apparel, branding, packaging design and more.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>Super Designer</b>:</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>This tool lets you create Doodle-like patterns using a tile system.</p>
-
+<table style="width:75%">
+  <caption>Image and 3-D Effects for the Canvas Element #6 JS Libraries for Image and 3-D 
+    Effects for the Canvas Elemnent</caption>
+  <tr>
+    <th><b>Name</b></th>
+    <th>Website</th>
+    <th>GitHub</th>
+    <th>Demo/Example</th>
+    <th>Desc'n</th>
+  </tr>
+  <tr>
+    <td><b>1st Info Graphics</b></td>
+    <td>Website for 1st Info Graphics</td>
+    <td>GH for 1st Info Graphics</td>
+    <td>Demo/Example for 1st Info Graphics</td>
+	<td>Desc'n</td>
+  </tr>
+</table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="7-string-math">• String &amp; Math Functions #7 JavaScript libraries for Strings and Math 
   Functions: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <table style="width:75%">
-  <caption>Database Handling #8 JS Libraries for Database Handling</caption>
+  <caption>String &amp; Math Functions #7 JS String and Math Functions</caption>
   <tr>
     <th><b>JS library Name</b></th>
     <th>Website:</th>
@@ -1534,6 +1460,65 @@ locally in the process memory.
 	<td></td>
   </tr>
 </table>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="8-js-game-engines"><a href="https://www.geeksforgeeks.org/8-best-javascript-game-engines/" 
+target="_blank" rel="noopener noreferrer">8 Best JS Game Engines</a>.</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="4-ways-api-call"><a href="https://www.geeksforgeeks.org/ways-to-make-an-api-call-in-javascript/" 
+target="_blank" rel="noopener noreferrer">4 Ways to make an API call in JavaScript</a>.</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="svg">Top 10 SVG Pattern Generators</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>An SVG pattern generator is a tool that creates unique and customizable patterns using 
+Scalable Vector Graphics (SVG). The generator allows you to adjust parameters such as 
+color, size, shape, and pattern density to create a pattern that fits specific needs.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b>Hero Patterns</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>A collection of repeatable SVG background patterns for you to use on your web projects.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b>Softr</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>A free tool made by Softr for creating random organic-looking shapes that can be used 
+to add a nice touch to your landing page design, video thumbnail, social media banner, 
+or any other visual.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b>BGJar</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Free svg background generator for your websites, blogs and app.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b>fffuel</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>A collection of color tools and free SVG generators for gradients, patterns, textures, 
+shapes & backgrounds.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b>SVG Doodles!</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>A free collection of 50 different editable SVG’s to spice up your online and offline designs.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b>PatternPad</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>It generates graphical patterns based on a variety of parameters. This results in an 
+endless number of variations. You can choose from popular styles or create your own 
+individual pattern.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b>SVGeez</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Totally awesome, well-stretched CSS svg background patterns, free for download.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b>VISIWIG</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>This tool allows users to customize seamless patterns, change the size, rotation, 
+color, and stroke width of the patterns.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b>Pattern Monster</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>A simple online pattern generator to create repeatable SVG patterns. Perfect for 
+website backgrounds, apparel, branding, packaging design and more.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3><b>Super Designer</b>:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>This tool lets you create Doodle-like patterns using a tile system.</p>
 
 <h7>Date Created: 5/27/2025 10:00p<br>
 Date Last Editted: 5/27/2025 10:41p<br>
