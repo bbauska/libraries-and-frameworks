@@ -1488,6 +1488,20 @@ website backgrounds, apparel, branding, packaging design and more.</p>
 <h2><a href="https://byby.dev/js-search-libraries" target="_blank" rel="noopener noreferrer">
 Top 6 JavaScript SEARCH Libraries</a></h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<table style="width:75%">
+  <caption>Top 6 JavaScript SEARCH Libraries</caption>
+  <tr>
+    <th><b>Name</b></th>
+    <th>Website</th>
+    <th>GitHub</th>
+    <th>Demo</th>
+    <th>Short Desc'n</th>
+  </tr>
+  <tr>
+    <td><b><a href="https://www.fusejs.io/getting-started/installation.html" 
+target="_blank" rel="noopener noreferrer">Fuse.js</a></b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">
+	  Website</a></td>
 <p>JavaScript search libraries are tools that enable you to perform full-text search on 
 data using JavaScript, either on the browser or on the server. They can help you create 
 fast and user-friendly search experiences for your web applications, without relying on 
