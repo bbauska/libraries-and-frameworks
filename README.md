@@ -832,10 +832,10 @@ libraries for Image and 3-D Effects for the Canvas Element: •</h2>
     <th>Desc'n</th>
   </tr>
   <tr>
-    <td>Math.js</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><b>Math.js</b></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Math.js</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Math GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Exaple</td>
     <td>Comprehensive JS library of Math functions &amp; operators</td>
   </tr>
   <tr>
