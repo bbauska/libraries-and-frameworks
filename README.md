@@ -716,8 +716,7 @@ easy it is to pick up.
 -->
     <td><b><a href="https://scrollrevealjs.org/" target="_blank" rel="noopener noreferrer">
       ScrollReveal</a></b></td>
-    <td><a href="https://github.com/topics/scrollreveal?l=javascript&o=desc&s=forks" target="_blank" rel="noopener noreferrer">
-      ScrollReveal GH</a></td>
+    <td><a href="https://github.com/topics/scrollreveal?l=javascript&o=desc&s=forks" target="_blank" rel="noopener noreferrer">ScrollReveal GH</a></td>
     <td><a href="https://codepen.io/whatthephuc/pen/LjPBZa" target="_blank" rel="noopener noreferrer">
       ScrollReveal CodePen</a></td>
     <td><a href="https://anijs.github.io/examples/scrollreveal/" target="_blank" rel="noopener noreferrer">
