@@ -884,56 +884,140 @@ backspace what it's typed, and begin a new sentence for however many strings you
     <td>JS</td>
   </tr>
 </table>
-
-<h5><b>Three.js</b> (99.1k ⭐)</h5>
-<p>— A popular JavaScript library used for creating and displaying 3D 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="6-image-3d-effects-2">• more 3-D Effects #6 JS libraries for Image and 3-D Effects for the 
+canvas element: •</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<table style="width:75%">
+  <caption>Image &amp; 3-D Effects #6 JavaScript Libraries for Image and 3-D Effects for the canvas element</caption>
+  <tr>
+    <th><b>Name</b></th>
+    <th>Website</th>
+    <th>GitHub</th>
+    <th>Example/Demo</th>
+    <th>Short Desc'n</th>
+  </tr>
+  <tr>
+    <td><b>Three.js</b></td>
+	<td><a href="">Website name</a></td>
+	<td><a href="">GH</a></td>
+	<td<<a href="">Example/Demo</a></td>
+	<td>Short Desc'n</td>
+  </tr>
+  <tr>
+    <td><b>Anime.js</b></td>
+	<td><a href="">Website name</a></td>
+	<td><a href="">GH</a></td>
+	<td<<a href="">Example/Demo</a></td>
+	<td>3d computing graphics</td>
+  </tr>
+<!-- (99.1k ⭐)— A popular JavaScript library used for creating and displaying 3D 
 computer graphics on the web. It provides a high-level API that abstracts away the 
 complexities of WebGL, a low-level graphics API, making it easier for developers to 
 work with 3D graphics in the browser.</p>
-
+-->
+<!--
 <h5><b>Anime.js</b> (48.8k ⭐)</h5>
 <p>— A lightweight library with a simple API that can animate HTML, 
 CSS, JS, SVG and DOM attributes. It has a built-in staggering system, callbacks and 
 controls, and various easing and animation effects.</p>
-
+-->
+  <tr>
+    <td><b>Lottie</b></td>
+	<td><a href="">Website name</a></td>
+	<td><a href="">GH</a></td>
+	<td<<a href="">Example/Demo</a></td>
+	<td>Renders Adobe After Effects</td>
+  </tr>
+<!--
 <h5><b>Lottie</b> (29.7k ⭐)</h5>
 <p>— A library that renders Adobe After Effects animations exported 
 as JSON with the Bodymovin plugin. It allows you to use complex animations created 
 by designers without coding them manually.</p>
-
+-->
+  <tr>
+    <td><b>Three.js</b></td>
+	<td><a href="">Website name</a></td>
+	<td><a href="">GH</a></td>
+	<td<<a href="">Example/Demo</a></td>
+	<td>Short Desc'n</td>
+  </tr>
+<!--
 <h5><b>ScrollReveal</b> (22.1k ⭐)</h5>
 <p>— A library for easily animating elements as they enter/leave 
 the viewport. It was designed to be robust and flexible, but hopefully you’ll be 
 surprised below at how easy it is to pick up.</p>
-
+-->
+  <tr>
+    <td><h5><b>Three.js</b></td>
+	<td><a href="">Website name</a></td>
+	<td><a href="">GH</a></td>
+	<td<<a href="">Example/Demo</a></td>
+	<td>Short Desc'n</td>
+  </tr>
+  <tr>
+    <td><h5><b>Popmotion</b></td>
+	<td><a href="">Website name</a></td>
+	<td><a href="">GH</a></td>
+	<td<<a href="">Example/Demo</a></td>
+	<td>Tiny toolbox for keyframe and sprint animations</td>
+  </tr>
+<!--
 <h5><b>Popmotion</b> (19.8k ⭐)</h5>
 <p>— Tiny animator's toolbox supports keyframe and spring animations 
 for numbers, colors and complex strings.</p>
-
+-->
+    <td><h5><b>Mo.js</b></td>
+	<td><a href="">Website name</a></td>
+	<td><a href="">GH</a></td>
+	<td<<a href="">Example/Demo</a></td>
+	<td>Animate from scatch, html, shape, swirl, burst, swagger</td>
+  </tr>
+<!--
 <h5><b>Mo.js</b> (18.3k ⭐)</h5>
 <p>— Motion graphics library provides built-in components to start 
 animating from scratch like html, shape, swirl, burst and stagger, but also bring 
 you tools to help craft your animation in a most natural way.</p>
-
+-->
+  <tr>
+    <td><h5><b>Velocity.js</b></td>
+	<td><a href="">Website name</a></td>
+	<td><a href="">GH</a></td>
+	<td<<a href="">Example/Demo</a></td>
+	<td>Animate colors, transforms, loops, easings, SVGs, more...</td>
+  </tr>
+<!--
 <h5><b>Velocity.js</b> (17.3k ⭐)</h5>
 <p>— A library that combines the best of jQuery and CSS transitions.
 It can animate colors, transforms, loops, easings, SVGs and more. 
 It can work with or without jQuery and has a high performance.</p>
-
+-->
+  <tr>
+    <td><h5><b>GSAP</b></td>
+	<td><a href="">Website name</a></td>
+	<td><a href="">GH</a></td>
+	<td<<a href="">Example/Demo</a></td>
+	<td>Animate CSS,SVG,canvas,React,Vue,more...</td>
+  </tr>
+<!--
 <h5><b>GSAP</b> (18.7k ⭐)</h5>
 <p>— A library for building high-performance animations that work in 
 every major browser. It can animate anything on the web, including CSS, SVG, canvas, 
 React, Vue and more. It has advanced features like motion paths, physics, morphing 
 and more.</p>
-
-<h5><b>ScrollMagic</b> (14.8k ⭐)</h5>
+-->
+  <tr>
+    <td><h5><b>ScrollMagic</b></td>
+	<td><a href="">Website name</a></td>
+	<td><a href="">GH</a></td>
+	<td<<a href="">Example/Demo</a></td>
+	<td>Scroll interactions w/JS</td>
+  </tr>
+<!-- <h5><b>ScrollMagic</b> (14.8k ⭐)</h5>
 <p>— A library for creating scroll interactions with JavaScript 
 and CSS. It can trigger animations based on scroll position and pin elements within 
 the viewport. It has over 11K stars on GitHub.</p>
-<table>
-  <tr>
-    <th></th>
-  </tr>
+-->
   <tr>
     <td><b>Typed.js</b></td>
     <td><a href="https://mattboldt.com/demos/typed-js/" target="_blank" rel="noopener noreferrer">Website</a></td>
@@ -942,7 +1026,9 @@ the viewport. It has over 11K stars on GitHub.</p>
     <td>Library that types</td>
   </tr>
 </table>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="svg">Top 10 SVG Pattern Generators</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>An SVG pattern generator is a tool that creates unique and customizable patterns using 
 Scalable Vector Graphics (SVG). The generator allows you to adjust parameters such as 
 color, size, shape, and pattern density to create a pattern that fits specific needs.</p>
