@@ -566,20 +566,6 @@ application, while Vuex provides a state management pattern for managing applica
       functionality, fullscreen support, and on-demand content loading and can be 
       extended to display additional content types.</td>
   </tr>
-</table>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <h2 id="4-games">• Games #4 JavaScript libraries for Games: •</h2> -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Name:</h3>
-<table style="width:75%">
-  <caption>Games #4 JS Libraries for Games</caption>
-  <tr>
-    <th><b>Name</b></th>
-    <th>Website</th>
-    <th>GitHub</th>
-    <th>Demo/Example</th>
-    <th>Desc'n</th>
-  </tr>
   <tr>
     <td><b>Phaser</b></td>
     <td><a href="https://phaser.io/">phaser.io</a></td>
@@ -590,8 +576,8 @@ application, while Vuex provides a state management pattern for managing applica
   <tr>
     <td><b>Three.js</b></td>
     <td><a href="https://threejs.org/">threejs.org</a></td>
+	<td><a href="">GH</td>
     <td>"A-Frame" &amp; "Google Chrome Experiments"</td>
-	<td><a href="">Demo/Example</a></td>
     <td>Eases working with WebGL</td>
   </tr>
   <tr>
@@ -610,29 +596,27 @@ application, while Vuex provides a state management pattern for managing applica
   </tr>
   <tr>
     <td><b>PIXI.js</b></td>
-<!--
-    <td>PIXI.js is a 2D render engine that allows you to create smooth and visually appealing applications. It renders very well by using hardware acceleration, resulting in very good performance for lots of game development features, such as texture mapping, particle effects, and sprite animations. For these reasons, the power of PIXI.js features is combined especially well with the realization of 2D games and interactive UI components. While it focuses only on rendering, it can be paired with other libraries for additional functionality.</td>
--->
+    <td></td>
+	<td></td>
+	<td></td>
+	<td></td>
   </tr>
   <tr>
     <td><b>Coco2d-JS</b></td>
-    <td></td>
-    <td>Scene Management: Advanced tools of scene management. It supports skeletal animation, too. Physics: integrated physics engine.</td>
-    <td>Versatile: It works for both 2D and 3D game development. Performance: Designed to perform mightily. Community: It is very active, with a helpful community and.</td>
-    <td>Lack a few advanced features possibly for advanced projects. Learning and mastering it take time.</td>
-    <td>"Clash of Kings": A popular mobile strategy game that uses Cocos2d-JS for its development, especially for 2D graphics. "Badland": A visually stunning action-adventure game that leverages the features of Cocos2d for its animation and gameplay.</td>
-    <td>Cocos2d-JS is one of the frameworks for cross-platform game development in the Cocos2d family, supporting 2D and 3D game development, just as some of its features involve scene management, skeletal animations, and a physics engine. Especially, Cocos2d-JS has an excellent reputation for performance and ease of use, so it is generally preferred by mobile game developers. However, for really complex projects, it might not contain some functionalities other frameworks have.</td>
+    <td><b>PIXI.js</b></td>
+    <td>GH</td>
+    <td>"Clash of Kings" &amp; "Badland"</td>
+    <td>Cocos2d-JS</td>
   </tr>
   <tr>
     <td><b>MelonJS</b></td>
+	<td></td>
+	<td></td>
+    <td>"Grape Escape" &amp; "Box2D"</td>
     <td></td>
-    <td>Collision Detection: Internal collision detection system. Sprite Management: Sprites and Animation Management Tools. Plugin: Wide range of plugin systems to get more features.</td>
-    <td>Intuitive and excellent for basic-level users. Performance: lightweight and efficient. Flexibility: Highly customizable using plugins.</td>
-    <td>Advanced Features: Limited advanced features pre-packaged with the software. Scalability: Not suitable for large, complex projects.</td>
-    <td>"Grape Escape": A platformer game developed using MelonJS, showcasing its capabilities for creating 2D games. "Box2D": A physics-based game that utilizes MelonJS for its collision detection and sprite management features.</td>
-    <td>HTML5 is something that the MelonJS game engine is, oriented to be simple and easy to use. It offers such features of 2D game development as collision detection, sprite management, and a powerful plugin system. Lightweight and lean, MelonJS allows effective development with web-based games. It is not very strong in features for developers in need of out-of-the-box functionality.</td>
   </tr>
 </table>
+
 <p><a href="https://www.geeksforgeeks.org/8-best-javascript-game-engines/" 
 target="_blank" rel="noopener noreferrer">8 Best JS Game Engines</a>.</p>
 <p><a href="https://www.geeksforgeeks.org/ways-to-make-an-api-call-in-javascript/" 
