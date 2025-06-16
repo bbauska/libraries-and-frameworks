@@ -1287,93 +1287,114 @@ website backgrounds, apparel, branding, packaging design and more.</p>
   </tr>
   <tr>
     <td><b>Swiper</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
-    <td>Mobile touch slider</td>
-  </tr>
-  <tr>
-    <td><b>Swiper</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td><a href="https://swiperjs.com/" target="_blank" rel="noopener noreferrer">
+	  SwiperJS Website</a></td>
+    <td><a href="https://github.com/nolimits4web/swiper" target="_blank" rel="noopener noreferrer">
+	  SwiperJS GH</a></td>
+    <td><a href="https://swiperjs.com/demos" target="_blank" rel="noopener noreferrer">
+	  Demo/Example</a></td>
     <td>Mobile touch slider</td>
   </tr>
   <tr>
     <td><b>PhotoSwipe</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td><a href="https://photoswipe.com/" target="_blank" rel="noopener noreferrer">
+	  PhotoSwipe Website</a></td>
+    <td><a href="https://github.com/dimsemenov/PhotoSwipe" target="_blank" rel="noopener noreferrer">
+	  PhotoSwipe GH</a></td>
+    <td><a href="https://github.com/min30327/photoswipe-simplify" target="_blank" rel="noopener noreferrer">
+	  Demo/Example</a></td>
     <td>JS image gallery for mobile &amp; desktop</td>
   </tr>
   <tr>
     <td><b>hammer.js</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td><a href="https://hammerjs.github.io/" target="_blank" rel="noopener noreferrer">
+	  Hammer.js Website</a></td>
+    <td><a href="https://github.com/hammerjs/hammer.js/" target="_blank" rel="noopener noreferrer">
+	  Hammer GH</a></td>
+    <td><a href="https://hammerjs.github.io/tips/" target="_blank" rel="noopener noreferrer">
+	  Demo/Example</a></td>
     <td>JS library for multi-touch gestures</td>
   </tr>
   <tr>
     <td><b>fancyBox</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td><a href="http://fancybox.net/" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
+    <td><a href="https://github.com/fancyapps/fancybox" target="_blank" rel="noopener noreferrer">fancyBox GH</a></td>
+    <td><a href="https://fancyapps.com/fancybox/getting-started/" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
     <td><b>Discontinued</b>. jQuery lightbox scripts</td>
   </tr>
   <tr>
     <td><b>Slideout</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td><a href="https://slideout.js.org/" target="_blank" rel="noopener noreferrer">Slideout Website</a></td>
+    <td><a href="https://github.com/Mango/slideout" target="_blank" rel="noopener noreferrer">Slideout GH</a></td>
+    <td><a href="https://dev.to/chrismademe/create-a-simple-slideout-menu-using-vanilla-js-2g14" 
+	  target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
     <td>Touch slideout nav menu for mobile web apps</td>
   </tr>
   <tr>
     <td><b>Glide.js</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td><a href="https://glidejs.com/" target="_blank" rel="noopener noreferrer">
+	  Glide.js Website</a></td>
+    <td><a href="https://github.com/glidejs/glide" target="_blank" rel="noopener noreferrer">
+	  Glide.js GH</a></td>
+    <td><a href="https://codesandbox.io/examples/package/@glidejs/glide" target="_blank" rel="noopener noreferrer">
+	  Demo/Example</a></td>
     <td>Dependency-free JS slider &amp; carousel</td>
   </tr>
   <tr>
     <td><b>Flickity</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td><a href="https://flickity.metafizzy.co/" target="_blank" rel="noopener noreferrer">
+	  Flickity Website</a></td>
+    <td><a href="https://github.com/metafizzy/flickity" target="_blank" rel="noopener noreferrer">
+	  Flickity GH</a></td>
+    <td><a href="https://codesandbox.io/examples/package/flickity" target="_blank" rel="noopener noreferrer">
+	  Demo/Example</a></td>
     <td>Touch, responsive, flickable carousels</td>
   </tr>
   <tr>
     <td><b>bxSlider 4.2.14</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td><a href="https://bxslider.com/" target="_blank" rel="noopener noreferrer">
+	  bxSlider Website</a></td>
+    <td><a href="https://github.com/stevenwanderski/bxslider-4" target="_blank" rel="noopener noreferrer">
+	  bxSlider GH</a></td>
+    <td><a href="https://bxslider.com/examples" target="_blank" rel="noopener noreferrer">
+	  Demo/Example</a></td>
     <td>Responsive jQuery content slider</td>
   </tr>
   <tr>
     <td><b>Embla Carousel</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td><a href="https://www.embla-carousel.com/" target="_blank" rel="noopener noreferrer">
+	  Embla Carousel Website</a></td>
+    <td><a href="https://github.com/davidjerleke/embla-carousel" target="_blank" rel="noopener noreferrer">
+	  Embla Carousel GH</a></td>
+    <td><a href="https://www.embla-carousel.com/examples/" target="_blank" rel="noopener noreferrer">
+	  Demo/Example</a></td>
     <td>Lightweight carousel library w/fluid motion</td>
   </tr>
   <tr>
     <td><b>lightgallery.js</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">lightgallery Website</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
     <td>Full featured JS image &amp; video gallery</td>
   </tr>
   <tr>
     <td><b>Splide</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td><a href="https://splidejs.com/" target="_blank" rel="noopener noreferrer">
+	  Splide Website</a></td>
+    <td><a href="https://github.com/Splidejs/splide" target="_blank" rel="noopener noreferrer">
+	  Splide GH</a></td>
+    <td><a href="https://splidejs.com/tutorials/" target="_blank" rel="noopener noreferrer">
+	  Demo/Example</a></td>
     <td>Full featured JS image &amp; video gallery</td>
   </tr>
   <tr>
-    <td><b>lightgallery.js</b></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td><b><a href="https://www.youtube.com/watch?v=jm0K2UELFsk&ab_channel=CodingShiksha" target="_blank" rel="noopener noreferrer">
+	  lightgallery.js</a></b></td>
+    <td><a href="https://www.lightgalleryjs.com/" target="_blank" rel="noopener noreferrer">
+	  lightGallery Website</a></td>
+    <td><a href="https://github.com/sachinchoolur/lightGallery" target="_blank" rel="noopener noreferrer">
+	  lightGallery GH</a></td>
+    <td><a href="https://cdnjs.com/libraries/lightgallery" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
     <td>Full featured JS image &amp; video gallery</td>
   </tr>
 </table>
