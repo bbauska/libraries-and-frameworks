@@ -1473,50 +1473,50 @@ target="_blank" rel="noopener noreferrer">4 Ways to make an API call in JavaScri
 Scalable Vector Graphics (SVG). The generator allows you to adjust parameters such as 
 color, size, shape, and pattern density to create a pattern that fits specific needs.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>Hero Patterns</b>:</h3>
+<h3><a href="https://heropatterns.com/" target="_blank" rel="noopener noreferrer">Hero Patterns</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A collection of repeatable SVG background patterns for you to use on your web projects.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>Softr</b>:</h3>
+<h3><a href="https://www.softr.io/" target="_blank" rel="noopener noreferrer">Softr</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A free tool made by Softr for creating random organic-looking shapes that can be used 
 to add a nice touch to your landing page design, video thumbnail, social media banner, 
 or any other visual.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>BGJar</b>:</h3>
+<h3><a href="https://bgjar.com/" target="_blank" rel="noopener noreferrer">BGJar</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Free svg background generator for your websites, blogs and app.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>fffuel</b>:</h3>
+<h3><a href="https://www.fffuel.co/" target="_blank" rel="noopener noreferrer">fffuel</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A collection of color tools and free SVG generators for gradients, patterns, textures, 
 shapes & backgrounds.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>SVG Doodles!</b>:</h3>
+<h3><a href="https://svgdoodles.com/" target="_blank" rel="noopener noreferrer">SVG Doodles!</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A free collection of 50 different editable SVG’s to spice up your online and offline designs.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>PatternPad</b>:</h3>
+<h3><a href="https://patternpad.com/" target="_blank" rel="noopener noreferrer">PatternPad</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>It generates graphical patterns based on a variety of parameters. This results in an 
 endless number of variations. You can choose from popular styles or create your own 
 individual pattern.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>SVGeez</b>:</h3>
+<h3><a href="https://www.svgeez.com/" target="_blank" rel="noopener noreferrer">SVGeez</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Totally awesome, well-stretched CSS svg background patterns, free for download.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>VISIWIG</b>:</h3>
+<h3><a href="https://www.visiwig.com/patterns/" target="_blank" rel="noopener noreferrer">VISIWIG</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>This tool allows users to customize seamless patterns, change the size, rotation, 
 color, and stroke width of the patterns.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>Pattern Monster</b>:</h3>
+<h3><a href="https://pattern.monster/" target="_blank" rel="noopener noreferrer">SVG Pattern Monster</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A simple online pattern generator to create repeatable SVG patterns. Perfect for 
 website backgrounds, apparel, branding, packaging design and more.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><b>Super Designer</b>:</h3>
+<h3><a href="https://superdesigner.co/tools/patterns target="_blank" rel="noopener noreferrer">Super Designer</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>This tool lets you create Doodle-like patterns using a tile system.</p>
 
