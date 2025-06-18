@@ -211,9 +211,9 @@ user-centric forms, offering an unparalleled development experience.</p>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b><a href="https://formbuilder.online/" target="_blank" rel="noopener noreferrer">
-	  Formbuilder</a></b></td>
+      Formbuilder</a></b></td>
     <td><a href="https://help.form.io/developers/form-development/form-builder" 
-	  target="_blank" rel="noopener noreferrer">
+      target="_blank" rel="noopener noreferrer">
       Formbuilder</a></td>
     <td><a href="https://github.com/dobtco/formbuilder" target="_blank" rel="noopener noreferrer">
       Formbuilder GH</a></td>
@@ -292,80 +292,80 @@ user-centric forms, offering an unparalleled development experience.</p>
   </tr>
   <tr>
     <td><b><a href="https://fabricjs.com/" 
-	  target="_blank" rel="noopener noreferrer">Fabric.js</a></b></td>
-	<td><a href="">website</a></td>
-	<td><a href="">github website</a></td>
-	<td><a href="">Demo</a></td>
-	<td><a href="">Image manipulation</a></td>
+      target="_blank" rel="noopener noreferrer">Fabric.js</a></b></td>
+    <td><a href="">website</a></td>
+    <td><a href="">github website</a></td>
+    <td><a href="">Demo</a></td>
+    <td><a href="">Image manipulation</a></td>
   </tr>
   <tr>
     <td><b><a href="https://cdnjs.com/libraries/camanjs" 
       target="_blank" rel="noopener noreferrer">CamanJS</a><b></td>
-	<td><a href="">website</a></td>
-	<td><a href="https://github.com/meltingice/CamanJS" 
+    <td><a href="">website</a></td>
+    <td><a href="https://github.com/meltingice/CamanJS" 
       target="_blank" rel="noopener noreferrer">GitHub</a></td>
-	<td><a href="https://www.sitepoint.com/manipulating-images-web-pages-camanjs/" 
+    <td><a href="https://www.sitepoint.com/manipulating-images-web-pages-camanjs/" 
       target="_blank" rel="noopener noreferrer">Demo</a></td>
-	<td><a href=""></a></td>
+    <td><a href=""></a></td>
   </tr>
   <tr>
     <td><b><a href="https://pixijs.com/" 
       target="_blank" rel="noopener noreferrer"</a><b>PixiJS</td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">website</a></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">GH</a></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">Demo</a></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">Image manipulation and effects</a></td>
   </tr>
   <tr>
     <td><b><a href="https://threejs.org/" 
       target="_blank" rel="noopener noreferrer">three.js</a></b></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">website</a></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">GH</a></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">Demo</a></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">3D scenes, animations, and effects</a></td>
   </tr>
   <tr>
     <td><b><a href="https://www.babylonjs.com/" 
       target="_blank" rel="noopener noreferrer">Babylon.js</a></b></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">website</a></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">GH</a></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">Demo</a></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">3d engine like three.js</a></td>
   </tr>
   <tr>
     <td><b><a href="https://zzz.dog/" 
       target="_blank" rel="noopener noreferrer">Zdog</a></b></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">website</a></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">GH</a></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">Demo</a></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">lightweight library of pseudo-3d designs</a></td>
   </tr>
   <tr>
     <td><b><a href="https://aframe.io/docs/1.7.0/introduction/" 
       target="_blank" rel="noopener noreferrer">A-Frame</a></b></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">website</a></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">GH</a></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">Demo</a></td>
-	<td><a href="" 
+    <td><a href="" 
       target="_blank" rel="noopener noreferrer">WebVR Experience maker</a></td>
   </tr>
 </table>
@@ -427,29 +427,29 @@ user-centric forms, offering an unparalleled development experience.</p>
       blueimp Gallery</a></td>
     <td><a href="https://blueimp.github.io/Gallery/"  target="_blank" rel="noopener noreferrer">
       blueimp Gallery GH</a></td>
-	<td>blueimp Example/Demo</td>
+    <td>blueimp Example/Demo</td>
     <td>Touch-enabled, responsive and customizable image &amp; video gallery</td>
   </tr>
   <tr>
     <td><b>Phaser</b></td>
     <td><a href="https://phaser.io/">phaser.io</a></td>
     <td><a href="">GH</a></td>
-	<td>"Candy Crush Saga" &amp; Phaser</td>
-	<td>Desc'n</td>
+    <td>"Candy Crush Saga" &amp; Phaser</td>
+    <td>Desc'n</td>
   </tr>
   <tr>
     <td><b>Three.js</b></td>
     <td><a href="https://threejs.org/">threejs.org</a></td>
-	<td><a href="">GH</td>
+    <td><a href="">GH</td>
     <td>"A-Frame" &amp; "Google Chrome Experiments"</td>
     <td>Eases working with WebGL</td>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="4-games">• Games #4 Games: •</h2>
+<h2 id="4-games">• Games #4 JavaScript libraries for Games: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <table style="width:75%">
-  <caption>Games #4 Games</caption>
+  <caption>Games #4 JavaScript Libraries for Games</caption>
   <tr>
     <th><b>Name</b></th>
     <th>Website</th>
@@ -460,23 +460,23 @@ user-centric forms, offering an unparalleled development experience.</p>
   <tr>
     <td><b>Balyon.js</b></td>
     <td><a href="https://www.babylonjs.com/">babylonjs.com</a></td>
-	<td><a href="">GH</a></td>
-	<td>"Gangs of Space" &amp; "The Legend of Zelda: Ocarina of Time"</td>
-	<td>Another powerful 3-D engine</td>
+    <td><a href="">GH</a></td>
+    <td>"Gangs of Space" &amp; "The Legend of Zelda: Ocarina of Time"</td>
+    <td>Another powerful 3-D engine</td>
   </tr>
   <tr>
     <td><b>PlayCanvas</b></td>
-	<td>PlayCanvas</td>
-	<td>GH</td>
+    <td>PlayCanvas</td>
+    <td>GH</td>
     <td>"Lumberjack" &amp; "Gundam Battle"</td>
-	<td></td>
+    <td>Desc'n</td>
   </tr>
   <tr>
     <td><b>PIXI.js</b></td>
     <td>Pixi.js</td>
-	<td>GH</td>
-	<td></td>
-	<td></td>
+    <td>GH</td>
+    <td>Demo</td>
+    <td>Desc'n</td>
   </tr>
   <tr>
     <td><b>Coco2d-JS</b></td>
@@ -487,10 +487,10 @@ user-centric forms, offering an unparalleled development experience.</p>
   </tr>
   <tr>
     <td><b>MelonJS</b></td>
-	<td>MelonJS</td>
-	<td>GH</td>
+    <td>MelonJS</td>
+    <td>GH</td>
     <td>"Grape Escape" &amp; "Box2D"</td>
-    <td></td>
+    <td>Desc'n</td>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -504,34 +504,6 @@ user-centric forms, offering an unparalleled development experience.</p>
     <th>GitHub</th>
     <th>Demo/Example</th>
     <th>Desc'n</th>
-  </tr>
-  <tr>
-    <td><b>1st Info Graphics</b></td>
-    <td>Website</td>
-    <td>GitHub</td>
-    <td>Demo/Example</td>
-    <td>Desc'n</td>
-  </tr>
-  <tr>
-    <td><b>2nd Info Graphics</b></td>
-    <td>Website</td>
-    <td>GitHub</td>
-    <td>Demo</td>
-    <td>Desc'n</td>
-  </tr>
-  <tr>
-    <td><b>3rd Info Graphics</b></td>
-    <td>Website</td>
-    <td>GitHub</td>
-    <td>Demo</td>
-    <td>Desc'n</td>
-  </tr>
-  <tr>
-    <th><b>Name</b></th>
-    <th>Website</th>
-    <th>GitHub</th>
-    <th>Demo</th>
-    <th>Type</th>
   </tr>
   <tr>
 <!-- Three.js 
@@ -684,10 +656,10 @@ backspace what it's typed, and begin a new sentence for however many strings you
   </tr>
   <tr>
     <td><b>Three.js</b></td>
-	<td><a href="">Website name</a></td>
-	<td><a href="">GH</a></td>
-	<td><a href="">Example/Demo</a></td>
-	<td>Short Desc'n</td>
+    <td><a href="">Website name</a></td>
+    <td><a href="">GH</a></td>
+    <td><a href="">Example/Demo</a></td>
+    <td>Short Desc'n</td>
   </tr>
 <!-- Three.js (99.1k ⭐)— A popular JavaScript library used for creating and displaying 3D 
 computer graphics on the web. It provides a high-level API that abstracts away the 
@@ -696,10 +668,10 @@ work with 3D graphics in the browser.</p>
 -->
   <tr>
     <td><b>Anime.js</b></td>
-	<td><a href="">Website name</a></td>
-	<td><a href="">GH</a></td>
-	<td><a href="">Example/Demo</a></td>
-	<td>3d computing graphics</td>
+    <td><a href="">Website name</a></td>
+    <td><a href="">GH</a></td>
+    <td><a href="">Example/Demo</a></td>
+    <td>3d computing graphics</td>
   </tr>
 <!-- Anime.js (48.8k ⭐) — A lightweight library with a simple API that can animate HTML, 
 CSS, JS, SVG and DOM attributes. It has a built-in staggering system, callbacks and 
@@ -707,10 +679,10 @@ controls, and various easing and animation effects.
 -->
   <tr>
     <td><b>Lottie</b></td>
-	<td><a href="">Website name</a></td>
-	<td><a href="">GH</a></td>
-	<td><a href="">Example/Demo</a></td>
-	<td>Renders Adobe After Effects</td>
+    <td><a href="">Website name</a></td>
+    <td><a href="">GH</a></td>
+    <td><a href="">Example/Demo</a></td>
+    <td>Renders Adobe After Effects</td>
   </tr>
 <!-- Lottie (29.7k ⭐) — A library that renders Adobe After Effects animations exported 
 as JSON with the Bodymovin plugin. It allows you to use complex animations created 
@@ -718,10 +690,10 @@ by designers without coding them manually.
 -->
   <tr>
     <td><b>Three.js</b></td>
-	<td><a href="">Website name</a></td>
-	<td><a href="">GH</a></td>
-	<td><a href="">Example/Demo</a></td>
-	<td>Short Desc'n</td>
+    <td><a href="">Website name</a></td>
+    <td><a href="">GH</a></td>
+    <td><a href="">Example/Demo</a></td>
+    <td>Short Desc'n</td>
   </tr>
 <!-- ScrollReveal (22.1k ⭐) — A library for easily animating elements as they enter/leave 
 the viewport. It was designed to be robust and flexible, but hopefully you’ll be 
@@ -729,26 +701,26 @@ surprised below at how easy it is to pick up.
 -->
   <tr>
     <td><b><b>Three.js</b></td>
-	<td><a href="">Website name</a></td>
-	<td><a href="">GH</a></td>
-	<td><a href="">Example/Demo</a></td>
-	<td>Short Desc'n</td>
+    <td><a href="">Website name</a></td>
+    <td><a href="">GH</a></td>
+    <td><a href="">Example/Demo</a></td>
+    <td>Short Desc'n</td>
   </tr>
   <tr>
     <td><b><b>Popmotion</b></td>
-	<td><a href="">Website name</a></td>
-	<td><a href="">GH</a></td>
-	<td><a href="">Example/Demo</a></td>
-	<td>Tiny toolbox for keyframe and sprint animations</td>
+    <td><a href="">Website name</a></td>
+    <td><a href="">GH</a></td>
+    <td><a href="">Example/Demo</a></td>
+    <td>Tiny toolbox for keyframe and sprint animations</td>
   </tr>
 <!-- Popmotion (19.8k ⭐) — Tiny animator's toolbox supports keyframe and spring animations 
 for numbers, colors and complex strings.
 -->
     <td><b><b>Mo.js</b></td>
-	<td><a href="">Website name</a></td>
-	<td><a href="">GH</a></td>
-	<td><a href="">Example/Demo</a></td>
-	<td>Animate from scatch, html, shape, swirl, burst, swagger</td>
+    <td><a href="">Website name</a></td>
+    <td><a href="">GH</a></td>
+    <td><a href="">Example/Demo</a></td>
+    <td>Animate from scatch, html, shape, swirl, burst, swagger</td>
   </tr>
 <!-- Mo.js (18.3k ⭐)— Motion graphics library provides built-in components to start 
 animating from scratch like html, shape, swirl, burst and stagger, but also bring 
@@ -756,10 +728,10 @@ you tools to help craft your animation in a most natural way.
 -->
   <tr>
     <td><b><b>Velocity.js</b></td>
-	<td><a href="">Website name</a></td>
-	<td><a href="">GH</a></td>
-	<td><a href="">Example/Demo</a></td>
-	<td>Animate colors, transforms, loops, easings, SVGs, more...</td>
+    <td><a href="">Website name</a></td>
+    <td><a href="">GH</a></td>
+    <td><a href="">Example/Demo</a></td>
+    <td>Animate colors, transforms, loops, easings, SVGs, more...</td>
   </tr>
 <!-- Velocity.js</b> (17.3k ⭐) — A library that combines the best of jQuery and CSS transitions.
 It can animate colors, transforms, loops, easings, SVGs and more. 
@@ -767,10 +739,10 @@ It can work with or without jQuery and has a high performance.
 -->
   <tr>
     <td><b><b>GSAP</b></td>
-	<td><a href="">Website name</a></td>
-	<td><a href="">GH</a></td>
-	<td><a href="">Example/Demo</a></td>
-	<td>Animate CSS,SVG,canvas,React,Vue,more...</td>
+    <td><a href="">Website name</a></td>
+    <td><a href="">GH</a></td>
+    <td><a href="">Example/Demo</a></td>
+    <td>Animate CSS,SVG,canvas,React,Vue,more...</td>
   </tr>
 <!-- GSAP (18.7k ⭐) — A library for building high-performance animations that work in 
 every major browser. It can animate anything on the web, including CSS, SVG, canvas, 
@@ -779,10 +751,10 @@ and more.
 -->
   <tr>
     <td><b><b>ScrollMagic</b></td>
-	<td><a href="">Website name</a></td>
-	<td><a href="">GH</a></td>
-	<td><a href="">Example/Demo</a></td>
-	<td>Scroll interactions w/JS</td>
+    <td><a href="">Website name</a></td>
+    <td><a href="">GH</a></td>
+    <td><a href="">Example/Demo</a></td>
+    <td>Scroll interactions w/JS</td>
   </tr>
 <!-- ScrollMagic (14.8k ⭐) — A library for creating scroll interactions with JavaScript 
 and CSS. It can trigger animations based on scroll position and pin elements within 
@@ -815,7 +787,7 @@ libraries for Image and 3-D Effects for the Canvas Element: •</h2>
     <td>Website for 1st Info Graphics</td>
     <td>GH for 1st Info Graphics</td>
     <td>Demo/Example for 1st Info Graphics</td>
-	<td>Desc'n</td>
+    <td>Desc'n</td>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -848,7 +820,7 @@ libraries for Image and 3-D Effects for the Canvas Element: •</h2>
   </tr>
   <tr>
     <td><b>D3.js</b></td>
-    <td><a href="" 
+    <td><a href="https://www.monterail.com/blog/javascript-libraries-data-visualization#first" 
       target="_blank" rel="noopener noreferrer">Website</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
@@ -856,7 +828,7 @@ libraries for Image and 3-D Effects for the Canvas Element: •</h2>
   </tr>
   <tr>
     <td><b>Chart.js</b></td>
-    <td><a href="" 
+    <td><a href="https://www.monterail.com/blog/javascript-libraries-data-visualization#ten" 
       target="_blank" rel="noopener noreferrer">Website</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
@@ -1037,7 +1009,7 @@ libraries for Image and 3-D Effects for the Canvas Element: •</h2>
   </tr>
   <tr>
     <td><b>Chart.js</b></td>
-    <td><a href="" 
+    <td><a href="https://www.monterail.com/blog/javascript-libraries-data-visualization#ten" 
       target="_blank" rel="noopener noreferrer">Website</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
@@ -1131,31 +1103,31 @@ libraries for Image and 3-D Effects for the Canvas Element: •</h2>
   <tr>
     <td><b>Swiper</b></td>
     <td><a href="https://swiperjs.com/" target="_blank" rel="noopener noreferrer">
-	  SwiperJS Website</a></td>
+      SwiperJS Website</a></td>
     <td><a href="https://github.com/nolimits4web/swiper" target="_blank" rel="noopener noreferrer">
-	  SwiperJS GH</a></td>
+      SwiperJS GH</a></td>
     <td><a href="https://swiperjs.com/demos" target="_blank" rel="noopener noreferrer">
-	  Demo/Example</a></td>
+      Demo/Example</a></td>
     <td>Mobile touch slider</td>
   </tr>
   <tr>
     <td><b>PhotoSwipe</b></td>
     <td><a href="https://photoswipe.com/" target="_blank" rel="noopener noreferrer">
-	  PhotoSwipe Website</a></td>
+      PhotoSwipe Website</a></td>
     <td><a href="https://github.com/dimsemenov/PhotoSwipe" target="_blank" rel="noopener noreferrer">
-	  PhotoSwipe GH</a></td>
+      PhotoSwipe GH</a></td>
     <td><a href="https://github.com/min30327/photoswipe-simplify" target="_blank" rel="noopener noreferrer">
-	  Demo/Example</a></td>
+      Demo/Example</a></td>
     <td>JS image gallery for mobile &amp; desktop</td>
   </tr>
   <tr>
     <td><b>hammer.js</b></td>
     <td><a href="https://hammerjs.github.io/" target="_blank" rel="noopener noreferrer">
-	  Hammer.js Website</a></td>
+      Hammer.js Website</a></td>
     <td><a href="https://github.com/hammerjs/hammer.js/" target="_blank" rel="noopener noreferrer">
-	  Hammer GH</a></td>
+      Hammer GH</a></td>
     <td><a href="https://hammerjs.github.io/tips/" target="_blank" rel="noopener noreferrer">
-	  Demo/Example</a></td>
+      Demo/Example</a></td>
     <td>JS library for multi-touch gestures</td>
   </tr>
   <tr>
@@ -1170,47 +1142,47 @@ libraries for Image and 3-D Effects for the Canvas Element: •</h2>
     <td><a href="https://slideout.js.org/" target="_blank" rel="noopener noreferrer">Slideout Website</a></td>
     <td><a href="https://github.com/Mango/slideout" target="_blank" rel="noopener noreferrer">Slideout GH</a></td>
     <td><a href="https://dev.to/chrismademe/create-a-simple-slideout-menu-using-vanilla-js-2g14" 
-	  target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+      target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
     <td>Touch slideout nav menu for mobile web apps</td>
   </tr>
   <tr>
     <td><b>Glide.js</b></td>
     <td><a href="https://glidejs.com/" target="_blank" rel="noopener noreferrer">
-	  Glide.js Website</a></td>
+      Glide.js Website</a></td>
     <td><a href="https://github.com/glidejs/glide" target="_blank" rel="noopener noreferrer">
-	  Glide.js GH</a></td>
+      Glide.js GH</a></td>
     <td><a href="https://codesandbox.io/examples/package/@glidejs/glide" target="_blank" rel="noopener noreferrer">
-	  Demo/Example</a></td>
+      Demo/Example</a></td>
     <td>Dependency-free JS slider &amp; carousel</td>
   </tr>
   <tr>
     <td><b>Flickity</b></td>
     <td><a href="https://flickity.metafizzy.co/" target="_blank" rel="noopener noreferrer">
-	  Flickity Website</a></td>
+      Flickity Website</a></td>
     <td><a href="https://github.com/metafizzy/flickity" target="_blank" rel="noopener noreferrer">
-	  Flickity GH</a></td>
+      Flickity GH</a></td>
     <td><a href="https://codesandbox.io/examples/package/flickity" target="_blank" rel="noopener noreferrer">
-	  Demo/Example</a></td>
+      Demo/Example</a></td>
     <td>Touch, responsive, flickable carousels</td>
   </tr>
   <tr>
     <td><b>bxSlider 4.2.14</b></td>
     <td><a href="https://bxslider.com/" target="_blank" rel="noopener noreferrer">
-	  bxSlider Website</a></td>
+      bxSlider Website</a></td>
     <td><a href="https://github.com/stevenwanderski/bxslider-4" target="_blank" rel="noopener noreferrer">
-	  bxSlider GH</a></td>
+      bxSlider GH</a></td>
     <td><a href="https://bxslider.com/examples" target="_blank" rel="noopener noreferrer">
-	  Demo/Example</a></td>
+      Demo/Example</a></td>
     <td>Responsive jQuery content slider</td>
   </tr>
   <tr>
     <td><b>Embla Carousel</b></td>
     <td><a href="https://www.embla-carousel.com/" target="_blank" rel="noopener noreferrer">
-	  Embla Carousel Website</a></td>
+      Embla Carousel Website</a></td>
     <td><a href="https://github.com/davidjerleke/embla-carousel" target="_blank" rel="noopener noreferrer">
-	  Embla Carousel GH</a></td>
+      Embla Carousel GH</a></td>
     <td><a href="https://www.embla-carousel.com/examples/" target="_blank" rel="noopener noreferrer">
-	  Demo/Example</a></td>
+      Demo/Example</a></td>
     <td>Lightweight carousel library w/fluid motion</td>
   </tr>
   <tr>
@@ -1223,20 +1195,20 @@ libraries for Image and 3-D Effects for the Canvas Element: •</h2>
   <tr>
     <td><b>Splide</b></td>
     <td><a href="https://splidejs.com/" target="_blank" rel="noopener noreferrer">
-	  Splide Website</a></td>
+      Splide Website</a></td>
     <td><a href="https://github.com/Splidejs/splide" target="_blank" rel="noopener noreferrer">
-	  Splide GH</a></td>
+      Splide GH</a></td>
     <td><a href="https://splidejs.com/tutorials/" target="_blank" rel="noopener noreferrer">
-	  Demo/Example</a></td>
+      Demo/Example</a></td>
     <td>Full featured JS image &amp; video gallery</td>
   </tr>
   <tr>
     <td><b><a href="https://www.youtube.com/watch?v=jm0K2UELFsk&ab_channel=CodingShiksha" target="_blank" rel="noopener noreferrer">
-	  lightgallery.js</a></b></td>
+      lightgallery.js</a></b></td>
     <td><a href="https://www.lightgalleryjs.com/" target="_blank" rel="noopener noreferrer">
-	  lightGallery Website</a></td>
+      lightGallery Website</a></td>
     <td><a href="https://github.com/sachinchoolur/lightGallery" target="_blank" rel="noopener noreferrer">
-	  lightGallery GH</a></td>
+      lightGallery GH</a></td>
     <td><a href="https://cdnjs.com/libraries/lightgallery" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
     <td>Full featured JS image &amp; video gallery</td>
   </tr>
@@ -1256,10 +1228,10 @@ Top 6 JavaScript SEARCH Libraries</a></h2>
   </tr>
   <tr>
     <td><b><a href="https://www.fusejs.io/getting-started/installation.html" 
-	  target="_blank" rel="noopener noreferrer">
-	  1. Fuse.js</a></b></td>
+      target="_blank" rel="noopener noreferrer">
+      1. Fuse.js</a></b></td>
     <td><a href="https://www.fusejs.io" target="_blank" rel="noopener noreferrer">
-	  Fuse.js Website</a></td>
+      Fuse.js Website</a></td>
 <!--
 <p>JavaScript search libraries are tools that enable you to perform full-text search on 
 data using JavaScript, either on the browser or on the server. They can help you create 
@@ -1276,100 +1248,100 @@ objects, with different options for weighting, nesting, and extended search synt
       Fuse.js Examples</a></td>
     <td><a href="https://medium.com/@gurunadhpukkalla/introduction-to-fuse-js-62bc856a2914" target="_blank"
       rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">
-	  Fuse.js Introduction</a></td>
+      Fuse.js Introduction</a></td>
   </tr>
   <tr>
     <td><b><a href="https://listjs.com/" target="_blank" rel="noopener noreferrer">
-	  2. List.js</a></b></td>
-	<td><a href="https://listjs.com/docs/ target="_blank" rel="noopener noreferrer">
-	  listjs.com</a></td>
+      2. List.js</a></b></td>
+    <td><a href="https://listjs.com/docs/" target="_blank" rel="noopener noreferrer">
+      listjs.com</a></td>
 <!--(11.2k ⭐) — A vanilla JavaScript library that adds search, sort, filters and flexibility to 
 plain HTML lists, tables, or anything. It can work with existing HTML or create its own 
 HTML from scratch. You can customize the options for value names, item templates, 
 pagination and more.
 -->
-	<td><a href="https://github.com/javve/list.js/blob/master/README.md">
-	  List.js GitHub</a></td>
+    <td><a href="https://github.com/javve/list.js/blob/master/README.md" 
+      target="_blank" rel="noopener noreferrer">
+      List.js GitHub</a></td>
     <td><a href="https://themesbrand.com/velzon/docs/html/listjs.html" target="_blank" 
-	  rel="noopener noreferrer">
-	  LISTJS Docs</a></td>
+      rel="noopener noreferrer">
+      LISTJS Docs</a></td>
     <td><a href="https://listjs.com/examples/existing-list/" target="_blank" rel="noopener noreferrer">
-	  Apply list.js HTML</a></td>
+      Apply list.js HTML</a></td>
   </tr>
   <tr>
     <td><b><a href="https://emersonbottero.github.io/flexsearch/" target="_blank" 
-	  rel="noopener noreferrer">
-	  3. FlexSearch.js</a></b></td>
+      rel="noopener noreferrer">
+      3. FlexSearch.js</a></b></td>
     <td><a href="https://github.com/nextapps-de/flexsearch" target="_blank" rel="noopener noreferrer">
-	  flexsearch</a></td>
+      flexsearch</a></td>
 <!-- (12k ⭐)</td> — A next-generation full-text search library for Browser and Node.js with zero 
 dependencies. It claims to be the web’s fastest and most memory-efficient search library, 
 with features like contextual indexing, document indexing, web workers, and more.
 -->
-	<td><a href="https://github.com/nextapps-de/flexsearch-server" target="_blank" rel="noopener noreferrer">
-	  FlexSearch GH Server</a></td>
-	<td><a href="https://github.com/sormy/flex-js" target="_blank" rel="noopener noreferrer">
-	  flex-js GitHub</a></td>
-	<td><a href="https://www.infoq.com/news/2019/03/flexsearch-fast-full-text-search/ 
-	  target="_blank" rel="noopener noreferrer">
-	  FlexSearch.js</a></td>
+    <td><a href="https://github.com/nextapps-de/flexsearch-server" target="_blank" rel="noopener noreferrer">
+      FlexSearch GH Server</a></td>
+    <td><a href="https://github.com/sormy/flex-js" target="_blank" rel="noopener noreferrer">
+      flex-js GitHub</a></td>
+    <td><a href="https://www.infoq.com/news/2019/03/flexsearch-fast-full-text-search/" 
+      target="_blank" rel="noopener noreferrer">
+      FlexSearch.js</a></td>
   </tr>
   <tr>
     <td><b><a href="https://lunrjs.com/guides/searching.html" target="_blank" rel="noopener noreferrer">
-	  4. Lunr.js</a></b></td>
-	<td><a href="https://lunrjs.com/" target="_blank" rel="noopener noreferrer">
-	  Lunrjs.com</a></td>
+      4. Lunr.js</a></b></td>
+    <td><a href="https://lunrjs.com/" target="_blank" rel="noopener noreferrer">
+      Lunrjs.com</a></td>
 <!-- (8.8k ⭐)</h3> A small, full-text search library for use in the browser or on the server with 
 Node.js. It indexes JSON documents and provides a simple search interface for retrieving 
 documents that best match text queries. It is designed to be easy to set up and use, 
 without the need for external search services.
 -->
-	<td><a href="https://github.com/olivernn/lunr.js" target="_blank" rel="noopener noreferrer">
-	  lunr.js GitHub</a></td>
+    <td><a href="https://github.com/olivernn/lunr.js" target="_blank" rel="noopener noreferrer">
+      lunr.js GitHub</a></td>
     <td><a href="https://olivernn.github.io/moonwalkers/" target="_blank" rel="noopener noreferrer">
-	  Demo</a></td>
-	<td><a href="https://lunrjs.com/guides/getting_started.html  target="_blank" 
-	  rel="noopener noreferrer">
-	  Getting Started</a></td>
+      Demo</a></td>
+    <td><a href="https://lunrjs.com/guides/getting_started.html" target="_blank" rel="noopener noreferrer">
+      Getting Started</a></td>
   </tr>
   <tr>
     <td><b><a href="https://orama.com/" target="_blank" rel="noopener noreferrer">
-	  5. Orama</a></b></td>
+      5. Orama</a></b></td>
     <td><a href="https://docs.orama.com/open-source/" target="_blank" rel="noopener noreferrer">
-	  Welcome to Orama!</a></td>
+      Welcome to Orama!</a></td>
 <!-- (8.2k ⭐) — A fast, batteries-included, full-text search engine entirely written in TypeScript, 
 designed to work on any runtime and has no dependencies. Orama also supports plugins to 
 extend its functionality and integrate with other frameworks.
 -->
-	<td><a href="https://github.com/oramasearch/orama" target="_blank" rel="noopener noreferrer">
-	  GH Orama.com</a></td>
-	<td><a href="https://docs.orama.com/cloud" target="_blank" rel="noopener noreferrer">
-	  Getting Started</a></td>
-	<td><a href="https://nearform.com/insights/advanced-javascript-code-search-with-orama/" 
-	  target="_blank" rel="noopener noreferrer">
-	  Advanced Code Search</a></td>
+    <td><a href="https://github.com/oramasearch/orama" target="_blank" rel="noopener noreferrer">
+      GH Orama.com</a></td>
+    <td><a href="https://docs.orama.com/cloud" target="_blank" rel="noopener noreferrer">
+      Getting Started</a></td>
+    <td><a href="https://nearform.com/insights/advanced-javascript-code-search-with-orama/" 
+      target="_blank" rel="noopener noreferrer">
+      Advanced Code Search</a></td>
   </tr>
   <tr>
     <td><b><a href="https://lucaong.github.io/minisearch/classes/MiniSearch.MiniSearch.html" 
-	  target="_blank" rel="noopener noreferrer">
-	  6. MiniSearch</a></b></td>
+      target="_blank" rel="noopener noreferrer">
+      6. MiniSearch</a></b></td>
     <td><a href="https://makerkit.dev/docs/next-fire/blog-and-docs/search" 
-	  target="_blank" rel="noopener noreferrer">
-	  MiniSearch makerkit</a></td>
+      target="_blank" rel="noopener noreferrer">
+      MiniSearch makerkit</a></td>
 <!-- (4.2k ⭐) — A tiny but powerful in-memory fulltext search engine written in JavaScript. It is 
 respectful of resources, and it can comfortably run both in Node and in the browser. 
 MiniSearch addresses use cases where full-text search features are needed (e.g. prefix 
 search, fuzzy search, ranking, boosting of fields…), but the data to be indexed can fit 
 locally in the process memory.
 -->
-	<td><a href="https://lucaong.github.io/minisearch/" target="_blank" rel="noopener noreferrer">
-	  GH MiniSearch</a></td>
-	<td><a href="https://lucaongaro.eu/blog/2019/01/30/minisearch-client-side-fulltext-search-engine.html"
+    <td><a href="https://lucaong.github.io/minisearch/" target="_blank" rel="noopener noreferrer">
+      GH MiniSearch</a></td>
+    <td><a href="https://lucaongaro.eu/blog/2019/01/30/minisearch-client-side-fulltext-search-engine.html"
       target="_blank" rel="noopener noreferrer">
-	  Search Engine</a></td>
-	<td><a href="https://www.skybluetrades.net/blog/2021/05/2021-05-31-full-text-search-minisearch-alpinejs.html"
-	 target="_blank" rel="noopener noreferrer">
-	 Search MiniSearch</a></td>
+      Search Engine</a></td>
+    <td><a href="https://www.skybluetrades.net/blog/2021/05/2021-05-31-full-text-search-minisearch-alpinejs.html"
+     target="_blank" rel="noopener noreferrer">
+     Search MiniSearch</a></td>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1554,10 +1526,12 @@ color, and stroke width of the patterns.</p>
 <p>A simple online pattern generator to create repeatable SVG patterns. Perfect for 
 website backgrounds, apparel, branding, packaging design and more.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><a href="https://superdesigner.co/tools/patterns target="_blank" rel="noopener noreferrer">Super Designer</a>:</h3>
+<h3><a href="https://superdesigner.co/tools/patterns" target="_blank" rel="noopener noreferrer">Super Designer</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>This tool lets you create Doodle-like patterns using a tile system.</p>
 
+<h2><a href="https://www.monterail.com/blog/javascript-libraries-data-visualization#a:How-to-Choose-the-Right-JavaScript-Data-Visualization-Library" target="_blank" rel="noopener noreferrer">
+18 Top JS Graph Visualization Libraries 2025</a></h2>
 <h7>Date Created: 5/27/2025 10:00p<br>
 Date Last Editted: 5/27/2025 10:41p<br>
 Date Last Editted: 5/28/2025 12:35p<br>
