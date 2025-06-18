@@ -1256,7 +1256,8 @@ Top 6 JavaScript SEARCH Libraries</a></h2>
   </tr>
   <tr>
     <td><b><a href="https://www.fusejs.io/getting-started/installation.html" 
-	  target="_blank" rel="noopener noreferrer">1. Fuse.js</a></b></td>
+	  target="_blank" rel="noopener noreferrer">
+	  1. Fuse.js</a></b></td>
     <td><a href="https://www.fusejs.io" target="_blank" rel="noopener noreferrer">
 	  Fuse.js Website</a></td>
 <!--
@@ -1269,76 +1270,105 @@ to perform approximate string matching on the client-side or the backend, withou
 up a dedicated search service. You can use it to search through arrays of strings or 
 objects, with different options for weighting, nesting, and extended search syntax.<br>
 -->
-    <td><a href="https://www.fusejs.io/examples.html" target="_blank" rel="noopener noreferrer">
-      Fuse.js Examples</a></td>
     <td><a href="https://github.com/krisk/Fuse" target="_blank" rel="noopener noreferrer">
       Fuse.js GitHub</a>.</td>
+    <td><a href="https://www.fusejs.io/examples.html" target="_blank" rel="noopener noreferrer">
+      Fuse.js Examples</a></td>
     <td><a href="https://medium.com/@gurunadhpukkalla/introduction-to-fuse-js-62bc856a2914" target="_blank"
-      rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Fuse.js Introduction</a></td>
+      rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">
+	  Fuse.js Introduction</a></td>
   </tr>
   <tr>
-    <td><b><a href="https://listjs.com/" target="_blank" rel="noopener noreferrer">2. List.js</a></b></td>
-	<td></td>
-	<td>GH List.js</td>
+    <td><b><a href="https://listjs.com/" target="_blank" rel="noopener noreferrer">
+	  2. List.js</a></b></td>
+	<td><a href="https://listjs.com/docs/ target="_blank" rel="noopener noreferrer">
+	  listjs.com</a></td>
 <!--(11.2k ⭐) — A vanilla JavaScript library that adds search, sort, filters and flexibility to 
 plain HTML lists, tables, or anything. It can work with existing HTML or create its own 
 HTML from scratch. You can customize the options for value names, item templates, 
 pagination and more.
 -->
-    <td></td>
+	<td><a href="https://github.com/javve/list.js/blob/master/README.md">
+	  List.js GitHub</a></td>
+    <td><a href="https://themesbrand.com/velzon/docs/html/listjs.html" target="_blank" 
+	  rel="noopener noreferrer">
+	  LISTJS Docs</a></td>
     <td></td>
   </tr>
   <tr>
     <td><b><a href="https://emersonbottero.github.io/flexsearch/" target="_blank" 
-	  rel="noopener noreferrer">3. FlexSearch.js</a></b></td>
-	<td></td>
-	<td><a href="https://github.com/nextapps-de/flexsearch-server" target="_blank" 
-	  rel="noopener noreferrer">FlexSearch GH Server</a></td>
+	  rel="noopener noreferrer">
+	  3. FlexSearch.js</a></b></td>
+    <td><a href="https://github.com/nextapps-de/flexsearch" target="_blank" rel="noopener noreferrer">
+	  flexsearch</a></td>
 <!-- (12k ⭐)</td> — A next-generation full-text search library for Browser and Node.js with zero 
 dependencies. It claims to be the web’s fastest and most memory-efficient search library, 
 with features like contextual indexing, document indexing, web workers, and more.
 -->
-    <td></td>
-	<td></td>
+	<td><a href="https://github.com/nextapps-de/flexsearch-server" target="_blank" rel="noopener noreferrer">
+	  FlexSearch GH Server</a></td>
+	<td><a href="https://github.com/sormy/flex-js" target="_blank" rel="noopener noreferrer">
+	  flex-js GitHub</a></td>
+	<td><a href="https://www.infoq.com/news/2019/03/flexsearch-fast-full-text-search/ 
+	  target="_blank" rel="noopener noreferrer">
+	  FlexSearch.js</a></td>
   </tr>
   <tr>
-    <td><b><a href="https://lunrjs.com/guides/searching.html" target="_blank" 
-	  rel="noopener noreferrer">4. Lunr.js</a></b></td>
-	<td></td>
-	<td>GH Lunr.js</td>
+    <td><b><a href="https://lunrjs.com/guides/searching.html" target="_blank" rel="noopener noreferrer">
+	  4. Lunr.js</a></b></td>
+	<td><a href="https://lunrjs.com/" target="_blank" rel="noopener noreferrer">
+	  Lunrjs.com</a></td>
 <!-- (8.8k ⭐)</h3> A small, full-text search library for use in the browser or on the server with 
 Node.js. It indexes JSON documents and provides a simple search interface for retrieving 
 documents that best match text queries. It is designed to be easy to set up and use, 
 without the need for external search services.
 -->
-    <td></td>
-	<td></td>
-  </tr>
+	<td><a href="https://github.com/olivernn/lunr.js" target="_blank" rel="noopener noreferrer">
+	  lunr.js GitHub</a></td>
+    <td><a href="https://olivernn.github.io/moonwalkers/" target="_blank" rel="noopener noreferrer">
+	  Demo</a></td>
+	<td><a href="https://lunrjs.com/guides/getting_started.html  target="_blank" 
+	  rel="noopener noreferrer">
+	  Getting Started</a></td>
   </tr>
   <tr>
-    <td><b><a href="https://orama.com/" target="_blank" rel="noopener noreferrer">5. Orama</a></b></td>
-    <td></td>
-	<td>GH Orama.com</td>
+    <td><b><a href="https://orama.com/" target="_blank" rel="noopener noreferrer">
+	  5. Orama</a></b></td>
+    <td><a href="https://docs.orama.com/open-source/" target="_blank" rel="noopener noreferrer">
+	  Welcome to Orama!</a></td>
 <!-- (8.2k ⭐) — A fast, batteries-included, full-text search engine entirely written in TypeScript, 
 designed to work on any runtime and has no dependencies. Orama also supports plugins to 
 extend its functionality and integrate with other frameworks.
 -->
-	<td></td>
-	<td></td>
+	<td><a href="https://github.com/oramasearch/orama" target="_blank" rel="noopener noreferrer">
+	  GH Orama.com</a></td>
+	<td><a href="https://docs.orama.com/cloud" target="_blank" rel="noopener noreferrer">
+	  Getting Started</a></td>
+	<td><a href="https://nearform.com/insights/advanced-javascript-code-search-with-orama/" 
+	  target="_blank" rel="noopener noreferrer">
+	  Advanced Code Search</a></td>
   </tr>
   <tr>
     <td><b><a href="https://lucaong.github.io/minisearch/classes/MiniSearch.MiniSearch.html" 
-	  target="_blank" rel="noopener noreferrer">6. MiniSearch</a></b></td>
-    <td></td>
-	<td>GH MiniSearch</td>
+	  target="_blank" rel="noopener noreferrer">
+	  6. MiniSearch</a></b></td>
+    <td><a href="https://makerkit.dev/docs/next-fire/blog-and-docs/search" 
+	  target="_blank" rel="noopener noreferrer">
+	  MiniSearch makerkit</a></td>
 <!-- (4.2k ⭐) — A tiny but powerful in-memory fulltext search engine written in JavaScript. It is 
 respectful of resources, and it can comfortably run both in Node and in the browser. 
 MiniSearch addresses use cases where full-text search features are needed (e.g. prefix 
 search, fuzzy search, ranking, boosting of fields…), but the data to be indexed can fit 
 locally in the process memory.
 -->
-    <td></td>
-	<td></td>
+	<td><a href="https://lucaong.github.io/minisearch/" target="_blank" rel="noopener noreferrer">
+	  GH MiniSearch</a></td>
+	<td><a href="https://lucaongaro.eu/blog/2019/01/30/minisearch-client-side-fulltext-search-engine.html"
+      target="_blank" rel="noopener noreferrer">
+	  Search Engine</a></td>
+	<td><a href="https://www.skybluetrades.net/blog/2021/05/2021-05-31-full-text-search-minisearch-alpinejs.html"
+	 target="_blank" rel="noopener noreferrer">
+	 Search MiniSearch</a></td>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1361,8 +1391,8 @@ and frameworks available today:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>1. <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">jQuery</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><b><mark>jQuery</mark></b> is a fast, lightweight, and feature-rich JavaScript library that 
-simplifies HTML document traversal, event handling, and animation. It provides an 
+<p><b><mark>jQuery</mark></b> is a fast, lightweight, and feature-rich JavaScript library 
+that simplifies HTML document traversal, event handling, and animation. It provides an 
 intuitive and concise API that enables developers to manipulate the DOM, handle events, 
 perform AJAX requests, create animations, and more. jQuery's popularity stems from its 
 ability to abstract away the complexities of cross-browser compatibility and provide an 
@@ -1370,23 +1400,23 @@ easy-to-use interface for common JavaScript operations.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>2. <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><b><mark>React</mark></b> is a powerful JavaScript library developed by Facebook for building user 
-interfaces. It adopts a component-based architecture, allowing developers to build 
-reusable UI components and efficiently update and render them as the application's state 
-changes. React leverages a virtual DOM, which minimizes actual DOM manipulations and 
-optimizes performance. React's popularity is driven by its simplicity, performance, 
-and thriving ecosystem.</p>
+<p><b><mark>React</mark></b> is a powerful JavaScript library developed by Facebook for 
+building user interfaces. It adopts a component-based architecture, allowing developers 
+to build reusable UI components and efficiently update and render them as the application's 
+state changes. React leverages a virtual DOM, which minimizes actual DOM manipulations and 
+optimizes performance. React's popularity is driven by its simplicity, performance, and 
+thriving ecosystem.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>3. <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">Vue.js</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><b><mark>Vue.js</mark></b> is a progressive JavaScript framework that excels in building user 
-interfaces. It boasts a gentle learning curve, making it accessible to newcomers, while 
-providing advanced features for seasoned developers. Vue.js embraces a component-based 
-development approach, where complex user interfaces are constructed by composing self-
-contained and reusable components. It offers powerful features such as declarative 
-rendering, two-way data binding, computed properties, and a sophisticated reactivity 
-system. Vue.js's versatility and ease of integration with existing projects have 
-contributed to its popularity.</p>
+<p><b><mark>Vue.js</mark></b> is a progressive JavaScript framework that excels in 
+building user interfaces. It boasts a gentle learning curve, making it accessible to 
+newcomers, while providing advanced features for seasoned developers. Vue.js embraces a 
+component-based development approach, where complex user interfaces are constructed by 
+composing self-contained and reusable components. It offers powerful features such as 
+declarative rendering, two-way data binding, computed properties, and a sophisticated 
+reactivity system. Vue.js's versatility and ease of integration with existing projects 
+have contributed to its popularity.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Introduction to jQuery, React, and Vue.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1397,41 +1427,47 @@ libraries and frameworks: <b><mark>jQuery, React, and Vue.js</mark></b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Simplified DOM Manipulation:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>jQuery provides a unified and streamlined API for <b><mark>DOM manipulation</mark></b>, 
-making it effortless to select and modify HTML elements, handle events, and traverse the 
-DOM tree.</p>
+<p><b><mark>jQuery</mark></b> provides a unified and streamlined API for 
+<b><mark>DOM manipulation</mark></b>, making it effortless to <b><mark>select and modify 
+HTML elements, handle events, and traverse the DOM tree</mark></b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Cross-Browser Compatibility:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>jQuery abstracts away the differences in browser implementations, ensuring consistent behavior 
-and easing the pain of dealing with browser quirks and inconsistencies.</p>
+<p><b><mark>jQuery</mark></b> abstracts away the differences in browser implementations, 
+ensuring consistent behavior and easing the pain of dealing with browser quirks and 
+inconsistencies.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>AJAX</h3>
+<h3>AJAX:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>jQuery simplifies <b><mark>AJAX</mark></b> communication by providing a set of convenient 
-methods for making asynchronous requests to servers, handling responses, and updating 
-content on the webpage dynamically. Rich Plugin Ecosystem: jQuery boasts a vast 
-ecosystem of plugins that extend its functionality. These plugins cover a wide range of 
-use cases, from UI widgets and effects to data visualization and form validation.</p>
+<p><b><mark>jQuery</mark></b> simplifies <b><mark>AJAX</mark></b> communication by 
+providing a set of convenient methods for making asynchronous requests to servers, 
+handling responses, and updating content on the webpage dynamically.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Rich Plugin Ecosystem:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p><b><mark>jQuery</mark></b> boasts a vast ecosystem of plugins that extend its 
+functionality. These plugins cover a wide range of use cases, from UI widgets and 
+effects to data visualization and form validation.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>React Component-Based Architecture:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>React revolutionized the web development landscape with its <b><mark>component-based 
-architecture</mark></b>. Components encapsulate the logic and presentation of UI elements, 
-allowing for modular development, code reusability, and easier testing.</p>
+<p><b><mark>React</mark></b> revolutionized the web development landscape with its 
+<b><mark>component-based architecture</mark></b>. Components encapsulate the logic and 
+presentation of UI elements, allowing for modular development, code reusability, and 
+easier testing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Virtual DOM:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>React employs a <b><mark>virtual DOM</mark></b>, a lightweight in-memory representation of the
-actual DOM. By using a virtual DOM, React optimizes rendering performance by selectively
-updating only the necessary parts of the UI, resulting in efficient and responsive
-applications.</p>
+<p><b><mark>React</mark></b> employs a <b><mark>virtual DOM</mark></b>, a lightweight 
+in-memory representation of the actual DOM. By using a virtual DOM, React optimizes 
+rendering performance by selectively updating only the necessary parts of the UI, 
+resulting in efficient and responsive applications.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Unidirectional Data Flow:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><b><mark>React</mark></b> promotes a <b><mark>unidirectional data flow</mark></b>, where data flows 
-from parent components to child components. This one-way data binding simplifies 
-debugging, improves code predictability, and reduces side effects.</p>
+<p><b><mark>React</mark></b> promotes a <b><mark>unidirectional data flow</mark></b>, 
+where data flows from parent components to child components. This one-way data binding 
+simplifies debugging, improves code predictability, and reduces side effects.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>React Native:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1457,9 +1493,10 @@ at hand.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Vue Router and Vuex:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Vue.js offers official plugins, such as Vue Router and Vuex, that seamlessly integrate 
-with the framework. Vue Router facilitates navigation between different views in a Vue.js 
-application, while Vuex provides a state management pattern for managing application-wide data.</p>
+<p><b><mark>Vue.js</mark></b> offers official plugins, such as <b><mark>Vue Router</mark></b> and 
+<b><mark>Vuex</mark></b>, that seamlessly integrate with the framework. Vue 
+Router facilitates navigation between different views in a Vue.js application, 
+while Vuex provides a state management pattern for managing application-wide data.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="8-js-game-engines"><a href="https://www.geeksforgeeks.org/8-best-javascript-game-engines/" 
 target="_blank" rel="noopener noreferrer">8 Best JS Game Engines</a>.</h2>
