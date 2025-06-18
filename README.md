@@ -783,11 +783,84 @@ libraries for Image and 3-D Effects for the Canvas Element: •</h2>
     <th>Desc'n</th>
   </tr>
   <tr>
-    <td><b>1st Info Graphics</b></td>
-    <td>Website for 1st Info Graphics</td>
-    <td>GH for 1st Info Graphics</td>
-    <td>Demo/Example for 1st Info Graphics</td>
-    <td>Desc'n</td>
+    <td><b>Chart.js</b></td>
+    <td><a href="https://www.monterail.com/blog/javascript-libraries-data-visualization#ten" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>JS library for responsive data visualizations</td>
+  </tr>
+  <tr>
+    <td><b>GOJS</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>JS library for building interative diagrams &amp; graphs</td>
+  </tr>
+  <tr>
+    <td><b>Highcharts</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>A charting library written in pure JS</td>
+  </tr>
+  <tr>
+    <td><b>Vue.js</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Library framework for building user interfaces</td>
+  </tr>
+  <tr>
+    <td><b>Ember Data</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>DB library that comes with Ember.js</td>
+  </tr>
+  <tr>
+    <td><b>Recharts</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Lightweight JS library for interactive charts</td>
+  </tr>
+  <tr>
+    <td><b>amCharts</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Commercial JS library for interactive charts &amp; maps</td>
+  </tr>
+  <tr>
+    <td><b>ApexCharts</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>Charting library for responsive charts</td>
+  </tr>
+  <tr>
+    <td><b>Backbone.js</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>A JS library for building web apps following M-V-P design</td>
+  </tr>
+  <tr>
+    <td><b>C3.js</b></td>
+    <td><a href="" 
+      target="_blank" rel="noopener noreferrer">Website</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
+    <td>A JS library for building reusable charts</td>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -999,94 +1072,6 @@ libraries for Image and 3-D Effects for the Canvas Element: •</h2>
     <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
     <td>NoSQL dbms using JSON-like documents, often with Node.js</td>
   </tr>
-  <tr>
-    <td><b>Other Notables Libraries</b></td>
-    <td><a href="" 
-      target="_blank" rel="noopener noreferrer">Website</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
-    <td>Description</td>
-  </tr>
-  <tr>
-    <td><b>Chart.js</b></td>
-    <td><a href="https://www.monterail.com/blog/javascript-libraries-data-visualization#ten" 
-      target="_blank" rel="noopener noreferrer">Website</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
-    <td>JS library for responsive data visualizations</td>
-  </tr>
-  <tr>
-    <td><b>GOJS</b></td>
-    <td><a href="" 
-      target="_blank" rel="noopener noreferrer">Website</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
-    <td>JS library for building interative diagrams &amp; graphs</td>
-  </tr>
-  <tr>
-    <td><b>Highcharts</b></td>
-    <td><a href="" 
-      target="_blank" rel="noopener noreferrer">Website</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
-    <td>A charting library written in pure JS</td>
-  </tr>
-  <tr>
-    <td><b>Vue.js</b></td>
-    <td><a href="" 
-      target="_blank" rel="noopener noreferrer">Website</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
-    <td>Library framework for building user interfaces</td>
-  </tr>
-  <tr>
-    <td><b>Ember Data</b></td>
-    <td><a href="" 
-      target="_blank" rel="noopener noreferrer">Website</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
-    <td>DB library that comes with Ember.js</td>
-  </tr>
-  <tr>
-    <td><b>Recharts</b></td>
-    <td><a href="" 
-      target="_blank" rel="noopener noreferrer">Website</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
-    <td>Lightweight JS library for interactive charts</td>
-  </tr>
-  <tr>
-    <td><b>amCharts</b></td>
-    <td><a href="" 
-      target="_blank" rel="noopener noreferrer">Website</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
-    <td>Commercial JS library for interactive charts &amp; maps</td>
-  </tr>
-  <tr>
-    <td><b>ApexCharts</b></td>
-    <td><a href="" 
-      target="_blank" rel="noopener noreferrer">Website</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
-    <td>Charting library for responsive charts</td>
-  </tr>
-  <tr>
-    <td><b>Backbone.js</b></td>
-    <td><a href="" 
-      target="_blank" rel="noopener noreferrer">Website</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
-    <td>A JS library for building web apps following M-V-P design</td>
-  </tr>
-  <tr>
-    <td><b>C3.js</b></td>
-    <td><a href="" 
-      target="_blank" rel="noopener noreferrer">Website</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
-    <td>A JS library for building reusable charts</td>
-  </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="9-touch-gestures">• Touch Gestures #9 JavaScript libraries for Touch Gestures: •</h2>
@@ -1132,10 +1117,15 @@ libraries for Image and 3-D Effects for the Canvas Element: •</h2>
   </tr>
   <tr>
     <td><b>fancyBox</b></td>
-    <td><a href="http://fancybox.net/" target="_blank" rel="noopener noreferrer">Website shortcut</a></td>
-    <td><a href="https://github.com/fancyapps/fancybox" target="_blank" rel="noopener noreferrer">fancyBox GH</a></td>
-    <td><a href="https://fancyapps.com/fancybox/getting-started/" target="_blank" rel="noopener noreferrer">Demo/Example</a></td>
-    <td><b>Discontinued</b>. jQuery lightbox scripts</td>
+    <td><a href="http://fancybox.net/" target="_blank" rel="noopener noreferrer">
+	  fancybox.net</a></td>
+    <td><a href="https://github.com/fancyapps/fancybox" target="_blank" rel="noopener noreferrer">
+	  fancyBox GH</a></td>
+    <td><a href="https://fancyapps.com/fancybox/getting-started/" target="_blank" 
+	  rel="noopener noreferrer">
+	  Get Started</a></td>
+    <td><a href="https://fancyapps.com/" target="_blank" rel="noopener noreferrer">
+	  <b>Discontinued</b>. jQuery lightbox scripts</a></td>
   </tr>
   <tr>
     <td><b>Slideout</b></td>
