@@ -1293,7 +1293,8 @@ pagination and more.
     <td><a href="https://themesbrand.com/velzon/docs/html/listjs.html" target="_blank" 
 	  rel="noopener noreferrer">
 	  LISTJS Docs</a></td>
-    <td></td>
+    <td><a href="https://listjs.com/examples/existing-list/" target="_blank" rel="noopener noreferrer">
+	  Apply list.js HTML</a></td>
   </tr>
   <tr>
     <td><b><a href="https://emersonbottero.github.io/flexsearch/" target="_blank" 
