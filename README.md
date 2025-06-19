@@ -460,7 +460,7 @@ user-centric forms, offering an unparalleled development experience.</p>
   <tr>
     <td><b>Balyon.js</b></td>
     <td><a href="https://www.babylonjs.com/">babylonjs.com</a></td>
-    <td><a href="">GH</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">GH</a></td>
     <td>"Gangs of Space" &amp; "The Legend of Zelda: Ocarina of Time"</td>
     <td>Another powerful 3-D engine</td>
   </tr>
@@ -469,14 +469,7 @@ user-centric forms, offering an unparalleled development experience.</p>
     <td>PlayCanvas</td>
     <td>GH</td>
     <td>"Lumberjack" &amp; "Gundam Battle"</td>
-    <td>Desc'n</td>
-  </tr>
-  <tr>
-    <td><b>PIXI.js</b></td>
-    <td>Pixi.js</td>
-    <td>GH</td>
-    <td>Demo</td>
-    <td>Desc'n</td>
+    <td></td>
   </tr>
   <tr>
     <td><b>Coco2d-JS</b></td>
@@ -490,7 +483,35 @@ user-centric forms, offering an unparalleled development experience.</p>
     <td>MelonJS</td>
     <td>GH</td>
     <td>"Grape Escape" &amp; "Box2D"</td>
-    <td>Desc'n</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Phaser</b></td>
+    <td></td>
+    <td>GH</td>
+    <td>"Candy Crush Saga"-partially, "Slither.io"</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Three.js</b></td>
+    <td></td>
+    <td>GH</td>
+    <td>"A-Frame", "Google Chrome Experiments"</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>PlayCanvas</b></td>
+    <td></td>
+    <td>GH</td>
+    <td>"Lumberjack","Gundam Battle"</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>PIXI.js</b></td>
+    <td></td>
+    <td>GH</td>
+    <td>"Super Mario 64 HD", "Frogger"</td>
+    <td></td>
   </tr>
 </table>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1511,20 +1532,23 @@ individual pattern.</p>
 <p>This tool allows users to customize seamless patterns, change the size, rotation, 
 color, and stroke width of the patterns.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><a href="https://pattern.monster/" target="_blank" rel="noopener noreferrer">SVG Pattern Monster</a>:</h3>
+<h3><a href="https://pattern.monster/" target="_blank" rel="noopener noreferrer">
+SVG Pattern Monster</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A simple online pattern generator to create repeatable SVG patterns. Perfect for 
 website backgrounds, apparel, branding, packaging design and more.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><a href="https://superdesigner.co/tools/patterns" target="_blank" rel="noopener noreferrer">Super Designer</a>:</h3>
+<h3><a href="https://superdesigner.co/tools/patterns" target="_blank" rel="noopener noreferrer">
+Super Designer</a>:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>This tool lets you create Doodle-like patterns using a tile system.</p>
 
 <h2><a href="https://www.monterail.com/blog/javascript-libraries-data-visualization#a:How-to-Choose-the-Right-JavaScript-Data-Visualization-Library" target="_blank" rel="noopener noreferrer">
 18 Top JS Graph Visualization Libraries 2025</a></h2>
-<h7>Date Created: 5/27/2025 10:00p<br>
+<h6>Date Created: 5/27/2025 10:00p<br>
 Date Last Editted: 5/27/2025 10:41p<br>
 Date Last Editted: 5/28/2025 12:35p<br>
 Date Last Editted: 6/05/2025 4:19p<br>
 Date Last Editted: 6/11/2025 12:32p<br>
-Date Last Editted: 6/15/2025 10:41p</h7>
+Date Last Editted: 6/15/2025 10:41p<br>
+Date Last Editted: 6/19/2025 3:39p</h6>
