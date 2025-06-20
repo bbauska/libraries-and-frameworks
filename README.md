@@ -126,7 +126,7 @@ categories include the following:</h3>
 creation and management. Utilizing JSON for data input, it generates dynamic, 
 user-centric forms, offering an unparalleled development experience.</p>
 -->
-<table style="width:75%">
+<table style="width:75%" border="!">
   <tr>
     <th>Name</th>
     <th>Website</th>
