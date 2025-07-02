@@ -1,17 +1,18 @@
-<!-- css/styles.css of libraries-and-frameworks -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~ css/styles.css of libraries-and-frameworks making libs-frames.bauska.org ~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 thead {
-	border-block-end: 2px solid;
-	background: whitesmoke;
+  border-block-end: 2px solid;
+  background: whitesmoke;
 }
 tfoot {
-	border-block: 2px solid;
-	background: whitesmoke;
+  border-block: 2px solid;
+  background: whitesmoke;
 }
 th,
 td {
-	border: .5px solid lightgrey;
-	padding: 0.25rem 0.50rem;
+  border: .5px solid lightgrey;
+  padding: 0.25rem 0.50rem;
 }
 
 img.displayed {
