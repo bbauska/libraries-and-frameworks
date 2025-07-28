@@ -1,5 +1,6 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!-- README.md of https://github.com/bbauska/libraries-and-frameworks -->
+<!--~~~~~~~~~~~~ README.md of https://github.com/bbauska/libraries-and-frameworks ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="libs-and-frames">JavaScript libraries and frameworks</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Libraries and Frameworks in Web Front-End Development</h2>
@@ -80,22 +81,24 @@ you need.</p>
 jQuery and Other Libraries</a></h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>As of this writing, the overwhelmingly dominant JavaScript library is <b><mark>jQuery 
-(jquery.com)</mark></b>. Chances are, if you use a library, it will be that one (or at least 
-that one first). Written in 2005 by John Resig, jQuery has found its way into over 
+(jquery.com)</mark></b>. Chances are, if you use a library, it will be that one (or at 
+least that one first). Written in 2005 by John Resig, jQuery has found its way into over 
 two-thirds of all websites. Furthermore, if a site uses a library at all, there is a 97% 
 chance that it’s jQuery.</p>
 
-<p>It is free, it’s open source, and it employs a syntax that makes it easy to use if you are 
-already handy with CSS, JavaScript, and the DOM. You can supplement jQuery with the jQuery UI 
-library, which adds cool interface elements such as calendar widgets, drag-and-drop functionality, 
-expanding accordion lists, and simple animation effects. jQuery Mobile is another jQuery-based
-library that provides UI elements and polyfills designed to account for the variety of mobile 
-browsers and their notorious quirks.</p>
+<p>It is free, it’s open source, and it employs a syntax that makes it easy to use if you 
+are already handy with CSS, JavaScript, and the DOM. You can supplement jQuery with the 
+jQuery UI library, which adds cool interface elements such as calendar widgets, drag-
+and-drop functionality, expanding accordion lists, and simple animation effects. jQuery 
+Mobile is another jQuery-based library that provides UI elements and polyfills designed 
+to account for the variety of mobile browsers and their notorious quirks.</p>
 
 <p>Of course, jQuery isn’t the only library in town. Others include 
-<b><mark>(<a href="https://mootools.net/" target="_blank" rel="noopener noreferrer">MooTools mootools.net</a>)</mark></b>, 
-<b><mark><a href="https://dojotoolkit.org/" target="_blank" rel="noopener noreferrer">Dojo (dojotoolkit.org)</a></mark></b>, and 
-<b><mark><a href="http://prototypejs.org/" target="_blank" rel="noopener noreferrer">Prototype (prototypejs.org)</a></mark></b>. 
+<b><mark>(<a href="https://mootools.net/" target="_blank" rel="noopener noreferrer">
+MooTools mootools.net</a>)</mark></b>, 
+<b><mark><a href="https://dojotoolkit.org/" target="_blank" rel="noopener noreferrer">
+Dojo (dojotoolkit.org)</a></mark></b>, and <b><mark><a href="http://prototypejs.org/" 
+target="_blank" rel="noopener noreferrer">Prototype (prototypejs.org)</a></mark></b>. 
 As for smaller JS libraries that handle specialized functions, because they are being 
 created and made obsolete all the time, I recommend doing a web search for it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -119,7 +122,7 @@ categories include the following:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="1-forms">• Forms #1 JavaScript libraries for <b>Forms</b>: •</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <h3>Forms.js</h3>  -->
+<!-- Forms.js  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--
 <p>Is an advanced, lightweight JavaScript library designed to ease form 
@@ -146,8 +149,7 @@ user-centric forms, offering an unparalleled development experience.</p>
     <td>JSON</td>
   </tr>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <!--  <h4>SurveyJS</h4>  -->
-  <!--    <td>Automate forms workflow and retain full ownership of respondent data.</td>  -->
+  <!-- SurveyJS - Automate forms workflow and retain full ownership of respondent data.  -->
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b><a href="https://surveyjs.io/" target="_blank" rel="noopener noreferrer">
@@ -161,8 +163,7 @@ user-centric forms, offering an unparalleled development experience.</p>
     <td>JSON</td>
   </tr>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <!--  <h4>Parsley JS</h4>  -->
-  <!-- <td>Form validation library</td>  -->
+  <!-- Parsley JS - Form validation library  -->
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b><a href="https://parsleyjs.org" target="_blank" rel="noopener noreferrer">
@@ -176,8 +177,7 @@ user-centric forms, offering an unparalleled development experience.</p>
     <td>JS</td>
   </tr>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <!--  <h4>Form validation</h4>  -->
-  <!--    <td>Form validation library</td>  -->
+  <!-- Form validation - Form validation library  -->
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <tr>
     <td><b><a href="https://formvalidation.io/" target="_blank" rel="noopener noreferrer">
