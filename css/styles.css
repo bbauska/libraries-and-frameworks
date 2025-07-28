@@ -5,15 +5,15 @@ table {
 }
 thead {
   border-block-end: 2px solid;
-  background: whitesmoke;
+  background: #f5f5f5;  /* very light gray */
 }
 tfoot {
   border-block: 2px solid;
-  background: whitesmoke;
+  background: #f5f5f5;  /* very light gray */
 }
 th,
 td {
-  border: .5px solid lightgrey;
+  border: .5px solid #d3d3d3;  /* light gray */
   padding: 0.25rem 0.50rem;
 }
 
@@ -53,13 +53,13 @@ cite {
   margin-left: 15px;  /* 10px */
 }
 a:link {
-  color: #555;  /* very dark green */
+  color: #555555;  /* very dark gray */
   background-color: transparent;
   text-decoration: none;
 }
 a {
-  color: yellow;
-  background-color: black;
+  color: #ffff00;  /* pure yellow */
+  background-color: #000000;  /* black */
 }
 a:visited {
   color: #037d50;  /* lime green, next: 0000ff: pure (or mostly pure) blue, was: dark red: #a5682a */
@@ -75,7 +75,7 @@ a:hover {
 a[href]:hover {
   text-decoration: none; 
   text-decoration-style: double;
-  background-color: hotpink;
+  background-color: #013220;  /* dark green, was: hotpink */
 }
 
 div {
@@ -120,7 +120,7 @@ details {
 details > summary {
   padding: 2px 6px;
   width: 12em;  /* 12em; */
-  background-color: #eee;  /* very light gray */
+  background-color: #eeeeee;  /* very light gray */
   border: none;
   box-shadow: 3px 3px 4px #00008b;  /* dark blue */
   cursor: pointer;
@@ -128,13 +128,13 @@ details > summary {
 }
 details > p {
   border-radius: 0 0 10px 10px;
-  background-color: #fff;  /* white */
+  background-color: #ffffff;  /* white */
   padding: 2px 6px;
   margin: 0;
   box-shadow: 3px 3px 4px #00008b;  /* dark blue*/
 }
 details[open] > summary {
-  background-color: yellow;
+  background-color: #ffff00;  /* pure yellow */
 }
 
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
@@ -142,15 +142,15 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
 body {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   font-size: 14.5px;  /* 1.2rem; */
-  background-color: #eee;  /* very light gray */
+  background-color: #eeeeee;  /* very light gray */
   color: #000000;  /* black */
   text-align: left;
   padding: 10px;
   margin: 15px;  /* was margin-left: 10px; */
 }
 .mark {
-  background-color: lightblue;
-  color: green;
+  background-color: #add8e6;  /* very soft cyan */
+  color: #00ff00;  /* pure lime green */
 }
 #myBtn {
   display: none;
@@ -168,7 +168,7 @@ body {
   border-radius: 1px;
 }
 #myBtn:hover {
-  background-color: #555;  /* very dark gray */
+  background-color: #555555;  /* very dark gray */
 }
 
 pre > code {
@@ -178,36 +178,36 @@ pre > code {
   word-wrap: normal;
 }
 pre {
-  font:normal normal 10px/12px consolas,Courier,Monospace;
-  background-color:#eee;
-  overflow:auto;
-  margin:0 0 1em;
-  padding:.5em 1em;
+  font: normal normal 10px/12px consolas,Courier,Monospace;
+  background-color: #eeeeee;  /* very light gray */
+  overflow: auto;
+  margin: 0 0 1em;
+  padding: .5em 1em;
   white-space: pre-wraps;
   overflow-x: auto;
 }
 pre code,
 pre .line-number {
   /* Ukuran line-height antara teks di dalam tag <code> dan <span class="line-number"> harus sama! */
-  font:normal normal 10px/12px consolas,Courier,Monospace;
-  color:black;
-  display:block;
+  font: normal normal 10px/12px consolas,Courier,Monospace;
+  color: #000000;  /* black */
+  display: block;
 }
 pre .line-number {
-  font:normal normal 10px/12px consolas,Courier,Monospace;
+  font: normal normal 10px/12px consolas,Courier,Monospace;
   float:left;
   margin:0 1em 0 -1em;
-  border-right:1px solid;
-  text-align:right;
-  color: red;
+  border-right: 1px solid;
+  text-align: right;
+  color: #ff0000;  /* pure red */
 }
 pre .line-number span {
-  display:block;
-  padding:0 .5em 0 1em;
+  display: block;
+  padding: 0 .5em 0 1em;
 }
 pre .cl {
-  display:block;
-  clear:both;
+  display: block;
+  clear: both;
 }
 pre {
   width: 400px;
@@ -227,21 +227,21 @@ pre:hover, pre:focus {
 
 /* unvisited link */
 a:link {
-  color: red;
+  color: #ff0000;  /* pure red */
 }
 
 /* visited link */
 a:visited {
-  color: darkgreen;
+  color: #013220;  /* very dark cyan - lime green */
 }
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
+  color: #ff69b4;  /* very light pink */
 }
 
 /* selected link */
 a:active {
-  color: lightblue;
+  color: #add8e6;  /* very light cyan */
 }
 /* end */
