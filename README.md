@@ -1238,21 +1238,21 @@ Top 6 JavaScript SEARCH Libraries</a></h2>
     <th>Short Desc'n</th>
   </tr>
   <tr>
+  <!--
+  JavaScript search libraries are tools that enable you to perform full-text search on 
+  data using JavaScript, either on the browser or on the server. They can help you create 
+  fast and user-friendly search experiences for your web applications, without relying on 
+  external search services or databases.
+  — Fuse.js - A powerful, lightweight fuzzy-search library, with zero dependencies. It allows you 
+  to perform approximate string matching on the client-side or the backend, without setting 
+  up a dedicated search service. You can use it to search through arrays of strings or 
+  objects, with different options for weighting, nesting, and extended search syntax.
+  -->
     <td><b><a href="https://www.fusejs.io/getting-started/installation.html" 
       target="_blank" rel="noopener noreferrer">
       1. Fuse.js</a></b></td>
     <td><a href="https://www.fusejs.io" target="_blank" rel="noopener noreferrer">
       Fuse.js Website</a></td>
-<!--
-<p>JavaScript search libraries are tools that enable you to perform full-text search on 
-data using JavaScript, either on the browser or on the server. They can help you create 
-fast and user-friendly search experiences for your web applications, without relying on 
-external search services or databases.</p>
-<p>— A powerful, lightweight fuzzy-search library, with zero dependencies. It allows you 
-to perform approximate string matching on the client-side or the backend, without setting 
-up a dedicated search service. You can use it to search through arrays of strings or 
-objects, with different options for weighting, nesting, and extended search syntax.<br>
--->
     <td><a href="https://github.com/krisk/Fuse" target="_blank" rel="noopener noreferrer">
       Fuse.js GitHub</a>.</td>
     <td><a href="https://www.fusejs.io/examples.html" target="_blank" rel="noopener noreferrer">
@@ -1303,10 +1303,10 @@ with features like contextual indexing, document indexing, web workers, and more
       4. Lunr.js</a></b></td>
     <td><a href="https://lunrjs.com/" target="_blank" rel="noopener noreferrer">
       Lunrjs.com</a></td>
-<!-- (8.8k ⭐)</h3> A small, full-text search library for use in the browser or on the server with 
-Node.js. It indexes JSON documents and provides a simple search interface for retrieving 
-documents that best match text queries. It is designed to be easy to set up and use, 
-without the need for external search services.
+  <!-- (8.8k ⭐) - A small, full-text search library for use in the browser or on the server with 
+  Node.js. It indexes JSON documents and provides a simple search interface for retrieving 
+  documents that best match text queries. It is designed to be easy to set up and use, 
+  without the need for external search services.
 -->
     <td><a href="https://github.com/olivernn/lunr.js" target="_blank" rel="noopener noreferrer">
       lunr.js GitHub</a></td>
@@ -1484,6 +1484,31 @@ while Vuex provides a state management pattern for managing application-wide dat
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="8-js-game-engines"><a href="https://www.geeksforgeeks.org/8-best-javascript-game-engines/" 
 target="_blank" rel="noopener noreferrer">8 Best JS Game Engines</a>.</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>To make an API call in JavaScript, the most modern and recommended method is to use the <b>fetch() API</b>, 
+which is promise-based and easy to use. Here's a simple example of a <b>GET request</b>:</p>
+<pre>
+async function 
+  getData() { const response = await fetch('https://api.example.com/data'); 
+  if (!response.ok) { 
+    throw new Error('Network response was not ok'); 
+  } 
+  const data = await response.json(); 
+  console.log(data); 
+} 
+</pre>
+<p>For POST requests, you can include options like method, headers, and body:</p>
+<pre>
+fetch('https://api.example.com/data', 
+  { method: 'POST', headers: 
+    { 'Content-Type': 'application/json' }, 
+	  body: JSON.stringify({ key: 'value' }) 
+  }) 
+  .then(response =&gt; response.json()) 
+  .then(data =&gt; console.log(data)) 
+  .catch(error =&gt; console.error('Error:', error)); 
+</pre>
+<p>Alternatively, libraries like Axios simplify API calls and handle JSON parsing automatically.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="4-ways-api-call"><a href="https://www.geeksforgeeks.org/ways-to-make-an-api-call-in-javascript/" 
 target="_blank" rel="noopener noreferrer">4 Ways to make an API call in JavaScript</a>.</h2>
