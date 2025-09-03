@@ -244,4 +244,16 @@ a:hover {
 a:active {
   color: #add8e6;  /* very light cyan */
 }
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 /* end */
