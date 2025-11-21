@@ -232,7 +232,7 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: #013220;  /* very dark cyan - lime green */
+  color: #100694;  /* dark blue; prior was 013220 = very dark cyan - lime green */
 }
 
 /* mouse over link */
@@ -242,7 +242,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: #add8e6;  /* very light cyan */
+  color: #add8e6;  /* add8e6 = very light cyan */
 }
 
 .column {
